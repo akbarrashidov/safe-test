@@ -6,7 +6,7 @@ services:
     runtime: docker
     rootDir: backend
     plan: free
-    healthCheckPath: /api/tests/
+    healthCheckPath: /api/health/
     envVars:
       # Mavjud Postgres'ning INTERNAL Database URL'i (yaratishda so'raladi)
       - key: DATABASE_URL
