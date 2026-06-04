@@ -1,0 +1,33 @@
+# Render Blueprint — "New -> Blueprint" orqali deploy qilinadi.
+# Barcha servis sozlamalari shu yerda: Docker, backend papka, env'lar.
+services:
+  - type: web
+    name: safe-test
+    runtime: docker
+    rootDir: backend
+    plan: free
+    healthCheckPath: /api/tests/
+    envVars:
+      # Mavjud Postgres'ning INTERNAL Database URL'i (yaratishda so'raladi)
+      - key: DATABASE_URL
+        sync: false
+      # Mavjud Key Value (Redis)'ning INTERNAL URL'i (yaratishda so'raladi)
+      - key: REDIS_URL
+        sync: false
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DEBUG
+        value: "False"
+      - key: ALLOWED_HOSTS
+        value: ".onrender.com"
+      - key: DJANGO_SUPERUSER_EMAIL
+        value: "admin@securetest.uz"
+      # Admin parol (yaratishda so'raladi — kuchli parol kiriting)
+      - key: DJANGO_SUPERUSER_PASSWORD
+        sync: false
+      - key: AUTO_IMPORT_TESTS
+        value: "1"
+      - key: TESTS_TITLE
+        value: "Kiberxavfsizlik testi"
+      - key: TESTS_TIME_LIMIT
+        value: "25"

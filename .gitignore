@@ -7,6 +7,7 @@ android/
 
 # ===== Maxfiy =====
 backend/.env
+backend/.env.render
 *.keystore
 keystore.properties
 
