@@ -54,7 +54,8 @@ r = client.post("/api/auth/register/", {
     "selfie": fake_selfie(),
 }, format="multipart")
 check("register 201", r.status_code == 201)
-check("selfie saqlandi", bool(User.objects.get(email="ali@example.com").selfie))
+check("selfie bazada saqlandi",
+      bool(User.objects.get(email="ali@example.com").selfie_data))
 
 # 2. Birinchi login -> primary device
 r = client.post("/api/auth/login/", {

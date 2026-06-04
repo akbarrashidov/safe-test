@@ -22,10 +22,11 @@ class User(AbstractUser):
     full_name = models.CharField("To'liq ism", max_length=150, blank=True)
     phone = models.CharField("Telefon", max_length=32, blank=True)
     email = models.EmailField("Email", unique=True)
-    # Ro'yxatdan o'tishda kameradan olingan selfi. Faqat admin ko'ra oladi
-    # (media nginx orqali ochiq berilmaydi — himoyalangan view orqali).
-    selfie = models.ImageField(
-        "Selfi", upload_to=selfie_upload_path, blank=True, null=True
+    # Ro'yxatdan o'tishda kameradan olingan selfi — BAZADA saqlanadi (JPEG bayt).
+    # Diskda emas: Render kabi efemer-disk muhitlarda ham yo'qolmaydi.
+    # Faqat admin ko'ra oladi (himoyalangan view orqali).
+    selfie_data = models.BinaryField(
+        "Selfi (JPEG)", null=True, blank=True, editable=False
     )
 
     USERNAME_FIELD = "username"  # AbstractUser bilan moslik; login email orqali qidiriladi

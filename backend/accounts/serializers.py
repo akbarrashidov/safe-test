@@ -1,5 +1,8 @@
+import io
+
 from django.contrib.auth import authenticate, get_user_model
 from django.contrib.auth.password_validation import validate_password
+from PIL import Image
 from rest_framework import serializers
 
 User = get_user_model()
@@ -7,6 +10,22 @@ User = get_user_model()
 # Selfi cheklovlari
 MAX_SELFIE_MB = 5
 ALLOWED_IMAGE_TYPES = {"image/jpeg", "image/png", "image/webp"}
+SELFIE_MAX_DIM = 1024  # bazaga yozishdan oldin shu o'lchamga kichraytiriladi
+
+
+def reencode_selfie(uploaded) -> bytes:
+    """
+    Yuklangan rasmni serverda qayta kodlash: RGB JPEG, <=1024px, sifat 85.
+    Bu ham hajmni kichraytiradi, ham fayl ichiga yashirilgan har qanday
+    begona ma'lumotni (EXIF, polyglot) olib tashlaydi.
+    """
+    uploaded.seek(0)
+    img = Image.open(uploaded)
+    img = img.convert("RGB")
+    img.thumbnail((SELFIE_MAX_DIM, SELFIE_MAX_DIM))
+    buf = io.BytesIO()
+    img.save(buf, format="JPEG", quality=85)
+    return buf.getvalue()
 
 
 class RegisterSerializer(serializers.Serializer):
@@ -49,7 +68,8 @@ class RegisterSerializer(serializers.Serializer):
             email=email,
             full_name=validated_data.get("full_name", ""),
             phone=validated_data.get("phone", ""),
-            selfie=validated_data.get("selfie"),
+            # Diskka emas — bazaga (efemer disk muhitlarida ham saqlanadi)
+            selfie_data=reencode_selfie(validated_data["selfie"]),
         )
         user.set_password(password)
         user.save()

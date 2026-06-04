@@ -7,8 +7,8 @@ from .models import Device, User
 
 
 def selfie_img_tag(user, height=160):
-    """Admin uchun selfi <img> tegi — himoyalangan view orqali."""
-    if not user or not user.selfie:
+    """Admin uchun selfi <img> tegi — himoyalangan view orqali (bazadan)."""
+    if not user or not user.selfie_data:
         return "—"
     url = reverse("selfie-admin", args=[user.id])
     return format_html(
@@ -27,7 +27,7 @@ class UserAdmin(BaseUserAdmin):
     ordering = ("id",)
     readonly_fields = ("selfie_preview",)
     fieldsets = BaseUserAdmin.fieldsets + (
-        ("Qo'shimcha", {"fields": ("full_name", "phone", "selfie", "selfie_preview")}),
+        ("Qo'shimcha", {"fields": ("full_name", "phone", "selfie_preview")}),
     )
     add_fieldsets = BaseUserAdmin.add_fieldsets + (
         ("Qo'shimcha", {"fields": ("email", "full_name", "phone")}),

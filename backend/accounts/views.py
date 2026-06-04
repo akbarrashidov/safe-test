@@ -1,4 +1,4 @@
-from django.http import FileResponse, Http404
+from django.http import Http404, HttpResponse
 from django.utils import timezone
 from rest_framework import status
 from rest_framework.authentication import SessionAuthentication
@@ -172,14 +172,14 @@ class SelfieAdminView(APIView):
     """
     Foydalanuvchi selfisini FAQAT admin (staff) ko'ra oladi.
     Django admin sessiyasi (cookie) yoki staff JWT bilan ishlaydi.
-    Media nginx orqali ochiq berilmaydi — yagona yo'l shu view.
+    Rasm bazadan (BinaryField) beriladi — diskka bog'liq emas.
     """
 
     authentication_classes = [SessionAuthentication, JWTAuthentication]
     permission_classes = [IsAdminUser]
 
     def get(self, request, user_id: int):
-        user = User.objects.filter(id=user_id).first()
-        if user is None or not user.selfie:
+        user = User.objects.filter(id=user_id).only("id", "selfie_data").first()
+        if user is None or not user.selfie_data:
             raise Http404
-        return FileResponse(user.selfie.open("rb"), content_type="image/jpeg")
+        return HttpResponse(bytes(user.selfie_data), content_type="image/jpeg")
