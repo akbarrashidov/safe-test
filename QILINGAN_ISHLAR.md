@@ -140,10 +140,12 @@ Min SDK 33, Target 35. Paket: `uz.securetest`.
 
 | Narsa | Holat / manzil |
 |---|---|
-| Docker stack | `backend/docker-compose.yml` — db, redis, web (gunicorn), nginx :8080 |
-| Hozir ishlayapti | ha — barcha konteynerlar Up, migratsiyalar qo'llangan |
-| ngrok tunnel | `https://1d08-195-158-8-218.ngrok-free.app` (ngrok.exe fonda) |
-| Admin panel | `<ngrok>/admin` — `admin@securetest.uz` / `admin12345` |
+| **PROD backend** | **`https://safe-test.onrender.com`** (Render: Docker web + Postgres + Key Value) |
+| Render admin | `https://safe-test.onrender.com/admin` — `admin@securetest.uz` / parol `backend/.env.render`da |
+| Render env'lar | `backend/.env.render` (lokal fayl, git'da YO'Q) — dashboard'ga "Add from .env" |
+| GitHub | `github.com/akbarrashidov/safe-test` (main; render.yaml blueprint bor) |
+| Avto-import | server birinchi startida `test.json`dan 380 savol bazaga kiradi (`--if-missing`) |
+| Lokal docker stack | `backend/docker-compose.yml` — db, redis, web, nginx :8080 (dev uchun) |
 | APK | `android/app/build/outputs/apk/release/app-release.apk` (~2.8MB, imzolangan) |
 | Keystore | `android/release.keystore` (parollar `android/keystore.properties`) — **DEV**, prodda almashtiring |
 | Lokal JDK/SDK | `tools/jdk17`, `tools/android-sdk` (build uchun o'rnatilgan) |
