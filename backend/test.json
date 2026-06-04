@@ -1,0 +1,3422 @@
+[
+  {
+    "id": 1,
+    "question": "Kiberxavfsizlik tushunchasiga CSEC2017 Joint Task Force tomonidan qanday ta'rif berilgan?",
+    "answer_a": "Buzg'unchilar mavjud bo'lgan sharoitda amallarni to'g'ri bajarilishini kafolatlash uchun texnologiya, inson, axborot va jarayonlarni mujassamlashtiruvchi bilim sohasi.",
+    "answer_b": "Faqatgina kompyuter xotirasidagi",
+    "answer_c": "",
+    "answer_d": "",
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "Axborot xavfsizligining hayotiy timsollarida barcha g'arazli niyatlarni amalga oshiruvchi shaxs kim orqali ifodalanadi?",
+    "answer_a": "Tridi.",
+    "answer_b": "Alisa.",
+    "answer_c": "Bob.",
+    "answer_d": "Onlayn bank operatori.",
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "Axborotning ruxsatsiz \"o'qish\"dan himoyalanganlik holati nima deb ataladi?",
+    "answer_a": "Konfidensiallik.",
+    "answer_b": "Yaxlitlik.",
+    "answer_c": "Foydalanuvchanlik.",
+    "answer_d": "Tizimli fikrlash.",
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "Axborotning buzilmagan ko'rinishida va ruxsatsiz o'zgartirilmagan holda saqlanishi qaysi atama bilan ifodalanadi?",
+    "answer_a": "Yaxlitlik.",
+    "answer_b": "Konfidensiallik.",
+    "answer_c": "Foydalanuvchanlik.",
+    "answer_d": "Tizimli fikrlash.",
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "Avtorizatsiyalangan foydalanuvchi so'rovi bo'yicha axborotning tayyor va ochiq bo'lish xususiyati nima?",
+    "answer_a": "Foydalanuvchanlik.",
+    "answer_b": "Konfidensiallik.",
+    "answer_c": "Hujumchi kabi fikrlash.",
+    "answer_d": "Zaiflik.",
+    "correct": "A"
+  },
+  {
+    "id": 6,
+    "question": "\"Noaniqlikning maqsadlarga ta'siri\" – bu qaysi tushunchaning ISO tomonidan berilgan ta'rifi?",
+    "answer_a": "Risk.",
+    "answer_b": "Tahdid.",
+    "answer_c": "Boshqarish vositasi.",
+    "answer_d": "Kiberjinoyatchilik.",
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "Kiberxavfsizlikda \"Aktiv\" deganda nima tushuniladi?",
+    "answer_a": "Himoyalanuvchi axborot, resurslar yoki tashkilot uchun qimmatli barcha narsalar.",
+    "answer_b": "Tizimga zarar yetkazishi mumkin bo'lgan har qanday shaxs, uning imkoniyatlari.",
+    "answer_c": "Axborotni buzish uchun ishlatiladigan maxsus dasturiy ta'minot.",
+    "answer_d": "Faqatgina tashkilotning bino va inshootlari, ulardagi kompyuterlar.",
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "Tizim yoki tashkilotga zarar yetkazishi mumkin bo'lgan istalmagan hodisa yoki potensial xavf nima deb ataladi?",
+    "answer_a": "Tahdid.",
+    "answer_b": "Zaiflik.",
+    "answer_c": "Boshqarish vositasi.",
+    "answer_d": "Yaxlitlik.",
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "Tashkilot aktivi yoki boshqaruv tizimidagi biror bir tahdidni amalga oshirishga imkon beruvchi kamchilik nima?",
+    "answer_a": "Zaiflik.",
+    "answer_b": "Risk.",
+    "answer_c": "Aktiv.",
+    "answer_d": "Konfidensiallik.",
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "Riskni o'zgartiradigan, natijada zaiflik yoki tahdidlarga ta'sir qiladigan harakatlar qanday nomlanadi?",
+    "answer_a": "Boshqarish vositasi.",
+    "answer_b": "Tizimli fikrlash.",
+    "answer_c": "Hujumchi kabi fikrlash.",
+    "answer_d": "Ijtimoiy injineriya.",
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "Axborot xavfsizligi va kiberxavfsizlik o'rtasidagi asosiy farq nimada?",
+    "answer_a": "Axborot xavfsizligi axborotning shaklidan qat'iy nazar himoya qiladi, kiberxavfsizlik esa faqat elektron ma'lumotlarga qaratilgan.",
+    "answer_b": "Axborot xavfsizligi faqat kompyuterlarni, kiberxavfsizlik esa faqat qog'oz hujjatlarni himoya qiladi.",
+    "answer_c": "Kiberxavfsizlik faqat bank sohasida, axborot xavfsizligi esa faqat ta'lim sohasida qo'llaniladi.",
+    "answer_d": "Ular o'rtasida hech qanday farq yo'q, ikkalasi bir xil tushuncha.",
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "Ma'lumotlarni saqlash, ishlash va uzatishda matematik hamda analitik algoritmlar yordamida himoyani ta'minlovchi bilim sohasi qaysi?",
+    "answer_a": "Ma'lumotlar xavfsizligi.",
+    "answer_b": "Tashkilot xavfsizligi.",
+    "answer_c": "Inson faoliyati xavfsizligi.",
+    "answer_d": "Dasturiy ta'minot xavfsizligi.",
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "Kiberjinoyatchilik, qonunlar va etika kabi masalalar kiberxavfsizlikning qaysi bilim sohasiga kiradi?",
+    "answer_a": "Ijtimoiy xavfsizlik.",
+    "answer_b": "Tizim xavfsizligi.",
+    "answer_c": "Aloqa xavfsizligi.",
+    "answer_d": "Tashkil etuvchilar xavfsizligi.",
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "Nima uchun kiberxavfsizlik tizimidagi eng zaif nuqta inson omili hisoblanadi?",
+    "answer_a": "Insonlar yuqori darajadagi xavfsizlik choralarini ham noto'g'ri harakatlari bilan buzishi mumkin.",
+    "answer_b": "Insonlar faqat murakkab parollardan foydalanishni yoqtirishadi va bu har doim to'g'ri tanlov emasligi bois.",
+    "answer_c": "Chunki texnologiyalar hech qachon xato qilmaydi.",
+    "answer_d": "Insonlar doimo SSL protokolidan foydalanishdan bosh tortishadi.",
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "Odatda foydalanuvchi \"ishtiroki\" talab etiladigan hujum turi qaysi?",
+    "answer_a": "O'rtada turgan odam hujumi (MITM).",
+    "answer_b": "Ma'lumotlar bazasining yaxlitligini avtomatik tekshirish.",
+    "answer_c": "Antivirus dasturining yangilanishi.",
+    "answer_d": "Parollarni avtomatik generatsiya qilish.",
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "Tashkilot ichidagi ma'lumotlarni yaxshi biladigan xodimning e'tiborsizligi natijasida yuzaga keladigan muammolar qaysi omilga kiradi?",
+    "answer_a": "Madaniyat va munosabatlardagi muammolar.",
+    "answer_b": "Texnologik moslashishning tezkorligiga oid muammolar.",
+    "answer_c": "Yagona nazorat nuqtasining mavjudligi.",
+    "answer_d": "SSL sertifikatining amal qilish muddati.",
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "An'anaviy josuslik texnikasi yordamida foydalanuvchidan ma'lumotlarni aldov yo'li bilan olish nima deb ataladi?",
+    "answer_a": "Ijtimoiy injineriya.",
+    "answer_b": "Tizimli fikrlash.",
+    "answer_c": "Riskni boshqarish.",
+    "answer_d": "DoS hujumi.",
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "Kiberxavfsizlik nuqtai nazaridan tizimni xavfsizroq qilishning eng yaxshi yo'li nima deb hisoblanadi?",
+    "answer_a": "Xavfsizlik \"tenglamasidan\" inson omilini olib tashlash.",
+    "answer_b": "Faqatgina oson eslab qolinadigan parollarni ishlatish.",
+    "answer_c": "Nazoratni bir nechta taqsimlangan nuqtalarga bo'lib tashlash.",
+    "answer_d": "Har bir xodimga barcha maxfiy ma'lumotlarni ochiq ko'rsatish.",
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "Kafolatlangan amallarni ta'minlash uchun ijtimoiy va texnik cheklovlarning o'zaro ta'sirini hisobga oladigan fikrlash jarayoni qanday nomlanadi?",
+    "answer_a": "Tizimli fikrlash.",
+    "answer_b": "Hujumchi kabi fikrlash.",
+    "answer_c": "Strategik rejalashtirish.",
+    "answer_d": "Kriptografik tahlil.",
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "Qaysi bilim sohasi katta tizimlarda integrallashgan qismlarni loyihalash, sotib olish va testlashga e'tibor qaratadi?",
+    "answer_a": "Tashkil etuvchilar xavfsizligi.",
+    "answer_b": "Aloqa xavfsizligi.",
+    "answer_c": "Ma'lumotlar xavfsizligi.",
+    "answer_d": "Ijtimoiy xavfsizlik.",
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "Kiberjinoyatchilik nima?",
+    "answer_a": "Himoyalashning kompyuter tizimlarini buzib ochishga, axborotni o'g'irlashga yoki buzishga yo'naltirilgan g'arazli yoki xuliganlik maqsadlaridagi harakatlar.",
+    "answer_b": "Faqatgina internet orqali qonuniy ma'lumotlarni almashish jarayoni va undagi harakatlarni boshqarish uchun kerakli bo'ladigan raqamli harakatlar to'plami.",
+    "answer_c": "Kompyuterlarni ishlab chiqarish va sotish bilan bog'liq bo'lgan iqtisodiy faoliyat.",
+    "answer_d": "Dasturlash tillarini o'rganish maqsadida yaratilgan o'quv markazlari faoliyati.",
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "question": "Ichki kiberjinoyatlar kim tomonidan amalga oshiriladi?",
+    "answer_a": "Tarmoqqa yoki kompyuter tizimiga qonuniy foydalanish huquqiga ega bo'lgan shaxs (odatda tashkilotning xafa bo'lgan va norozi xodimlari) tomonidan.",
+    "answer_b": "Faqatgina tashqaridan yollangan malakali xakerlar guruhlari tomonidan oldindan rejalashtirilgan reja asosida ataylabdan amalga oshiriladi.",
+    "answer_c": "Boshqa davlatlarning razvedka xizmatlari tomonidan.",
+    "answer_d": "Raqobatchi tashkilotlarning rahbarlari tomonidan.",
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "Tashqi kiberjinoyat hujumchilari harakatni odatda nimadan boshlaydi?",
+    "answer_a": "Tashkilot AT infrastrukturasini skaner qilish va unga aloqador ma'lumotlarni to'plashdan.",
+    "answer_b": "Tashkilot binosiga yashirincha kirib, serverlarni jismoniy yo'q qilish va olib chiqib ketishdan.",
+    "answer_c": "Tashkilot rahbariga to'g'ridan-to'g'ri qo'ng'iroq qilib tahdid qilishdan.",
+    "answer_d": "Xodimlarga ochiqchasiga pora taklif qilishdan.",
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "\"Kompyuter qaroqchiligi\" qaysi turdagi kiberjinoyatlarga kiradi?",
+    "answer_a": "Inson va fuqorolarning huquqlariga va erkinliklariga qaratilgan jinoyatlar qatoriga.",
+    "answer_b": "Jamoat xavfsizligiga qarshi kompyuter jinoyatchiligi qatoriga.",
+    "answer_c": "Davlat xavfsizligiga qaratilgan iqtisodiy jinoyatlar qatoriga.",
+    "answer_d": "Tabiatni muhofaza qilishga qarshi qaratilgan jinoyatlar qatoriga.",
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "2004-yilda Yevropa Kengashi tomonidan qaysi xalqaro hujjat qabul qilingan?",
+    "answer_a": "Kiberjinoyatchilik to'g'risidagi Shartnoma (Budapesht konvensiyasi).",
+    "answer_b": "Axborot erkinligi prinsiplari to'g'risidagi Parij deklaratsiyasi.",
+    "answer_c": "Kiberetika qoidalari bo'yicha Nyu-York pakti.",
+    "answer_d": "Raqamli to'siqlarga qarshi kurashish bo'yicha Jeneva kelishuvi.",
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "O'zbekiston Respublikasining \"Kiberxavfsizlik to'g'risida\"gi qonuni qachon qabul qilingan?",
+    "answer_a": "2022-yil 15-aprelda.",
+    "answer_b": "2002-yil 12-dekabrda.",
+    "answer_c": "2020-yil 13-fevralda.",
+    "answer_d": "1973-yil 12-martda.",
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "O'zbekiston Respublikasida kiberxavfsizlik sohasidagi vakolatli davlat organi qaysi hisoblanadi?",
+    "answer_a": "O'zbekiston Respublikasi Davlat xavfsizlik xizmati.",
+    "answer_b": "O'zbekiston Respublikasi Ichki ishlar vazirligi.",
+    "answer_c": "O'zbekiston Respublikasi Mudofaa vazirligi.",
+    "answer_d": "Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi.",
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "Kiberxavfsizlik tizimini yaratishda mahalliy ishlab chiqaruvchilar ishtirokining ustuvorligi prinsipi nimani anglatadi?",
+    "answer_a": "Kiberxavfsizlikni ta'minlash uchun tovarlarni xarid qilishda O'zbekiston hududida ishlab chiqarilgan tovarlar xorij mahsulotlariga nisbatan ustuvorlikka ega bo'lishini.",
+    "answer_b": "Barcha kiberxavfsizlik dasturlari faqat xorijdan sotib olinishi shartligini va ular har doim arzon bo'lishini.",
+    "answer_c": "Mahalliy ishlab chiqaruvchilarga o'z mahsulotlarini eksport qilish mutlaqo taqiqlanishini.",
+    "answer_d": "Davlat xaridlarida xorijiy kompaniyalarga doimiy ravishda ustunlik berilishini.",
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "O'zbekiston Respublikasining qaysi qonunida \"har kimning axborotni erkin va moneliksiz izlash, olish, tekshirish, tarqatish\" huquqlari ro'yobga chiqarilishi o'z ifodasini topgan?",
+    "answer_a": "\"Axborot erkinligi prinsiplari va kafolatlari to'g'risida\"gi qonunda.",
+    "answer_b": "\"Kiberxavfsizlik to'g'risida\"gi qonunda.",
+    "answer_c": "O'zbekiston Respublikasi Jinoyat kodeksida.",
+    "answer_d": "O'zbekiston Respublikasining Ma'muriy javobgarlik to'g'risidagi kodeksida.",
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "Jismoniy shaxslarga taalluqli shaxsiy ma'lumotlar qanday axborot toifasiga kiradi?",
+    "answer_a": "Maxfiy axborot toifasiga.",
+    "answer_b": "Ommaviy va ochiq axborot toifasiga.",
+    "answer_c": "Faqat davlat siri hisoblangan axborot toifasiga.",
+    "answer_d": "Tijorat siri hisoblangan axborot toifasiga.",
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "Kiberetika qanday fan (soha) hisoblanadi?",
+    "answer_a": "Kompyuterlar bilan bog'liq falsafiy soha bo'lib, u foydalanuvchilarning xatti-harakatlari hamda kompyuterlarning insonlar va jamiyatga ta'sirini o'rganadi.",
+    "answer_b": "Kompyuterlarning jismoniy qurilmalarini yig'ish va ta'mirlash bilan shug'ullanadigan muhandislik sohasi bo'lib, jamiyatda moddiy foyda topishni maqsad qilishni ko'zlaydi.",
+    "answer_c": "Kiberjinoyatlarni tergov qilishga ixtisoslashgan yuridik fan.",
+    "answer_d": "Internet tarmog'ining ishlash tezligini oshirishni o'rganadigan fizika tarmog'i.",
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "Kiberfazodan foydalanish imkoniyati cheklanganlar o'rtasidagi ijtimoiy tafovut ilm-fanda nima deb ataladi?",
+    "answer_a": "Raqamli to'siq.",
+    "answer_b": "Kiberxavfsizlik filtri.",
+    "answer_c": "Axborot senzurasi.",
+    "answer_d": "Tarmoqlararo ekran (Firewall).",
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "Mamlakatga kiruvchi ma'lumotlarni boshqarishning (senzura qilishning) eng yaxshi namunalaridan biri nima?",
+    "answer_a": "\"Buyuk Xitoy Fayrvoli\" loyihasi.",
+    "answer_b": "Budapesht konvensiyasi.",
+    "answer_c": "Napster dasturi.",
+    "answer_d": "BitTorrent protokoli.",
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "Quyidagilardan qaysi biri kompyuterdan foydalanishning etika qoidalaridan biri hisoblanadi?",
+    "answer_a": "O'z pulingizga sotib olmagan dasturdan foydalanmang va nusxa ko'chirmang.",
+    "answer_b": "O'z kompyuteringizdan boshqalarning zarariga erkin foydalaning.",
+    "answer_c": "Kompyuterdan faqat o'g'irlik maqsadida anonim tarmoqlar orqali foydalaning.",
+    "answer_d": "Boshqa foydalanuvchilarning kompyuter ishlariga muntazam ravishda xalaqit bering.",
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "O'zbekistonda kiberxavfsizlik subyektlarining axborot tizimlarini va resurslarini o'rganish va tekshirishni amalga oshirishga vakolatli organ qaysi?",
+    "answer_a": "O'zbekiston Respublikasi Davlat xavfsizlik xizmati.",
+    "answer_b": "Mahalliy davlat hokimiyati organlari (Hokimiyatlar).",
+    "answer_c": "O'zini o'zi boshqarish organlari (Mahalla yig'inlari).",
+    "answer_d": "Qonunchilik palatasi deputatlari.",
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "Kiberxavfsizlik arxitekturasi nimani tavsiflaydi?",
+    "answer_a": "Jarayonlarni, inson rolini, texnologiyalarni, axborotni hamda axborot xavfsizligi tizimining istalgan holatini tavsiflaydi.",
+    "answer_b": "Faqatgina tashkilot xodimlarining oylik maoshlarini hisoblash jarayonini tavsiflaydi.",
+    "answer_c": "Faqat kompyuterlarning jismoniy joylashuvini va ularning texnik xususiyatlarini tavsiflaydi.",
+    "answer_d": "Dasturchilarning ish vaqtini nazorat qiluvchi elektron tizimlarni tavsiflaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "Kiberxavfsizlik arxitekturasining qanday 3 ta sathi ajratiladi?",
+    "answer_a": "Konseptual, mantiqiy va amalga oshirish (texnologik).",
+    "answer_b": "Boshlang'ich, o'rta va yuqori darajali.",
+    "answer_c": "Matematik, fizik va kimyoviy.",
+    "answer_d": "Nazariy, amaliy va eksperimental.",
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "Kiberxavfsizlik strategiyasi nima?",
+    "answer_a": "Korxonaning davomli muvaffaqiyat bilan faoliyat yuritishini ta'minlashga mo'ljallangan strukturalangan va o'zaro bog'langan harakatlar to'plami.",
+    "answer_b": "Tarmoq kabellarini to'g'ri ulash bo'yicha texnik yo'riqnoma.",
+    "answer_c": "Xodimlarni ishga qabul qilish va bo'shatish bo'yicha ichki buyruqlarni shakllantirish, ular bilan bog'liq harakatlar to'plami hisoblanadi.",
+    "answer_d": "Kompyuterlarga antivirus o'rnatish uchun mo'ljallangan dasturiy ta'minot.",
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "Axborot xavfsizligi siyosati nima?",
+    "answer_a": "Tashkilotning maqsadlari va vazifalari hamda xavfsizlikni ta'minlash sohasidagi tadbirlar tavsiflanadigan yuqori darajadagi reja.",
+    "answer_b": "Faqatgina xodimlarning ish vaqtida internetdan foydalanishini qat'iy taqiqlovchi qonun va qoidalar to'plami.",
+    "answer_c": "Antivirus dasturini yangilash uchun ishlab chiqilgan qisqa operatsion ko'rsatma.",
+    "answer_d": "Tashkilotning faqat moliyaviy hisobotlarini saqlovchi maxsus arxiv jildi.",
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "Axborot xavfsizligi siyosati iyerarxiyasining eng yuqori sathida nima joylashgan?",
+    "answer_a": "Qonunlar.",
+    "answer_b": "Umumiy qoidalar.",
+    "answer_c": "Standartlar.",
+    "answer_d": "Muolajalar.",
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "Standartlar xavfsizlik siyosatida qanday vazifani bajaradi?",
+    "answer_a": "Siyosatni amalga oshirish usullarini tavsiflaydi hamda texnologiya, qurilma va dasturga bog'liq holda xavfsizlik nazoratini o'z ichiga oladi.",
+    "answer_b": "Tashkilot qonunlarini qabul qiladi va huquqbuzarlarni jazolash tizimini joriy qiladi.",
+    "answer_c": "Tashkilotning faqat moliya bo'limiga tegishli qoidalarini tasdiqlaydi.",
+    "answer_d": "Internet tezligini cheklash uchun mo'ljallangan maxsus dasturlarni yaratadi.",
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "Xavfsizlik siyosatining afzalliklaridan birini ko'rsating.",
+    "answer_a": "Tashqi manbalardan bo'lishi mumkin bo'lgan risklarni kamaytiradi.",
+    "answer_b": "Kompaniya kompyuterlarini har oy eng so'nggi rusumga o'tkazishni ta'minlaydi.",
+    "answer_c": "Barcha xodimlarning ish vaqtini sun'iy ravishda qisqartirishga yordam beradi.",
+    "answer_d": "Tashkilotning ijtimoiy tarmoqlardagi reklama xarajatlarini sezilarli oshiradi.",
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "Xavfsizlik siyosati qanday xususiyatga ega bo'lishi shart?",
+    "answer_a": "Qisqa, aniq, foydalanuvchan, iqtisodiy asoslangan va amaliy bo'lishi kerak.",
+    "answer_b": "Murakkab, uzun, foydalanish qiyin va xarajati juda ko'p bo'lishi kerak.",
+    "answer_c": "Faqatgina dasturchilar tushunadigan o'ta texnik atamalar bilan yozilgan bo'lishi kerak.",
+    "answer_d": "Doimiy ravishda har kuni o'zgartirilib, kengaytirilib turilishi majburiy hisoblanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "EISP (Enterprise Information Security Policies) qanday siyosat turi hisoblanadi?",
+    "answer_a": "Tashkilot axborot xavfsizligi siyosati bo'lib, tashkilot xavfsiz muhitini madadlaydi va xavfsizlik dasturlarini boshqarish usullarini belgilaydi.",
+    "answer_b": "Faqatgina ma'lumotlar markazining serverlarini sovutish tizimiga qaratilgan siyosat.",
+    "answer_c": "Mijozlar bilan telefon orqali gaplashish odobini belgilovchi qat'iy psixologik siyosat.",
+    "answer_d": "Mahalliy kompyuterlarni elektr tarmog'iga ulash xavfsizligi standartlarini ko'rsatuvchi hujjat.",
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "ISSP (Issue-Specific Security Policies) qanday xavfsizlik siyosati?",
+    "answer_a": "Tashkilotdagi aynan bir aniq xavfsizlik muammosiga qaratilgan xavfsizlik siyosati.",
+    "answer_b": "Butun dunyo bo'ylab internetga ulanish tezligini sun'iy belgilaydigan siyosat.",
+    "answer_c": "Tashkilot axborot xavfsizligi siyosati bo'lib, tashkilot xavfsiz muhitini madadlaydi va xavfsizlik dasturlarini boshqarish usullarini belgilaydi.",
+    "answer_d": "Faqatgina korporativ printerlardan foydalanish qoidalarini tasvirlaydigan oddiy yo'riqnoma.",
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "Tizimga qaratilgan xavfsizlik siyosatlari (SSSP) nimani ko'zda tutadi?",
+    "answer_a": "Tashkilotdagi biror tizimning umumiy xavfsizligini ta'minlashni.",
+    "answer_b": "Binodagi yong'in xavfsizligi datchiklari tizimini to'g'ridan-to'g'ri boshqarishni.",
+    "answer_c": "Tashkilot xodimlarining avtomobil turargohlarini nazorat qilish tizimini o'rnatishni.",
+    "answer_d": "Tashkilot oshxonasida xodimlarning ovqatlanish ratsionini belgilashni.",
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "Tartibsiz siyosat (Promiscuous Policy) deganda nima tushuniladi?",
+    "answer_a": "Tizim resurslaridan foydalanishda hech qanday cheklovlarni amalga oshirmaydigan siyosat.",
+    "answer_b": "Internetdagi barcha veb-saytlar qat'iy blokirovka qilinadigan himoya siyosati.",
+    "answer_c": "Faqatgina ma'lumotlarni o'chirishga ruxsat beruvchi, biroq yuklashni taqiqlovchi siyosat.",
+    "answer_d": "Har bir xodim kuniga faqat bitta saytga kira oladigan darajada cheklangan siyosat.",
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "Ruxsat berishga asoslangan siyosat (Permissive Policy) qanday ishlaydi?",
+    "answer_a": "Faqat xavfli xizmatlar/hujumlar yoki zararli harakatlar blokirovkalanib, qolgan Internet trafigi ochiq bo'ladi.",
+    "answer_b": "Barcha narsa blokirovkalanadi va ish stansiyalaridan tarmoqqa umuman ulanib bo'lmaydi.",
+    "answer_c": "Tarmoqda hech qanday himoya ishlatilmaydi, viruslar erkin kirib kelishiga ruxsat beriladi.",
+    "answer_d": "Ish jarayoniga xalaqit beruvchi faqatgina ijtimoiy tarmoqlarga kirish ruxsat etiladi, ishchi saytlar bloklanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "Paranoid siyosati (Paranoid Policy) xususiyati nima?",
+    "answer_a": "Barcha narsa blokirovkalanadi va tizimdan foydalanuvchilar uchun qat'iy cheklovlar mavjud bo'ladi.",
+    "answer_b": "Foydalanuvchilarga istalgan barcha dasturlarni erkin yuklab olish huquqi to'liq beriladi.",
+    "answer_c": "Tarmoqda har qanday fayl almashish operatsiyasi hech qanday nazoratsiz ruxsat etiladi.",
+    "answer_d": "Tashkilot xodimlarining tarmoqdagi barcha faoliyati rahbariyat tomonidan maxsus mukofotlanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 50,
+    "question": "Ehtiyotkorlik siyosati (Prudent Policy) qanday amalga oshiriladi?",
+    "answer_a": "Barcha xizmatlar blokirovkalanganidan so'ng, faqat xavfsiz va zarur xizmatlarga ma'mur tomonidan individual ravishda ruxsat beriladi.",
+    "answer_b": "Barcha tarmoq portlari va xizmatlar avvaldan ochiq bo'ladi va ular keyinchalik shikoyatlarga ko'ra alohida,bloklanadi.",
+    "answer_c": "Xodimlarning o'zlari o'zaro kelishib qaysi saytlarni bloklash kerakligini ovoz berish orqali hal qilishadi.",
+    "answer_d": "Tarmoqda faqat ijtimoiy tarmoqlardan foydalanish uchun ma'mur tomonidan ommaviy ruxsatlar beriladi.",
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "Maqbul foydalanish siyosati nimani belgilaydi?",
+    "answer_a": "Tarmoq va web sayt egalari tomonidan qabul qilingan hisoblash resurslaridan to'g'ri foydalanish qoidalarini.",
+    "answer_b": "Server va kompyuterlarning elektr energiyasi sarfini qanday kamaytirish usullarini.",
+    "answer_c": "Kiberjinoyatchilarga qarshi jismoniy hujum qilish va hibsga olish tartibini.",
+    "answer_d": "Ishdan tashqari vaqtlarda xodimlarning bo'sh vaqtini dam olish maskanlarida qanday o'tkazishi kerakligini.",
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "Yangi xodimlarga axborot resurslaridan foydalanishga ruxsat berishdan oldin nima qilinadi?",
+    "answer_a": "Ular maqbul foydalanish siyosati bilan tanishganligi xususida kafolat imzosi olinadi.",
+    "answer_b": "Ularga tashkilot hisobidan eng qimmat noutbuk va mobil telefon sovg'a qilinadi.",
+    "answer_c": "Ular texnik xavfsizlikni ta'minlash uchun kamida bir oy muddatga tarmoqqa ulanishdan mahrum qilinadi.",
+    "answer_d": "Ularning barcha shaxsiy ijtimoiy tarmoqlari ma'murlar tomonidan to'liq o'chirib tashlanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "Xavfsizlik siyosati iyerarxiyasida qonunlarga amal qilmagan xodimlar uchun nima qilinishi shart?",
+    "answer_a": "Javobgarlik choralari ko'rilishi shart bo'ladi.",
+    "answer_b": "Faqatgina og'zaki tanbeh beriladi va huquqbuzarlik tezda unutiladi.",
+    "answer_c": "Ular jarimaga tortilmasligi uchun darhol yuqori lavozimga ko'tariladi.",
+    "answer_d": "Ularga rag'bat sifatida qo'shimcha pullik mehnat ta'tili beriladi.",
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "Maqbul foydalanish siyosatini buzgan xodimlarga qanday jazo qo'llanilishi mumkin?",
+    "answer_a": "Foydalanuvchi akkauntini vaqtincha yopib qo'yishdan tortib qonuniy jazo choralarigacha bo'lishi mumkin.",
+    "answer_b": "Ularga mukofot tariqasida yangi texnika va kompyuterlar xarid qilib beriladi.",
+    "answer_c": "Faqatgina ularning korporativ elektron pochtasiga spam va reklama xabarlari yuboriladi.",
+    "answer_d": "Hech qanday jazo qo'llanilmaydi, chunki bu siyosat ixtiyoriy tusga ega.",
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "Kriptografiyaning o'rganish predmeti asosan qaysi masalani yechishga qaratilgan?",
+    "answer_a": "Axborotni shunday o'zgartirishga, uni faqat qonuniy qabul qiluvchi tiklay olishi mumkin bo'ladi",
+    "answer_b": "Adresatlar orasida mutlaqo ishonchli yashirin kanal yaratishga",
+    "answer_c": "Axborot uzatish kanalini yoki trafikni niqoblashga",
+    "answer_d": "Kompyuter tarmoqlarining jismoniy xavfsizligini ta'minlashga",
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "Kriptotizimlarda konfidensiallik xususiyati nima hisobiga ta'minlanadi?",
+    "answer_a": "Simmetrik va ochiq kalitli (asimmetrik) kriptotizimlar evaziga",
+    "answer_b": "Kriptografik xesh funksiyalar va raqamli imzolar evaziga",
+    "answer_c": "Parollar va steganografiya vositalari evaziga",
+    "answer_d": "Faqat raqamli sertifikatlar va biometrik ma'lumotlar evaziga",
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "Axborotning yaxlitligi xususiyati qaysi kriptografik usullar yordamida amalga oshiriladi?",
+    "answer_a": "Kriptografik xesh funksiyalar va raqamli imzolar yordamida",
+    "answer_b": "Simmetrik va asimmetrik kriptotizimlar yordamida",
+    "answer_c": "O'rin almashtirish va o'rniga qo'yish akslantirishlari yordamida",
+    "answer_d": "Tarmoq ekranlari (firewall) va marshrutizatorlar yordamida",
+    "correct": "A"
+  },
+  {
+    "id": 58,
+    "question": "\"Harakatni rad qila olmaslik\" xususiyati qanday kriptografik vositalar yordamida ta'minlanadi?",
+    "answer_a": "Faqat ochiq kalitli kriptografiya vositalari yordamida",
+    "answer_b": "Faqat simmetrik kalitli kriptografiya vositalari yordamida",
+    "answer_c": "Bir martali bloknot (Vernam shifri) yordamida",
+    "answer_d": "Ma'lumotlarni ochiq formatda kodlash yordamida",
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "Kriptografiyada \"alfavit\" deganda nima tushuniladi?",
+    "answer_a": "Axborotni ifodalashda ishlatiluvchi belgilarning chekli to'plami",
+    "answer_b": "Matnni qisqartirish uchun ishlatiladigan maxsus lug'at",
+    "answer_c": "Shifrmatnni hosil qiluvchi matematik funksiyalar yig'indisi",
+    "answer_d": "Kalitni generatsiya qilish uchun kerak bo'ladigan dasturiy ta'minot",
+    "correct": "A"
+  },
+  {
+    "id": 60,
+    "question": "\"Shifrlash\" (encryption) atamasining ta'rifi qaysi bandda to'g'ri ko'rsatilgan?",
+    "answer_a": "Ochiq matnni shifrmatnga o'zgartirish jarayoni",
+    "answer_b": "Shifrmatnni ochiq matnga o'zgartiruvchi teskari jarayon",
+    "answer_c": "Kalitni bilmasdan turib shifrmatn bo'yicha ochiq matnni tiklash jarayoni",
+    "answer_d": "Axborotni steganografik usulda yashirish jarayoni",
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "\"Deshifrlash\" (breaking) va \"rasshifrovkalash\" o'rtasidagi asosiy farq nimada?",
+    "answer_a": "Deshifrlash kalitni bilmasdan ochiq matnni tiklash va tizimni buzish hisoblanadi, rasshifrovkalash esa qonuniy jarayondir",
+    "answer_b": "Deshifrlash qonuniy kalit orqali qilinadi, rasshifrovkalash kalitsiz qilinadi",
+    "answer_c": "Deshifrlash faqat ochiq kalitli tizimlarda, rasshifrovkalash esa faqat simmetrik tizimlarda ishlaydi",
+    "answer_d": "Ushbu ikkala atama mutlaqo bir xil ma'noni anglatadi",
+    "correct": "A"
+  },
+  {
+    "id": 62,
+    "question": "Kriptologiya fani qaysi yo'nalishlarni o'z ichiga oladi?",
+    "answer_a": "Kriptografiya va kriptotahlilni",
+    "answer_b": "Steganografiya va kriptografiyani",
+    "answer_c": "Kodlash nazariyasi va siqish algoritmlarini",
+    "answer_d": "Ma'lumotlar bazasi xavfsizligi va tarmoq trafigini tahlil qilishni",
+    "correct": "A"
+  },
+  {
+    "id": 63,
+    "question": "Kerkgoff prinsipining asosiy sharti nimadan iborat?",
+    "answer_a": "Faqat kalit sir saqlanishi, shifrlash algoritmi esa ochiq bo'lishi lozim",
+    "answer_b": "Ham kalit, ham shifrlash algoritmi doimo sir saqlanishi lozim",
+    "answer_c": "Shifrlash algoritmi sir saqlanishi, kalit esa ochiq e'lon qilinishi lozim",
+    "answer_d": "Kriptotizim hech qanday kalitsiz faoliyat ko'rsatishi lozim",
+    "correct": "A"
+  },
+  {
+    "id": 64,
+    "question": "Axborotni \"kodlash\" va \"shifrlash\" o'rtasidagi farq nimada?",
+    "answer_a": "Kodlash hammaga ochiq sxema asosida ma'lumot formatini o'zgartiradi, shifrlash esa maxfiylikni ta'minlash uchun amalga oshiriladi va kalit talab etadi",
+    "answer_b": "Kodlash axborotni begonalardan himoyalaydi, shifrlash esa axborotni siqadi",
+    "answer_c": "Kodlashda hamisha kriptografik kalit ishlatiladi, shifrlashda esa yo'q",
+    "answer_d": "Ular bitta jarayon bo'lib, o'zaro hech qanday farqqa ega emas",
+    "correct": "A"
+  },
+  {
+    "id": 65,
+    "question": "Steganografiyaning asosiy maqsadi (g'oyasi) nimadan iborat?",
+    "answer_a": "Maxfiy xabarni soxta xabar ichiga berkitish orqali maxfiy ma'lumotlarning mavjudligi haqidagi shubhani oldini olish.",
+    "answer_b": "Ochiq matnni matematik xesh funksiyalar yordamida formatlash orqali himoyalashni maqsad qiladi.",
+    "answer_c": "Axborotni qabul qiluvchining ochiq kaliti yordamida shifrlash.",
+    "answer_d": "Uzatish kanalidagi nosozliklarni aniqlash va tuzatish.",
+    "correct": "A"
+  },
+  {
+    "id": 66,
+    "question": "Qadimiy davr klassik shifrlari qanday akslantirishlarga asoslangan edi?",
+    "answer_a": "Asosan bir alfavitli o'rniga qo'yish va o'rin almashtirish akslantirishlariga",
+    "answer_b": "Ko'p alfavitli o'rniga qo'yish va elektromexanik rotorlarga asoslangan",
+    "answer_c": "Ochiq kalitli asimmetrik shifrlash tamoyillariga",
+    "answer_d": "Binar arifmetika va XOR amallariga",
+    "correct": "A"
+  },
+  {
+    "id": 67,
+    "question": "Quyidagilardan qaysilari \"O'rta davr\" klassik shifrlariga misol bo'la oladi?",
+    "answer_a": "Vijiner va Atbash usullari",
+    "answer_b": "Sezar va Polibiya kvadrati usullari",
+    "answer_c": "Zimmermann telegrammi va Enigma shifri",
+    "answer_d": "DES va AES algoritmlari",
+    "correct": "A"
+  },
+  {
+    "id": 68,
+    "question": "Kompyuter davrining zamonaviy shifrlariga qaysilar kiradi?",
+    "answer_a": "DES, AES, RSA, El-Gamal",
+    "answer_b": "Enigma, SIGABA, Morze alifbosi",
+    "answer_c": "Sezar, Vijiner, Atbash",
+    "answer_d": "Faqat GOST R 28147-89 va MD5, Atbash",
+    "correct": "A"
+  },
+  {
+    "id": 69,
+    "question": "Simmetrik kalitli kriptografiya yana qanday nomlanadi?",
+    "answer_a": "Bir kalitli kriptotizimlar",
+    "answer_b": "Ikki kalitli kriptotizimlar",
+    "answer_c": "Xeshga asoslangan kriptotizimlar",
+    "answer_d": "Ochiq kalitli kriptotizimlar",
+    "correct": "A"
+  },
+  {
+    "id": 70,
+    "question": "Ochiq kalitli kriptografiyada axborotni shifrlash uchun qaysi kalitdan foydalaniladi?",
+    "answer_a": "Qabul qiluvchining ochiq kalitidan",
+    "answer_b": "Qabul qiluvchining shaxsiy kalitidan",
+    "answer_c": "Jo'natuvchining shaxsiy kalitidan",
+    "answer_d": "Har ikkala tomon uchun yagona bo'lgan simmetrik kalitdan",
+    "correct": "A"
+  },
+  {
+    "id": 71,
+    "question": "Ochiq kalit bilan shifrlangan ma'lumotni rasshifrovkalash uchun nima talab etiladi?",
+    "answer_a": "Qabul qiluvchining shaxsiy kaliti",
+    "answer_b": "Jo'natuvchining ochiq kaliti",
+    "answer_c": "Tarmoq administratori ruxsati",
+    "answer_d": "Bir martali ochiq bloknot paroli",
+    "correct": "A"
+  },
+  {
+    "id": 72,
+    "question": "Xesh funksiyalarning natijaviy qiymati qanday xususiyatga ega?",
+    "answer_a": "Chiqishda o'zgarmas uzunlikdagi qiymatni qaytaradi",
+    "answer_b": "Kiruvchi ma'lumotning uzunligiga mos ravishda doim o'zgarib turadi",
+    "answer_c": "Ma'lumot qanchalik uzun bo'lsa, xesh qiymati shunchalik qisqa bo'ladi",
+    "answer_d": "U ochiq matnni rasshifrovkalash kalitiga aylanadi",
+    "correct": "A"
+  },
+  {
+    "id": 73,
+    "question": "O'rniga qo'yish (substitution) akslantirishida nima amalga oshiriladi?",
+    "answer_a": "Ochiq matn simvollari o'rniga mos shifrmatn simvollari boshqa bir alfavitdan olinib qo'yiladi",
+    "answer_b": "Ochiq matn simvollarining o'rni o'zaro almashtiriladi va shifrmatn hosil qilinadi",
+    "answer_c": "Ochiq matn siqiladi va xeshlanadi",
+    "answer_d": "Ochiq matn bitlari faqat XOR amali orqali o'zgartiriladi",
+    "correct": "A"
+  },
+  {
+    "id": 74,
+    "question": "Sezar usulida ochiq matn alfaviti qanday o'zgartiriladi?",
+    "answer_a": "Shifrmatn alfaviti ochiq matn alfavitidan bir necha pozitsiyaga (masalan, 3 ta) surish natijasida hosil qilinadi",
+    "answer_b": "Matndagi belgilar butunlay tasodifiy raqamlarga o'zgartiriladi hamda shifrmatn avtomatik hosil qilinadi",
+    "answer_c": "Ochiq matn simvollarining o'rni biror qoidaga ko'ra o'zaro almashtiriladi (simvollar o'zi o'zgarmaydi)",
+    "answer_d": "Matn binar ko'rinishga keltirilib qisqartiriladi",
+    "correct": "A"
+  },
+  {
+    "id": 75,
+    "question": "O'rin almashtirish (permutation) akslantirishi deganda nima tushuniladi?",
+    "answer_a": "Ochiq matn simvollarining o'rni biror qoidaga ko'ra o'zaro almashtiriladi (simvollar o'zi o'zgarmaydi)",
+    "answer_b": "Ochiq matn butunlay yangi simvollar yordamida yoziladi",
+    "answer_c": "Shifrmatn alfaviti ochiq matn alfavitidan bir necha pozitsiyaga (masalan, 3 ta) surish natijasida hosil qilinadi",
+    "answer_d": "Ochiq matn uzunligi sun'iy ravishda orttiriladi",
+    "correct": "A"
+  },
+  {
+    "id": 76,
+    "question": "\"Bir martali bloknot\" kriptotizimining ikkinchi nomi qanday?",
+    "answer_a": "Vernam shifri",
+    "answer_b": "Sezar shifri",
+    "answer_c": "Polibiya kvadrati",
+    "answer_d": "Enigma algoritmi",
+    "correct": "A"
+  },
+  {
+    "id": 77,
+    "question": "Bir martali bloknot (Vernam shifri) da kalit uzunligi qanday bo'lishi talab etiladi?",
+    "answer_a": "Ochiq matn uzunligiga teng bo'lishi",
+    "answer_b": "Har doim 128 bit uzunlikda bo'lishi",
+    "answer_c": "Ochiq matndan ikki barobar qisqa bo'lishi",
+    "answer_d": "Kalit uzunligi chegaralanmaydi va ixtiyoriy bo'lishi mumkin",
+    "correct": "A"
+  },
+  {
+    "id": 78,
+    "question": "Bir martali bloknot usulida shifrlash qanday mantiqiy amal yordamida hisoblanadi?",
+    "answer_a": "XOR (⊕) amali",
+    "answer_b": "AND amali",
+    "answer_c": "OR amali",
+    "answer_d": "NOT amali",
+    "correct": "A"
+  },
+  {
+    "id": 79,
+    "question": "Vernam shifrida qabul qilingan shifrmatnni rasshifrovkalash formulasi qaysi?",
+    "answer_a": "P = C ⊕ K (Shifrmatn va kalit o'rtasida XOR amali)",
+    "answer_b": "P = C + K (Shifrmatnga kalitni qo'shish amali)",
+    "answer_c": "P = C - K (Shifrmatndan kalitni ayirish amali)",
+    "answer_d": "P = C / K (Shifrmatnni kalitga bo'lish amali)",
+    "correct": "A"
+  },
+  {
+    "id": 80,
+    "question": "Fizik xavfsizlikning asosiy vazifasi nima?",
+    "answer_a": "Tashkilot binosi va aktivlarini o'g'irlikdan, tabiiy ofatlardan va inson tahdidlaridan himoyalash",
+    "answer_b": "Faqat kompyuter viruslariga qarshi kurashish uchun zafiralashni, shifrlashni va bloklash mexanizmlarini joriy qilish",
+    "answer_c": "Foydalanuvchilarning parollarini internetda saqlash",
+    "answer_d": "Ijtimoiy tarmoqlardagi sahifalarni blokirovka qilish",
+    "correct": "A"
+  },
+  {
+    "id": 81,
+    "question": "Axborot xavfsizligini ta'minlashda amalga oshiriladigan dastlabki choralardan biri nima?",
+    "answer_a": "Fizik xavfsizlik",
+    "answer_b": "Antivirus dasturini o'rnatish",
+    "answer_c": "Murakkab parollar o'ylab topish",
+    "answer_d": "Operatsion tizimni yangilash",
+    "correct": "A"
+  },
+  {
+    "id": 82,
+    "question": "OSI modelining qaysi sathida fizik xavfsizlik himoyani ta'minlaydi?",
+    "answer_a": "Fizik sath (Physical layer)",
+    "answer_b": "Kanal sathi (Data Link layer)",
+    "answer_c": "Tarmoq sathi (Network layer)",
+    "answer_d": "Ilova sathi (Application layer)",
+    "correct": "A"
+  },
+  {
+    "id": 83,
+    "question": "Fizik xavfsizlikka ta'sir qiluvchi omillar qaysi ikki guruhga bo'linadi?",
+    "answer_a": "Tabiiy/muhit va inson tomonidan amalga oshiriluvchi (sun'iy) tahdidlar",
+    "answer_b": "Ichki va tashqi dasturiy xatolar",
+    "answer_c": "Global va lokal iqtisodiy inqirozlar",
+    "answer_d": "Elektr va suv ta'minotidagi texnik nosozliklar",
+    "correct": "A"
+  },
+  {
+    "id": 84,
+    "question": "Tabiiy tahdidlar guruhiga nimalar kiradi?",
+    "answer_a": "Toshqinlar, yong'inlar, zilzila va chaqmoq",
+    "answer_b": "Vandalizm va o'g'irlik",
+    "answer_c": "Xakerlik hujumlari va spamlar",
+    "answer_d": "Ijtimoiy injineriya va terrorizm",
+    "correct": "A"
+  },
+  {
+    "id": 85,
+    "question": "Server xonalarining binolar yerto'lasida joylashganligi qaysi tabiiy ofat vaqtida xavfni oshiradi?",
+    "answer_a": "Toshqinlar",
+    "answer_b": "Zilzilalar",
+    "answer_c": "Chaqmoq va momaqaldiroq",
+    "answer_d": "Yuqori harorat",
+    "correct": "A"
+  },
+  {
+    "id": 86,
+    "question": "Xafa bo'lgan yoki sobiq xodimlar tomonidan tizimga zarar yetkazilishi nima deb ataladi?",
+    "answer_a": "Vandalizm",
+    "answer_b": "Ijtimoiy injineriya",
+    "answer_c": "Tabiiy ofat",
+    "answer_d": "Texnik nazorat",
+    "correct": "A"
+  },
+  {
+    "id": 87,
+    "question": "Fizik xavfsizlik nazoratining qaysi turi shaxsga qaratilgan usullarni va ma'muriy choralarni o'z ichiga oladi?",
+    "answer_a": "Ma'muriy nazorat",
+    "answer_b": "Texnik nazorat",
+    "answer_c": "Fizik nazorat",
+    "answer_d": "Mantiqiy nazorat",
+    "correct": "A"
+  },
+  {
+    "id": 88,
+    "question": "Kichik vertikal ustun shaklida bo'lib, avtomobillarni binoga kirishidan himoyalovchi to'siq nima?",
+    "answer_a": "Tumba",
+    "answer_b": "Turniket",
+    "answer_c": "Metall panjara",
+    "answer_d": "Detektor",
+    "correct": "A"
+  },
+  {
+    "id": 89,
+    "question": "Aktiv yong'inga qarshi himoya tizimiga nima kiradi?",
+    "answer_a": "Suv sepish va tutunni aniqlash tizimlari",
+    "answer_b": "Yong'inga qarshi eshiklar va devorlar",
+    "answer_c": "Yonmaydigan qurilish materiallari",
+    "answer_d": "Qo'shimcha chiqish yo'llari",
+    "correct": "A"
+  },
+  {
+    "id": 90,
+    "question": "Fizik xavfsizlikda \"Toza stol\" (Clean Desk) siyosati nimani anglatadi?",
+    "answer_a": "Muhim axborotlarni ish joyida nazoratsiz qoldirmaslik",
+    "answer_b": "Ish stolidagi changlarni har kuni artib turish",
+    "answer_c": "Kompyuter monitorini har doim o'chiq holda saqlash",
+    "answer_d": "Stol ustida faqat kompyuter bo'lishini ta'minlash",
+    "correct": "A"
+  },
+  {
+    "id": 91,
+    "question": "Uzluksiz elektr energiyasi bilan ta'minlovchi qurilma qanday ataladi?",
+    "answer_a": "UPS (Uninterruptible power supply)",
+    "answer_b": "HVAC",
+    "answer_c": "CCTV",
+    "answer_d": "IDS",
+    "correct": "A"
+  },
+  {
+    "id": 92,
+    "question": "Ikki eshikli, birinchi eshik yopilmaguncha ikkinchisi ochilmaydigan xavfsizlik hududi nima?",
+    "answer_a": "Qopqon (Mantrap)",
+    "answer_b": "Turniket",
+    "answer_c": "Shlyuz",
+    "answer_d": "Tambur",
+    "correct": "A"
+  },
+  {
+    "id": 93,
+    "question": "Fizik xavfsizlik xodimlarining (qo'riqchilar) ish tartibi qanday bo'lishi tavsiya etiladi?",
+    "answer_a": "24x7x365 tartibida",
+    "answer_b": "Faqat ish vaqtida (09:00 - 18:00)",
+    "answer_c": "Dam olish kunlaridan tashqari har kuni",
+    "answer_d": "Faqat tunda binoni qo'riqlash tartibida",
+    "correct": "A"
+  },
+  {
+    "id": 94,
+    "question": "Yashirin qurol va bombalarni aniqlashda qaysi qurilmadan foydalaniladi?",
+    "answer_a": "X-ray aniqlash tizimlari",
+    "answer_b": "CCTV kameralari",
+    "answer_c": "Smart kartalar",
+    "answer_d": "Barmoq izi skanerlari",
+    "correct": "A"
+  },
+  {
+    "id": 95,
+    "question": "HVAC tizimi tashkilotda nima uchun xizmat qiladi?",
+    "answer_a": "Xona ichidagi harorat, ventilyatsiya va havoni nazoratlash uchun",
+    "answer_b": "Video kuzatuvni amalga oshirish va doimiy kuzatuvni amalga oshirish uchun",
+    "answer_c": "Elektr energiyasini tejash uchun",
+    "answer_d": "Kirish-chiqish ruxsatnomalarini tekshirish uchun",
+    "correct": "A"
+  },
+  {
+    "id": 96,
+    "question": "Xabardorlikni oshirish uchun oylik yoki haftalik o'tkaziladigan mashg'ulotlar nima deb ataladi?",
+    "answer_a": "Aylana stol mashg'ulotlari",
+    "answer_b": "Master klasslar",
+    "answer_c": "Vandalizmga qarshi kurash",
+    "answer_d": "Texnik nazorat auditi",
+    "correct": "A"
+  },
+  {
+    "id": 97,
+    "question": "Fizik xavfsizlik yorliqlari ichida eng yuqori maxfiylik darajasi qaysi?",
+    "answer_a": "O'ta maxfiy ma'lumotlar (top secret)",
+    "answer_b": "Maxfiy ma'lumotlar (secret)",
+    "answer_c": "Konfidensial ma'lumotlar (Confidentiality)",
+    "answer_d": "Chegaralangan ma'lumotlar (Restricted)",
+    "correct": "A"
+  },
+  {
+    "id": 98,
+    "question": "Noutbuklarni o'g'irlikdan himoyalash uchun qanday choralar ko'riladi?",
+    "answer_a": "Mexanik qulflar yordamida stolga qulflash",
+    "answer_b": "Ularni faqat internetga ulab qo'yish",
+    "answer_c": "Antivirus dasturini yangilash",
+    "answer_d": "Ekran parolini o'zgartirish va shifrlash funksiyasini yoqib qo'yish",
+    "correct": "A"
+  },
+  {
+    "id": 99,
+    "question": "Tashkilot binosini tanlashda qaysi omil fizik xavfsizlik uchun eng muhim?",
+    "answer_a": "Hududdagi jinoyatchilik ko'rsatkichi va tabiiy ofatlar xavfi",
+    "answer_b": "Binoning nechanchi yilda qurilganligi va ijara narxining pastligi",
+    "answer_c": "Binoning rangli va chiroyli ko'rinishi",
+    "answer_d": "Atrofdagi do'konlarning ko'pligi",
+    "correct": "A"
+  },
+  {
+    "id": 100,
+    "question": "Foydalanuvchining o'zini kimdir deb da'vo qilish jarayoni nima deb ataladi?",
+    "answer_a": "Identifikatsiya",
+    "answer_b": "Autentifikatsiya",
+    "answer_c": "Avtorizatsiya",
+    "answer_d": "Kriptobardoshlik",
+    "correct": "A"
+  },
+  {
+    "id": 101,
+    "question": "Foydalanuvchining (yoki uning nomidan ish ko'ruvchi vositaning) tizimdan foydalanish huquqiga egaligini tekshirish jarayoni nima?",
+    "answer_a": "Autentifikatsiya",
+    "answer_b": "Identifikatsiya",
+    "answer_c": "Avtorizatsiya",
+    "answer_d": "Shifrlash",
+    "correct": "A"
+  },
+  {
+    "id": 102,
+    "question": "Autentifikatsiyadan muvaffaqiyatli o'tgan foydalanuvchiga tizimda ma'lum amallarni bajarish huquqini berish jarayoni qanday nomlanadi?",
+    "answer_a": "Avtorizatsiya",
+    "answer_b": "Identifikatsiya",
+    "answer_c": "Autentifikatsiya",
+    "answer_d": "Audit",
+    "correct": "A"
+  },
+  {
+    "id": 103,
+    "question": "\"Siz kimsiz?\" degan savolga xavfsizlikning qaysi tushunchasi javob beradi?",
+    "answer_a": "Identifikatsiya",
+    "answer_b": "Autentifikatsiya",
+    "answer_c": "Avtorizatsiya",
+    "answer_d": "Seans biletlari",
+    "correct": "A"
+  },
+  {
+    "id": 104,
+    "question": "\"Sizga buni bajarishga ruxsat bormi?\" degan savol qaysi jarayonga tegishli?",
+    "answer_a": "Avtorizatsiya",
+    "answer_b": "Identifikatsiya",
+    "answer_c": "Autentifikatsiya",
+    "answer_d": "Ko'p omilli himoya",
+    "correct": "A"
+  },
+  {
+    "id": 105,
+    "question": "Agar tomonlardan biri ikkinchisini autentifikatsiyadan o'tkazsa, bu qanday autentifikatsiya deb ataladi?",
+    "answer_a": "Bir tomonlama",
+    "answer_b": "Ikki tomonlama",
+    "answer_c": "Ko'p omilli",
+    "answer_d": "Bilvosita",
+    "correct": "A"
+  },
+  {
+    "id": 106,
+    "question": "Elektron to'lov tizimlarida server foydalanuvchini, foydalanuvchi esa serverni tekshirishi nima deb ataladi?",
+    "answer_a": "Ikki tomonlama autentifikatsiyalash",
+    "answer_b": "Bir tomonlama autentifikatsiyalash",
+    "answer_c": "Parolli himoya",
+    "answer_d": "Kognitiv autentifikatsiya",
+    "correct": "A"
+  },
+  {
+    "id": 107,
+    "question": "Autentifikatsiyada tekshirish faqat bitta omil (masalan, parol) bo'yicha amalga oshirilsa, bu qanday nomlanadi?",
+    "answer_a": "Bir omilli autentifikatsiya",
+    "answer_b": "Ko'p omilli autentifikatsiya",
+    "answer_c": "Avtorizatsiya",
+    "answer_d": "Sinxron dinamik tizim",
+    "correct": "A"
+  },
+  {
+    "id": 108,
+    "question": "Parolning tasodifiy tarzda oshkor qilinish qiyinligini o'lchovchi matematik ko'rsatkich nima?",
+    "answer_a": "Axborot entropiyasi (nomalumligi)",
+    "answer_b": "FAR ko'rsatkichi (yuqori bo'lishi)",
+    "answer_c": "FRR ko'rsatkichi (past bo'lishi)",
+    "answer_d": "Kognitiv koeffitsient",
+    "correct": "A"
+  },
+  {
+    "id": 109,
+    "question": "Kompyuterning USB-portiga ulanuvchi, tarkibida mikroprosessor va o'quvchi qurilmasi bo'lgan vosita nima?",
+    "answer_a": "USB kalit (token)",
+    "answer_b": "iButton",
+    "answer_c": "RFID-radiometka",
+    "answer_d": "Disketa",
+    "correct": "A"
+  },
+  {
+    "id": 110,
+    "question": "Ideal biometrik parametrning hamma foydalanuvchilarda mavjud bo'lish xususiyati nima deb ataladi?",
+    "answer_a": "Universallik",
+    "answer_b": "Farqlilik",
+    "answer_c": "O'zgarmaslik",
+    "answer_d": "To'planuvchanlik",
+    "correct": "A"
+  },
+  {
+    "id": 111,
+    "question": "Biometrik tizimlarda \"foydalanishga yolg'on ruxsatlar chastotasi\" qaysi ko'rsatkich bilan aniqlanadi?",
+    "answer_a": "FAR (False Acceptance Rate)",
+    "answer_b": "FRR (False Rejection Rate)",
+    "answer_c": "H (Entropiya)",
+    "answer_d": "A (Alfavit quvvati)",
+    "correct": "A"
+  },
+  {
+    "id": 112,
+    "question": "Biometrik tizimlarda FRR (False Rejection Rate) ko'rsatkichi nimani anglatadi?",
+    "answer_a": "Foydalanishga yolg'on inkorlar chastotasi",
+    "answer_b": "Foydalanishga yolg'on ruxsatlar chastotasi",
+    "answer_c": "Parolni generatsiyalash vaqti",
+    "answer_d": "Tizimning barqarorlik koeffitsienti",
+    "correct": "A"
+  },
+  {
+    "id": 113,
+    "question": "Qaysi biometrik usul inson nutqining chastotasi yoki statistik xarakteristikalariga asoslangan?",
+    "answer_a": "Ovoz bo'yicha",
+    "answer_b": "Klaviatura dastxati bo'yicha",
+    "answer_c": "Qo'lyozma dastxati bo'yicha",
+    "answer_d": "Kaft biometriyasi bo'yicha",
+    "correct": "A"
+  },
+  {
+    "id": 114,
+    "question": "Elektron pochta tizimida foydalanuvchining manzili nima deb ataladi?",
+    "answer_a": "Identifikator",
+    "answer_b": "Avtorizatsiya kodi",
+    "answer_c": "Kognitiv parol",
+    "answer_d": "Biometrik namuna",
+    "correct": "A"
+  },
+  {
+    "id": 115,
+    "question": "Autentifikatsiya jarayoni natijasi odatda qanday ko'rinishda bo'ladi?",
+    "answer_a": "Binar qaror (ruxsat beriladi yoki yo'q).",
+    "answer_b": "Faqat foydalanuvchi ismini ko'rsatish.",
+    "answer_c": "Parol entropiyasini hisoblash.",
+    "answer_d": "Yangi bilet generatsiyalash.",
+    "correct": "A"
+  },
+  {
+    "id": 116,
+    "question": "Ideal biometrik tizimda FAR va FRR ko'rsatkichlari qanchaga teng bo'lishi kerak?",
+    "answer_a": "Nolga teng bo'lishi shart.",
+    "answer_b": "100 foizga teng bo'lishi kerak.",
+    "answer_c": "FAR yuqori, FRR esa past bo'lishi kerak.",
+    "answer_d": "Doimiy ravishda o'zgarib turishi kerak.",
+    "correct": "A"
+  },
+  {
+    "id": 117,
+    "question": "Risk so'zining kiberxavfsizlikdagi to'g'ri ta'rifi qaysi bandda keltirilgan?",
+    "answer_a": "Manbaga zarar keltiradigan ichki yoki tashqi zaiflik tahdidini bo'lishi ehtimoli.",
+    "answer_b": "Tizimning xavfsiz holatini ta'minlovchi doimiy dastur.",
+    "answer_c": "Faqat tarmoqdagi nosozliklar va xatoliklar miqdori bo'lib, uning soni muhim hisoblanadi.",
+    "answer_d": "Xodimlarni rag'batlantirish va baholash tizimi.",
+    "correct": "A"
+  },
+  {
+    "id": 118,
+    "question": "Risk, tahdid, zaiflik va ta'sir tushunchalari o'rtasidagi bog'lanish qanday ifodalanadi?",
+    "answer_a": "RISK = Tahdid x Zaiflik x Ta'sir.",
+    "answer_b": "RISK = Tahdid + Zaiflik - Ta'sir.",
+    "answer_c": "RISK = Tahdid / Zaiflik + Ta'sir.",
+    "answer_d": "RISK = Zaiflik - Tahdid + Ta'sir.",
+    "correct": "A"
+  },
+  {
+    "id": 119,
+    "question": "Risk o'zida qaysi ikkita asosiy omilni mujassamlashtiradi?",
+    "answer_a": "Zararli hodisaning yuzaga kelishi ehtimoli va zararli hodisa oqibatlarining ehtimoli.",
+    "answer_b": "Dasturiy ta'minot narxi va dasturni o'rnatish vaqtini ifodalovchi omillarni birlashtiradi.",
+    "answer_c": "Tizim ishlash tezligi va kompyuter xotirasi hajmi.",
+    "answer_d": "Foydalanuvchilar soni va tarmoq o'tkazuvchanligi.",
+    "correct": "A"
+  },
+  {
+    "id": 120,
+    "question": "Tarmoqga yoki tizimga natijaviy ta'sirning bahosi hisoblangan \"Risk darajasi\" qanday aniqlanadi?",
+    "answer_a": "Risk darajasi = Natija x Ehtimollik.",
+    "answer_b": "Risk darajasi = Tahdid + Zaiflik.",
+    "answer_c": "Risk darajasi = Ta'sir / Natija.",
+    "answer_d": "Risk darajasi = Ehtimollik - Natija.",
+    "correct": "A"
+  },
+  {
+    "id": 121,
+    "question": "Manbaalarda risk darajalari nechta guruhga bo'lingan?",
+    "answer_a": "4 ta (ekstremal yuqori, yuqori, o'rta, past).",
+    "answer_b": "7 ta (o'ta yuqori, o'rtacha yuqori, past yuqori, yuqori, o'rta, past, juda past).",
+    "answer_c": "2 ta (jiddiy xavf va jiddiy bo'lmagan xavf).",
+    "answer_d": "5 ta (kiritish, saqlash, ishlash, uzatish, o'chirish).",
+    "correct": "A"
+  },
+  {
+    "id": 122,
+    "question": "Risklarning takrorlanish chastotasi va ko'p sonliligiga asoslanib, ular qanday ikki asosiy guruhga ajratiladi?",
+    "answer_a": "Minor risklar va major risklar.",
+    "answer_b": "Katta risklar va kichik risklar.",
+    "answer_c": "Mahalliy risklar va global risklar.",
+    "answer_d": "Kunduzgi risklar va tungi risklar.",
+    "correct": "A"
+  },
+  {
+    "id": 123,
+    "question": "Zudlik bilan aniqlash hamda maxsus yo'naltirilgan qarshi choralarni talab etuvchi risklar qaysi darajaga kiradi?",
+    "answer_a": "Ekstremal yuqori yoki yuqori risklar.",
+    "answer_b": "O'rta darajali yoki past darajali risklar.",
+    "answer_c": "Past darajali risklar.",
+    "answer_d": "Minor risklar.",
+    "correct": "A"
+  },
+  {
+    "id": 124,
+    "question": "Risk matritsasi qanday maqsadlarda foydalaniladi?",
+    "answer_a": "Risklarni paydo bo'lish ehtimolini ularning natijasi va ta'siri orqali aniqlash hamda uning jiddiyligini grafik orqali taqdim etish uchun.",
+    "answer_b": "Foydalanuvchilarning maxfiy parollarini xavfsiz bazada saqlash uchun.",
+    "answer_c": "Antivirus dasturlarini kunlik yangilash jadvallarini tuzish va viruslarni ta'sirini kun bo'yicha grafik ko'rinishda tasvirlash maqsadida.",
+    "answer_d": "Kompyuterlarning qattiq diskini (HDD/SSD) tozalash uchun.",
+    "correct": "A"
+  },
+  {
+    "id": 125,
+    "question": "Risklarni boshqarish deb nimaga aytiladi?",
+    "answer_a": "Risklarni aniqlash, baholash, javob berish va bo'lishi mumkin bo'lgan ta'sirga tashkilot tomonidan javob berilishini amalga oshirish jarayoniga.",
+    "answer_b": "Yangi kompyuter va serverlarni sotib olish, o'rnatish hamda litsenziyalashga.",
+    "answer_c": "Tarmoq kabellarini bino bo'ylab tortish va kommutatorlarga ulash jarayoniga.",
+    "answer_d": "Xodimlarning davomatini nazorat qilish va ish haqi yozish tizimiga.",
+    "correct": "A"
+  },
+  {
+    "id": 126,
+    "question": "Tashkilotda risklar paydo bo'lishiga qadar ularni aniqlash uchun siyosat va usullarni ishlab chiqishga kim rahbar hisoblanadi?",
+    "answer_a": "Bosh boshqaruvchi.",
+    "answer_b": "Rivojlantirish jamoasi menejeri.",
+    "answer_c": "Xavfsizlik bo'yicha murabbiy.",
+    "answer_d": "Mijozlarga xizmat ko'rsatuvchi menejer.",
+    "correct": "A"
+  },
+  {
+    "id": 127,
+    "question": "Xodimlarni xavfsizlik bo'yicha o'qitish hamda axborot texnologiyalarida bo'lishi mumkin bo'lgan risklarning biznes jarayonlariga ta'sirini boshqarish qaysi lavozim egasining vazifasi?",
+    "answer_a": "Axborot texnologiyalari bo'yicha direktor.",
+    "answer_b": "Savdo menejeri.",
+    "answer_c": "Tizim va axborot egalari.",
+    "answer_d": "AT xavfsizlik amaliyotchilari.",
+    "correct": "A"
+  },
+  {
+    "id": 128,
+    "question": "Axborot tizimlari uchun ishlab chiqilgan rejalar va siyosatlarni monitoring qilib borish kimning asosiy vazifasi hisoblanadi?",
+    "answer_a": "Tizim va axborot egalari.",
+    "answer_b": "AT xavfsizlik dasturi menejerlari.",
+    "answer_c": "Rivojlantirish jamoasi menejeri.",
+    "answer_d": "Kompyuter xavfsizligi bo'limi direktori.",
+    "correct": "A"
+  },
+  {
+    "id": 129,
+    "question": "Tashkilotda xavfsizlik bo'yicha tayyorgarlik va o'quv kurslarini amalga oshiruvchi shaxs qanday ataladi?",
+    "answer_a": "Xavfsizlik bo'yicha murabbiy.",
+    "answer_b": "Bosh axborot direktori.",
+    "answer_c": "AT xavfsizlik amaliyotchisi.",
+    "answer_d": "Funksional menejer.",
+    "correct": "A"
+  },
+  {
+    "id": 130,
+    "question": "Risklarni boshqarish jarayoni asosiy nechta bosqichga ajratiladi?",
+    "answer_a": "4 ta (Risklarni aniqlash, baholash, bartaraf etish, monitoring va qayta ko'rib chiqish).",
+    "answer_b": "3 ta (Rejalashtirish, xavfsizlikni ta'minlash, testlash).",
+    "answer_c": "5 ta (Kiritish, qayta ishlash, saqlash, uzatish, o'chirish).",
+    "answer_d": "2 ta (Boshlang'ich tahlil va yakuniy xulosa).",
+    "correct": "A"
+  },
+  {
+    "id": 131,
+    "question": "Risklar odatda qaysi 4 ta muhim sohada vujudga keladi?",
+    "answer_a": "Muhit, jihoz, mijoz va vazifalar.",
+    "answer_b": "Dasturlash, dizayn, testlash va hujjatlashtirish.",
+    "answer_c": "Operatsion tizimlar, drayverlar, yordamchi dasturlar va o'yinlar.",
+    "answer_d": "Faqat apparat ta'minoti va elektr toki tizimlarida.",
+    "correct": "A"
+  },
+  {
+    "id": 132,
+    "question": "Tashkilotdagi risklarga baho beriladigan hamda bu risklarning ta'siri yoki yuzaga kelish ehtimoli hisoblanadigan bosqich qaysi?",
+    "answer_a": "Risklarni baholash.",
+    "answer_b": "Risklarni yo'q qilish.",
+    "answer_c": "Axborot tizimlarini yangilash.",
+    "answer_d": "Risk monitoringi.",
+    "correct": "A"
+  },
+  {
+    "id": 133,
+    "question": "Risklarni baholash jarayoni qanday ikki bosqichda amalga oshiriladi?",
+    "answer_a": "Riskni tahlillash va riskni darajalarga ajratish.",
+    "answer_b": "Axborotni yig'ish va xatosini tekshirish.",
+    "answer_c": "Dastur kodini yozish va testdan o'tkazish.",
+    "answer_d": "Uskunalarni sotib olish va sozlash.",
+    "correct": "A"
+  },
+  {
+    "id": 134,
+    "question": "Aniqlangan risklarni modifikatsiyalash maqsadida mos nazoratni tanlash bosqichida birinchi bo'lib qanday risklarga murojaat qilinadi?",
+    "answer_a": "Miqdoriy darajasi yuqori bo'lgan risklarga.",
+    "answer_b": "Paydo bo'lish ehtimoli eng past bo'lgan risklarga.",
+    "answer_c": "Moliyaviy xarajat talab qilmaydigan risklarga.",
+    "answer_d": "Barcha risklarga bir vaqtning o'zida.",
+    "correct": "A"
+  },
+  {
+    "id": 135,
+    "question": "Yangi risklarni paydo bo'lish imkoniyatini aniqlaydigan va mos nazorat usuli amalga oshirilganligini kafolatlaydigan jarayon qanday nomlanadi?",
+    "answer_a": "Risk monitoringi.",
+    "answer_b": "Riskni tahlil qilish.",
+    "answer_c": "Riskdan qochish taktikasi.",
+    "answer_d": "Tizim konfiguratsiyasi.",
+    "correct": "A"
+  },
+  {
+    "id": 136,
+    "question": "WPAN qanday tarmoq turiga kiradi?",
+    "answer_a": "Shaxsiy simsiz tarmoq",
+    "answer_b": "Lokal simsiz tarmoq",
+    "answer_c": "Shahar simsiz tarmog'i",
+    "answer_d": "Global simsiz tarmoq",
+    "correct": "A"
+  },
+  {
+    "id": 137,
+    "question": "Wi-Fi (802.11) texnologiyasi asosan qaysi simsiz tarmoq sinfida qo'llaniladi?",
+    "answer_a": "WLAN (lokal simsiz tarmoqlar)",
+    "answer_b": "WPAN (shaxsiy simsiz tarmoqlar)",
+    "answer_c": "WMAN (shahar simsiz tarmoqlar)",
+    "answer_d": "WWAN (global simsiz tarmoqlar)",
+    "correct": "A"
+  },
+  {
+    "id": 138,
+    "question": "Bluetooth va ZigBee texnologiyalari qaysi tarmoqning asosiy texnologiyalari hisoblanadi?",
+    "answer_a": "WPAN",
+    "answer_b": "WLAN",
+    "answer_c": "WMAN",
+    "answer_d": "WWAN",
+    "correct": "A"
+  },
+  {
+    "id": 139,
+    "question": "Bino tashqarisida Internetdan mobil foydalanish uchun qaysi tarmoq turi qo'llaniladi?",
+    "answer_a": "WWAN (global simsiz tarmoqlar)",
+    "answer_b": "WLAN (lokal simsiz tarmoqlar)",
+    "answer_c": "WPAN (shaxsiy simsiz tarmoqlar)",
+    "answer_d": "LAN (lokal simli tarmoqlar)",
+    "correct": "A"
+  },
+  {
+    "id": 140,
+    "question": "Simli va simsiz tarmoqlar orasidagi xavfsizlikka oid asosiy farqlardan biri nima?",
+    "answer_a": "Simsiz tarmoq chetki nuqtalari orasida mutlaqo nazoratlanmaydigan hududning mavjudligi",
+    "answer_b": "Simsiz tarmoqlarda ma'lumotlarning doimo ochiq matn shaklida uzatilishi va himoyalanmasligi",
+    "answer_c": "Simli tarmoqlarda parollardan umuman foydalanilmasligi",
+    "answer_d": "Simsiz tarmoqlarda shifrlashning texnik jihatdan ilojsizligi",
+    "correct": "A"
+  },
+  {
+    "id": 141,
+    "question": "Simsiz tarmoqlarda \"Yashirincha eshitish\" hujumi qanday muhitda eng ko'p tarqalgan muammo hisoblanadi?",
+    "answer_a": "Ochiq va boshqarilmaydigan muhitda",
+    "answer_b": "Qat'iy nazorat qilinadigan harbiy tarmoqlarda",
+    "answer_c": "Faqatgina simli lokal tarmoqlarda",
+    "answer_d": "To'liq izolyatsiya qilingan laboratoriyalarda",
+    "correct": "A"
+  },
+  {
+    "id": 142,
+    "question": "Stansiyalar bir-biri bilan bog'lana olmasligiga olib keluvchi va tarmoqni butunlay ishdan chiqarishi mumkin bo'lgan hujum qanday nomlanadi?",
+    "answer_a": "DoS hujumi",
+    "answer_b": "WEP kalitini buzish",
+    "answer_c": "Egizak router hujumi",
+    "answer_d": "MAC manzilni o'zgartirish",
+    "correct": "A"
+  },
+  {
+    "id": 143,
+    "question": "MITM (O'rtada turgan odam) hujumidan asosan qanday maqsadda foydalaniladi?",
+    "answer_a": "Aloqa seansining konfidensialligini va yaxlitligini buzish uchun",
+    "answer_b": "Wi-Fi routerining antennalarini jismoniy shikastlash va buzish uchun",
+    "answer_c": "Tarmoqning ishlash tezligini sun'iy ravishda oshirish uchun",
+    "answer_d": "Yangi abonentlarni ro'yxatdan o'tkazish uchun",
+    "correct": "A"
+  },
+  {
+    "id": 144,
+    "question": "Tarmoqdagi rouming jarayonida uzluksiz aloqani ta'minlash uchun simsiz tarmoqlarda qanday mexanizmlar ishlatiladi?",
+    "answer_a": "Mobil IP-adreslar va boshqa rouming mexanizmlari",
+    "answer_b": "Faqatgina o'zgarmas statik IP manzillardan foydalanish",
+    "answer_c": "Routerni har safar qayta ishga tushirish qoidalari",
+    "answer_d": "Tarmoq simlarini vaqtincha ulash",
+    "correct": "A"
+  },
+  {
+    "id": 145,
+    "question": "Jamoat joylarida tarmoqqa ulanish sozlanmalari qaysi oddiy usul orqali osonlik bilan qo'lga kiritilishi mumkin?",
+    "answer_a": "Yelka orqali qarash",
+    "answer_b": "Murakkab kriptoanaliz o'tkazish",
+    "answer_c": "Ma'lumotlarni arxivlash dasturlaridan foydalanish",
+    "answer_d": "Antivirusni o'chirish",
+    "correct": "A"
+  },
+  {
+    "id": 146,
+    "question": "Simsiz tarmoq qurilmalaridan foydalanishni boshlashdan oldin xavfsizlikni ta'minlash uchun qanday qadamni bajarish shart?",
+    "answer_a": "Joriy o'rnatilgan sozlanish parolini almashtirish",
+    "answer_b": "Qurilmaning zavod sozlamalarini bloklash",
+    "answer_c": "Barcha himoya vositalarini vaqtincha o'chirish",
+    "answer_d": "Parolni ijtimoiy tarmoqlarda saqlash",
+    "correct": "A"
+  },
+  {
+    "id": 147,
+    "question": "Tarmoqqa ulanuvchi har bir qurilmaning ajralmas manzili qanday nomlanadi?",
+    "answer_a": "MAC manzili",
+    "answer_b": "HTTP manzili",
+    "answer_c": "Broadcast manzili",
+    "answer_d": "DAC manzili",
+    "correct": "A"
+  },
+  {
+    "id": 148,
+    "question": "Foydalanishni cheklash maqsadida tarmoqqa faqat ruxsat etilgan qurilmalarni ulash uchun nima tekshiriladi?",
+    "answer_a": "Qurilmalarning MAC manzillari",
+    "answer_b": "Foydalanuvchining elektron pochta paroli",
+    "answer_c": "Operatsion tizimning litsenziyasi",
+    "answer_d": "Batareya quvvati darajasi",
+    "correct": "A"
+  },
+  {
+    "id": 149,
+    "question": "Simsiz lokal tarmoqlarda ma'lumotlarni ruxsatsiz o'qishdan himoyalash uchun qaysi shifrlash protokollaridan foydalaniladi?",
+    "answer_a": "WEP, WPA, WPA2 va WPA3",
+    "answer_b": "TCP, UDP, IP, WPA",
+    "answer_c": "HTML, CSS, JavaScript",
+    "answer_d": "FTP, SMTP, POP3",
+    "correct": "A"
+  },
+  {
+    "id": 150,
+    "question": "Mavjud shifrlash protokollari orasida qaysi biri eng bardoshli va xavfsiz hisoblanadi?",
+    "answer_a": "WPA3",
+    "answer_b": "WEP",
+    "answer_c": "WPA",
+    "answer_d": "Hech qanday shifrlashsiz ochiq kanal",
+    "correct": "A"
+  },
+  {
+    "id": 151,
+    "question": "Qaysi eskirgan protokoldan foydalanilganda tarmoqni yashirincha eshitish imkoniyati juda katta bo'ladi?",
+    "answer_a": "WEP",
+    "answer_b": "WPA3",
+    "answer_c": "WPA2",
+    "answer_d": "HTTPS",
+    "correct": "A"
+  },
+  {
+    "id": 152,
+    "question": "Hujumchining simsiz tarmoqni topishini qiyinlashtirish uchun tarmoq nomiga nisbatan qanday yo'l tutish tavsiya etiladi?",
+    "answer_a": "SSID ni oshkor etmaslik (yashirish) va uni yangilab turish",
+    "answer_b": "SSID ni hamma ko'rishi uchun har doim,ochiq qoldirish",
+    "answer_c": "Tarmoq nomiga parolning o'zini yozib qo'yish",
+    "answer_d": "SSID ni zavod sozlamalarida \"Admin\" deb qoldirish",
+    "correct": "A"
+  },
+  {
+    "id": 153,
+    "question": "Hujumchini to'g'ridan-to'g'ri simsiz tarmoqqa ulanishini oldini olish uchun qanday dasturiy/apparat vositani o'rnatish maslahat beriladi?",
+    "answer_a": "Tarmoqlararo ekran vositasi",
+    "answer_b": "Matn muharriri",
+    "answer_c": "Brauzer kengaytmalari",
+    "answer_d": "Faqatgina arxivlovchi dasturlar",
+    "correct": "A"
+  },
+  {
+    "id": 154,
+    "question": "Xavfsizlik nuqtai nazaridan fayl almashish jarayonini qanday tarmoqlarda amalga oshirish xavfsizroq?",
+    "answer_a": "Faqat shaxsiy yoki uy tarmog'ida",
+    "answer_b": "Aeroportlardagi himoyalanmagan ochiq tarmoqlarda",
+    "answer_c": "Ixtiyoriy parolsiz Wi-Fi nuqtalarida",
+    "answer_d": "Notanish jamoat tarmoqlarida",
+    "correct": "A"
+  },
+  {
+    "id": 155,
+    "question": "Simsiz tarmoq qurilmalaridagi yangi aniqlangan xavfsizlik muammolarini bartaraf etish uchun foydalanuvchi nima qilishi kerak?",
+    "answer_a": "Dasturiy vositalarni (proshivkalarni) muntazam yangilab borishi",
+    "answer_b": "Yangilanishlarni har doim rad etishi va dastlabki holatda saqlab turishi",
+    "answer_c": "Qurilmani eski versiyasiga qaytarishi",
+    "answer_d": "Tarmoq qurilmasini umuman o'chirib qo'yishi",
+    "correct": "A"
+  },
+  {
+    "id": 156,
+    "question": "Boshqariluvchi kommutatorlarning (kanal sathi) eng katta zaifligi nima deb ko'rsatilgan?",
+    "answer_a": "MAC-adresni almashtirish (spoofing) hujumiga zaifligi.",
+    "answer_b": "Faqat bitta kabel orqali ulanish imkoniyati borligi.",
+    "answer_c": "Internet tezligini avtomatik tarzda pasaytirishi.",
+    "answer_d": "Ular uchun hech qanday drayver yozib bo'lmasligi.",
+    "correct": "A"
+  },
+  {
+    "id": 157,
+    "question": "UTM (Unified Threat Management) qurilmasining NG Firewall'dan asosiy farqi nimada?",
+    "answer_a": "UTM perimetrli himoyalashning kompleks yechimi bo'lib, o'zida antivirus, spamga qarshi modullarni birlashtiradi.",
+    "answer_b": "UTM faqat parollarni lug'at asosida saralash uchun yaratilgan va narxi jihatidan ancha arzon vositalar hisoblanadi.",
+    "answer_c": "NG Firewall faqat \"zombi\" kompyuterlarni aniqlashga xizmat qiladi.",
+    "answer_d": "UTM faqat bitta kompyuter ichida ishlaydigan dasturiy ta'minotdir.",
+    "correct": "A"
+  },
+  {
+    "id": 158,
+    "question": "SIEM (Security Information and Event Management) tizimining o'ziga xos mexanizmi qaysi?",
+    "answer_a": "Korrelyatsiya — turli manbalardan olingan hodisalarni o'zaro bog'lab tahlil qilish.",
+    "answer_b": "Filtratsiya — faqat virusli paketlarni o'chirib tashlash hamda hodisa jurnaliga yozmaslik.",
+    "answer_c": "Inkapsulyatsiya — barcha log fayllarni shifrlangan tunnelga joylash.",
+    "answer_d": "Translyatsiya — ichki IP manzillarni ommaviy IP manzillarga almashtirish.",
+    "correct": "A"
+  },
+  {
+    "id": 159,
+    "question": "DLP (Ma'lumotlar sirqib chiqishini oldini olish) tizimi konfidensial hujjatni qanday mantiq bilan bloklaydi?",
+    "answer_a": "Hujjatga berilgan formal alomatlar (nazorat yig'indisi, grif) yoki kontent tahlili asosida.",
+    "answer_b": "Hujjatning yaratilgan sanasi dushanba kuni bo'lsa.",
+    "answer_c": "Hujjatning nomi faqat bosh harflar bilan yozilgan bo'lsa, yaratuvchining ismi nomalum bo'lsa.",
+    "answer_d": "Hujjat hajmi 1 megabaytdan kichik bo'lgan barcha holatlarda.",
+    "correct": "A"
+  },
+  {
+    "id": 160,
+    "question": "\"Honeypot\" (Yolg'on nishon) tizimining tarmoq xavfsizligidagi asosiy strategik maqsadi nima?",
+    "answer_a": "Niyati buzuqning hujum usullarini tadqiqlash va u haqida ko'proq axborot yig'ish.",
+    "answer_b": "Haqiqiy serverlardagi barcha fayllarni yolg'on serverga ko'chirib o'tkazish orqali himoylash.",
+    "answer_c": "Barcha foydalanuvchilarning parollarini bitta bazaga yig'ish.",
+    "answer_d": "Tarmoq tezligini oshirish uchun trafikni soxtalashtirish.",
+    "correct": "A"
+  },
+  {
+    "id": 161,
+    "question": "IDS (Suqilib kirishni aniqlash tizimi) samaradorligi birinchi navbatda nimaga bog'liq?",
+    "answer_a": "Hujumlarning signaturalari va shablonlari mavjud bo'lgan ma'lumotlar bazasining nufuziga.",
+    "answer_b": "Kompyuter monitorining o'lchamiga va sifatiga, suqilib kirishlarning yuqori tezligiga bog'liq.",
+    "answer_c": "Tarmoq kabellarining qaysi materialdan tayyorlanganiga.",
+    "answer_d": "Foydalanuvchining klaviaturada qanchalik tez yozishiga.",
+    "correct": "A"
+  },
+  {
+    "id": 162,
+    "question": "IPSec protokolining \"tunnel rejimi\" \"transport rejimi\"dan mantiqan nimasi bilan farq qiladi?",
+    "answer_a": "Tunnel rejimida butun paket (sarlavhasi bilan birga) shifrlanadi va yangi paket ichiga joylanadi.",
+    "answer_b": "Transport rejimida ma'lumotlar umuman shifrlanmaydi va ochiq ko'rinishida qabul qiluvchiga yetkaziladi.",
+    "answer_c": "Tunnel rejimi faqat simsiz tarmoqlarda ishlashga mo'ljallangan.",
+    "answer_d": "Transport rejimi faqat \"zombi\" kompyuterlar orasida aloqa o'rnatadi.",
+    "correct": "A"
+  },
+  {
+    "id": 163,
+    "question": "VPN (Virtual Private Network) tizimining \"inkapsulyatsiya\" mexanizmi nima?",
+    "answer_a": "Bir sathning tarmoq paketini yuqori sathning yagona paketiga birlashtirib, himoyalangan tunnel yaratish.",
+    "answer_b": "Ma'lumotni faqat arxiv (ZIP) formatiga o'tkazish jarayoni va uni tarmoq bo'ylab shifrlangan holda yuborish.",
+    "answer_c": "Ma'lumotlarni faqat optik tolali kabellar orqali uzatish texnologiyasi.",
+    "answer_d": "Foydalanuvchi kompyuteridagi barcha fayllarni o'chirib yuborish usuli.",
+    "correct": "A"
+  },
+  {
+    "id": 164,
+    "question": "Tarmoqlararo ekranning (Firewall) \"filtratsiya\" mexanizmi qanday mantiq asosida ishlaydi?",
+    "answer_a": "O'tuvchi trafikni oldindan belgilangan qoidalar (filtrlar) bilan solishtirib, paketni o'tkazish yoki o'tkazmaslikka qaror qiladi.",
+    "answer_b": "U barcha turdagi viruslarni avtomatik tarzda davolash bilan shug'ullanadi va antivirus vositasi sifatida xizmat qiladi.",
+    "answer_c": "U faqat xodimlar ijtimoiy tarmoqlarga kirmasligini nazorat qiladi.",
+    "answer_d": "U tarmoq kabelidagi elektr kuchlanishini barqarorlashtiradi.",
+    "correct": "A"
+  },
+  {
+    "id": 165,
+    "question": "DDoS hujumida \"zombi\" kompyuterlar qanday rol o'ynaydi?",
+    "answer_a": "Ular buzg'unchi buyrug'iga binoan bir vaqtning o'zida nishonga ko'p sonli so'rovlar yuborib, uni falaj qiladi.",
+    "answer_b": "Ular faqat viruslarni antivirus bazasidan yashirish bilan shug'ullanadi va buning natijasida katta zarar yetkazadi.",
+    "answer_c": "Ular foydalanuvchining o'chirilgan fayllarini qayta tiklashga yordam beradi.",
+    "answer_d": "Ular faqat ochiq Wi-Fi tarmoqlarini qidirish uchun ishlatiladi.",
+    "correct": "A"
+  },
+  {
+    "id": 166,
+    "question": "NAT (Network Address Translation) texnologiyasining tarmoq xavfsizligidagi mantiqiy o'rni nimadan iborat?",
+    "answer_a": "Ichki hostning maxfiy IP-manzilini vositachining ochiq IP-manziliga almashtirish orqali ichki tarmoq adreslarini tashqi tomondan yashirish.",
+    "answer_b": "Internet tezligini foydalanuvchilar orasida teng taqsimlash orqali hujumchining yuboruvchi so'rovlarini barchaga teng taqsimlash orqali himoyalash.",
+    "answer_c": "Faqat elektron pochta xabarlarini shifrlash.",
+    "answer_d": "Tarmoq kabellarining jismoniy butunligini nazorat qilish.",
+    "correct": "A"
+  },
+  {
+    "id": 167,
+    "question": "Interaktivlik darajasi yuqori bo'lgan \"tuzoq\" (honeypot) tizimlarining xarakterli xususiyati qaysi?",
+    "answer_a": "To'laqonli operatsion tizim va servislar naboriga ega virtual mashina ko'rinishida bo'lishi.",
+    "answer_b": "Faqat bitta tarmoq servisining (masalan, FTP) oddiy emulyatsiyasi bo'lishi va jozibador bo'lishi.",
+    "answer_c": "Hech qanday ma'lumot yig'masdan, faqat viruslarni o'chirishi.",
+    "answer_d": "Faqat kompyuter o'chirilgan vaqtda ishga tushishi.",
+    "correct": "A"
+  },
+  {
+    "id": 168,
+    "question": "Ma'lumotlarning sirqib chiqishini oldini olish (DLP) tizimlarida \"hujjatda berilgan belgilar\" bo'yicha aniqlashning mantiqiy cheklovi nima?",
+    "answer_a": "U hujjatni faqat butunligicha himoyalashga qodir (qisman o'zgarishni sezmasligi mumkin).",
+    "answer_b": "U faqat rasm ko'rinishidagi fayllarni bloklay oladi, boshqa turdagi hujjatlarni aniqlay olmaydi.",
+    "answer_c": "U faqat ingliz tilidagi hujjatlar bilan ishlay oladi.",
+    "answer_d": "U ma'lumotlarni bloklash o'rniga ularni ommaga oshkor qiladi.",
+    "correct": "A"
+  },
+  {
+    "id": 169,
+    "question": "Monitoring tizimlarining rivojlangan bosqichi bo'lgan SIEM (Security Information and Event Management) qaysi funksiyalarni birlashtiradi?",
+    "answer_a": "SEM (xavfsizlik hodisalarini boshqarish) va SIM (xavfsizlik axborotini boshqarish) funksiyalarini.",
+    "answer_b": "Faqat viruslarni o'chirish va diskni formatlash funksiyalarini.",
+    "answer_c": "Faqat foydalanuvchilarning ishga kelish va ketish vaqtini hisoblashni avtomatlashtirish funksiyalarini.",
+    "answer_d": "Internet trafigini barcha foydalanuvchilar o'rtasida teng taqsimlashni.",
+    "correct": "A"
+  },
+  {
+    "id": 170,
+    "question": "Tarmoq resurslarini taqdim etish vazifasi yuklatilgan tarmoq kompyuteri nima deb ataladi?",
+    "answer_a": "Server.",
+    "answer_b": "Mijoz.",
+    "answer_c": "Ishchi stansiyasi.",
+    "answer_d": "Retranslyator.",
+    "correct": "A"
+  },
+  {
+    "id": 171,
+    "question": "Tarmoq resurslaridan foydalanish maqsadida serverga so'rov yuboruvchi qurilmalar qanday nomlanadi?",
+    "answer_a": "Mijozlar.",
+    "answer_b": "Provayderlar.",
+    "answer_c": "Ma'murlar.",
+    "answer_d": "Kontrollerlar.",
+    "correct": "A"
+  },
+  {
+    "id": 172,
+    "question": "Katta bo'lmagan hududda (xona yoki bino ichida) joylashgan kompyuter tarmog'i qanday ataladi?",
+    "answer_a": "Lokal tarmoq (LAN).",
+    "answer_b": "Global tarmoq (WAN).",
+    "answer_c": "Shahar tarmog'i (MAN).",
+    "answer_d": "Regional tarmoq (PAN).",
+    "correct": "A"
+  },
+  {
+    "id": 173,
+    "question": "TCP/IP protokoli bazasida amalga oshirilgan, ammo tashqi Internetdan ajratilgan tarmoq nima deb ataladi?",
+    "answer_a": "Intranet.",
+    "answer_b": "Ekstranet.",
+    "answer_c": "Megatarmoq.",
+    "answer_d": "Umumiy shina.",
+    "correct": "A"
+  },
+  {
+    "id": 174,
+    "question": "\"Mijoz-server\" arxitekturasining asosiy zaif joyi nima hisoblanadi?",
+    "answer_a": "Markaziy serverning buzilishi butun tizimni ishdan chiqarishi.",
+    "answer_b": "Foydalanuvchilarning ko'pligi sababli, boshqarishning murakkabligi.",
+    "answer_c": "Kabel turlarining turlichaligi.",
+    "answer_d": "IP manzillarning yetishmasligi.",
+    "correct": "A"
+  },
+  {
+    "id": 175,
+    "question": "\"Umumiy shina\" topologiyasida kabelning har ikki uchida signal akslanishini oldini olish uchun nima ishlatiladi?",
+    "answer_a": "Terminator.",
+    "answer_b": "Konsentrator.",
+    "answer_c": "Router.",
+    "answer_d": "Kommunikator.",
+    "correct": "A"
+  },
+  {
+    "id": 176,
+    "question": "Qaysi topologiyada har bir kompyuter markaziy konsentrator (hub) bilan ulanadi?",
+    "answer_a": "Yulduzsimon.",
+    "answer_b": "Halqasimon.",
+    "answer_c": "Uyali.",
+    "answer_d": "Aralash.",
+    "correct": "A"
+  },
+  {
+    "id": 177,
+    "question": "Ulanishlarning uzilishiga eng yuqori barqarorlik qaysi topologiyada ta'minlanadi?",
+    "answer_a": "Uyali (mesh) topologiyada.",
+    "answer_b": "Umumiy shinada.",
+    "answer_c": "Halqasimon topologiyada.",
+    "answer_d": "Yulduzsimon topologiyada.",
+    "correct": "A"
+  },
+  {
+    "id": 178,
+    "question": "OSI modelida tizimlarning o'zaro aloqasi necha xil ketma-ket sath orqali amalga oshiriladi?",
+    "answer_a": "7 ta sath.",
+    "answer_b": "4 ta sath.",
+    "answer_c": "5 ta sath.",
+    "answer_d": "10 ta sath.",
+    "correct": "A"
+  },
+  {
+    "id": 179,
+    "question": "OSI modelining eng quyi (birinchi) sathi qanday nomlanadi?",
+    "answer_a": "Fizik sath.",
+    "answer_b": "Tatbiqiy sath.",
+    "answer_c": "Transport sathi.",
+    "answer_d": "Tarmoq sathi.",
+    "correct": "A"
+  },
+  {
+    "id": 180,
+    "question": "Telefon kabi ma'lumot almashishdan avval ulanish o'rnatishni talab qiluvchi protokollar qanday ataladi?",
+    "answer_a": "Ulanishni o'rnatishli (connection oriented) protokollar.",
+    "answer_b": "Datagrammali protokollar.",
+    "answer_c": "Oldindan ulanishni o'rnatishsiz (connectless oriented) protokollar.",
+    "answer_d": "Ochiq protokollar.",
+    "correct": "A"
+  },
+  {
+    "id": 181,
+    "question": "Loyihalashdagi yoki amalga oshirishdagi xatolik natijasida kelib chiqadigan tizim kamchiligi nima deb ataladi?",
+    "answer_a": "Zaiflik.",
+    "answer_b": "Tahdid.",
+    "answer_c": "Hujum.",
+    "answer_d": "Antivirus.",
+    "correct": "A"
+  },
+  {
+    "id": 182,
+    "question": "Yuqori malakali shaxslar tomonidan tarmoq zaifliklarini tezkor aniqlash maqsadida qilinadigan hujum turi?",
+    "answer_a": "Tizimlashgan tashqi tahdidlar.",
+    "answer_b": "Tizimlashmagan tashqi tahdidlar.",
+    "answer_c": "Foydalanuvchi e'tiborsizligi.",
+    "answer_d": "Tug'ma texnologik zaiflik.",
+    "correct": "A"
+  },
+  {
+    "id": 183,
+    "question": "Razvedka hujumlarida portlarni va operatsion tizimni skanerlash qaysi turga kiradi?",
+    "answer_a": "Aktiv razvedka.",
+    "answer_b": "Passiv razvedka.",
+    "answer_c": "Kirish hujumi.",
+    "answer_d": "Parolga qaratilgan hujum.",
+    "correct": "A"
+  },
+  {
+    "id": 184,
+    "question": "Hujumchi \"sniffer\" deb nomlanuvchi vositadan foydalanib trafikni kuzatishi razvedkaning qaysi turiga kiradi?",
+    "answer_a": "Passiv razvedka.",
+    "answer_b": "Aktiv razvedka.",
+    "answer_c": "Brute force.",
+    "answer_d": "DoS hujumi.",
+    "correct": "A"
+  },
+  {
+    "id": 185,
+    "question": "Oldindan hisoblangan keng tarqalgan parollarning xesh qiymatlari saqlanuvchi jadvallar yordamida qilinadigan hujum?",
+    "answer_a": "Rainbow jadvali hujumi.",
+    "answer_b": "Lug'atga asoslangan hujum.",
+    "answer_c": "Qo'pol kuch hujumi.",
+    "answer_d": "Gibrid hujum.",
+    "correct": "A"
+  },
+  {
+    "id": 186,
+    "question": "Internetdagi ko'plab \"zombi\" kompyuterlar orqali amalga oshiriladigan keng qamrovli hujum nima?",
+    "answer_a": "Taqsimlangan DOS hujumi (DDOS).",
+    "answer_b": "Aktiv razvedka asosida sniffing hujumi.",
+    "answer_c": "Rainbow hujumi.",
+    "answer_d": "Rootkit.",
+    "correct": "A"
+  },
+  {
+    "id": 187,
+    "question": "O'zini o'zi ko'paytiradigan va boshqa dastur yoki yuklanuvchi sektorga biriktiradigan zararli dastur?",
+    "answer_a": "Viruslar.",
+    "answer_b": "Troyan otlari.",
+    "answer_c": "Adware.",
+    "answer_d": "Backdoor.",
+    "correct": "A"
+  },
+  {
+    "id": 188,
+    "question": "Marketing maqsadida foydalanuvchi faoliyatini kuzatib, reklama namoyish qiluvchi dasturiy ta'minot?",
+    "answer_a": "Adware.",
+    "answer_b": "Spyware.",
+    "answer_c": "Ransomware.",
+    "answer_d": "Logic bomb.",
+    "correct": "A"
+  },
+  {
+    "id": 189,
+    "question": "Foydalanuvchi ma'lumotlarini yashirincha qo'lga kiritib, uni hujumchiga yuboruvchi zararli kod?",
+    "answer_a": "Spyware.",
+    "answer_b": "Ransomware.",
+    "answer_c": "Logic bomb.",
+    "answer_d": "Adware.",
+    "correct": "A"
+  },
+  {
+    "id": 190,
+    "question": "Operatsion tizim tomonidan aniqlanmasligi uchun o'z harakatlarini yashiradigan zararli vosita?",
+    "answer_a": "Rootkits.",
+    "answer_b": "Backdoors.",
+    "answer_c": "Ransomware.",
+    "answer_d": "Adware.",
+    "correct": "A"
+  },
+  {
+    "id": 191,
+    "question": "Autentifikatsiyadan o'tmasdan (parolsiz) tizimga kirish imkonini beruvchi yashirin yo'l?",
+    "answer_a": "Backdoors.",
+    "answer_b": "Logic bomb.",
+    "answer_c": "Rainbow table.",
+    "answer_d": "Terminator.",
+    "correct": "A"
+  },
+  {
+    "id": 192,
+    "question": "Qurbon kompyuteridagi fayllarni shifrlab yoki bloklab, pul talab qiladigan zararli dastur?",
+    "answer_a": "Ransomware.",
+    "answer_b": "Adware.",
+    "answer_c": "Botnet.",
+    "answer_d": "Rootkit.",
+    "correct": "A"
+  },
+  {
+    "id": 193,
+    "question": "Kiberxavfsizlik zanjiridagi har doim eng zaif nuqta hisoblangan omil nima?",
+    "answer_a": "Insonlar (foydalanuvchilar).",
+    "answer_b": "Antivirus dasturi.",
+    "answer_c": "Zaif parollar va eski dasturlar.",
+    "answer_d": "Operatsion tizim.",
+    "correct": "A"
+  },
+  {
+    "id": 194,
+    "question": "Mobil ilovalarni xavfsiz yuklab olish uchun qaysi manbalardan foydalanish tavsiya etiladi?",
+    "answer_a": "Google Play, Amazon AppStore va Apple App Store.",
+    "answer_b": "Shubhali veb-saytlar va forumlar.",
+    "answer_c": "Ijtimoiy tarmoqlardagi reklama havolalari, tekin olish imkonini beruvchi manbaalar.",
+    "answer_d": "Turli Telegram kanallaridagi \"krek\" versiyalar.",
+    "correct": "A"
+  },
+  {
+    "id": 195,
+    "question": "Sotuvchiga haqiqiy kredit karta raqamini bermasdan onlayn to'lovlarni xavfsiz amalga oshirish imkonini beruvchi tizimlar qaysi?",
+    "answer_a": "PayPal, Samsung Pay, Apple Pay.",
+    "answer_b": "Oddiy SMS xabarnomalar.",
+    "answer_c": "Ijtimoiy sug'urta raqami.",
+    "answer_d": "Faqat naqd pul orqali to'lov qilish.",
+    "correct": "A"
+  },
+  {
+    "id": 196,
+    "question": "Bir martali virtual kredit karta raqamlaridan foydalanishning asosiy afzalligi nima?",
+    "answer_a": "Sotuvchi foydalanuvchining haqiqiy kredit kartasi haqida ma'lumotga ega bo'lmaydi.",
+    "answer_b": "Bu karta orqali cheksiz miqdorda pul sarflash mumkin va bu ma'lumotlar banklarda saqlanmaydi.",
+    "answer_c": "Karta raqamini eslab qolish juda oson.",
+    "answer_d": "Bu karta hech qachon amal qilish muddatiga ega bo'lmaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 197,
+    "question": "Foydalanuvchidan autentifikatsiya paytida birdan ortiq parametrni (masalan, parol va biometrika) so'rash nima deb ataladi?",
+    "answer_a": "Ko'p faktorli autentifikatsiya.",
+    "answer_b": "Oddiy parollar siyosati.",
+    "answer_c": "Shaxsiy ma'lumotlarni guruhlash.",
+    "answer_d": "Fayllarni xesh-funksiyalash.",
+    "correct": "A"
+  },
+  {
+    "id": 198,
+    "question": "Ishni yakunlagandan so'ng qayd yozuvini (akkauntni) xavfsiz qoldirishning to'g'ri usuli qaysi?",
+    "answer_a": "Qayd yozuvidan rasman chiqib ketish.",
+    "answer_b": "Shunchaki brauzer oynasini yopish va tizimni o'chirish.",
+    "answer_c": "Kompyuterni o'chirib qo'yish.",
+    "answer_d": "Monitor ekranini o'chirib qo'yish.",
+    "correct": "A"
+  },
+  {
+    "id": 199,
+    "question": "Jamoat joylaridagi ochiq Wi-Fi tarmoqlaridan foydalanishda nimalardan ehtiyot bo'lish lozim?",
+    "answer_a": "Onlayn banking va muhim qayd yozuvlarini boshqarishda foydalanmaslik kerak.",
+    "answer_b": "Faqat videolarni tomosha qilish kerak.",
+    "answer_c": "Parollarni avtomatik saqlash funksiyasini yoqish lozim hamda parollarni doimiy yangilab borish kerak.",
+    "answer_d": "Har doim eng kuchli signalni tanlash kerak.",
+    "correct": "A"
+  },
+  {
+    "id": 200,
+    "question": "Ma'lumotlarni uzatishda ularning xavfsiz yetib borishini ta'minlovchi texnologiyalar qaysi?",
+    "answer_a": "VPN texnologiyasi va HTTPS protokoli.",
+    "answer_b": "Faqat bepul Wi-Fi.",
+    "answer_c": "SMS, oddiy elektron pochta va FTP xizmatlari.",
+    "answer_d": "Ochiq tarmoq papkalari.",
+    "correct": "A"
+  },
+  {
+    "id": 201,
+    "question": "Ijtimoiy tarmoqlarda kundalik va sayohat rejalarini bo'lishish qanday xavf tug'diradi?",
+    "answer_a": "Fizik o'g'rilash yoki virtual tovlamachilikka sababchi bo'lishi mumkin.",
+    "answer_b": "Faqat Internet trafigining ko'p sarflanishiga olib keladi.",
+    "answer_c": "Ilovalarning ishlash tezligini sekinlashtiradi.",
+    "answer_d": "Faqat do'stlar sonining ko'payishiga va obro'ni ortishiga yordam beradi.",
+    "correct": "A"
+  },
+  {
+    "id": 202,
+    "question": "Ijtimoiy tarmoqlarda quyidagi ma'lumotlardan qaysi birini \"ulashish\" mutlaqo tavsiya etilmaydi?",
+    "answer_a": "Onangizning tug'ilgan kuni va siz o'qigan birinchi maktab nomi.",
+    "answer_b": "Bugungi ob-havo haqidagi ma'lumot, birinchi o'qigan kitobingiz.",
+    "answer_c": "Sport yangiliklari va natijalari.",
+    "answer_d": "Turli tildagi kitoblar ro'yxati.",
+    "correct": "A"
+  },
+  {
+    "id": 203,
+    "question": "Farzandlar haqidagi ma'lumotlar va rasmlarni ijtimoiy tarmoqlarga qo'yishning xavfi nima?",
+    "answer_a": "Ularning ham kiber, ham fizik xavfsizligini xavf ostiga qo'yadi.",
+    "answer_b": "Faqat telefon xotirasini to'ldiradi, sizni oilali ekanligingizni ko'rsatadi.",
+    "answer_c": "Faqat rasm sifatini buzadi.",
+    "answer_d": "Antivirus dasturining ishlashiga xalaqit beradi.",
+    "correct": "A"
+  },
+  {
+    "id": 204,
+    "question": "Facebook Messenger ilovasi ijtimoiy injineriya uchun qanday xatarli ma'lumotni aks ettirishi mumkin?",
+    "answer_a": "Foydalanuvchining joylashuv o'zgarishi trayektoriyasini batafsil aks ettirilishi.",
+    "answer_b": "Faqat foydalanuvchining ismi va familiyasini.",
+    "answer_c": "Kompyuterdagi barcha viruslar ro'yxatini.",
+    "answer_d": "Faqat do'stlarining tug'ilgan kunlarini, ularni to'liq ism familiya va otasini ismlarini.",
+    "correct": "A"
+  },
+  {
+    "id": 205,
+    "question": "Qalbaki (feyk) ijtimoiy media profillarini aniqlashda shubha tug'ilsa, qaysi usuldan foydalanish kerak?",
+    "answer_a": "\"Google's reverse image search\" yordamida tasvirni tekshirish.",
+    "answer_b": "Kompyuterni yangidan yuklash (Restart).",
+    "answer_c": "VPN texnologiyasini o'chirib qo'yish va tizimga qayta kirishni amalga oshirish.",
+    "answer_d": "Parolni qayta tiklash so'rovini yuborish.",
+    "correct": "A"
+  },
+  {
+    "id": 206,
+    "question": "LinkedIn tarmoqlarida shubhali akkauntni aniqlashning muhim omili nima?",
+    "answer_a": "Yuqori darajadagi shaxsga tegishli profilning ulanishlari (bog'lanishlari) juda kamligi.",
+    "answer_b": "Profil rasmining rangli ekanligi va aksariyat holatlarda uni siz taniy olmasligingiz.",
+    "answer_c": "Foydalanuvchining bir necha tilda postlar yozishi.",
+    "answer_d": "Akkauntning faqat ish joyidan ochilganligi.",
+    "correct": "A"
+  },
+  {
+    "id": 207,
+    "question": "Kiberxavfsizlikda inson omili bilan bog'liq xatarlarni kamaytirish uchun nima qilish tavsiya etiladi?",
+    "answer_a": "Shaxsiy ma'lumotlarni bo'lishishda ehtiyotkor bo'lish va xavfsizlik sozlamalarini qayta ko'rib chiqish.",
+    "answer_b": "Kompyuterni umuman Internetga ulamaslik yoki ulaganda ham pullik internet tarmog'idan foydalanish.",
+    "answer_c": "Faqat ochiq (Wi-Fi) tarmoqlardan foydalanish.",
+    "answer_d": "Barcha parollarni bitta qog'ozga yozib saqlash.",
+    "correct": "A"
+  },
+  {
+    "id": 208,
+    "question": "Raqamli himoya qilishdagi birinchi qadam nima deb hisoblanadi?",
+    "answer_a": "Buzg'unchilar niyatini va ma'lumotlaringizga egalik qilmoqchi ekanligini tushunish.",
+    "answer_b": "Eng qimmat kompyuter sotib olish va litsenziyaga ega dasturlardan foydalanishni yo'lga qo'yish.",
+    "answer_c": "Doimiy ravishda parollarni unutib qo'yish.",
+    "answer_d": "Faqat o'yin ilovalarini o'rnatish.",
+    "correct": "A"
+  },
+  {
+    "id": 209,
+    "question": "\"Krek\" qilingan (himoya mexanizmi buzilgan) dasturiy vositalardan foydalanishning xavfi nimada?",
+    "answer_a": "Dastur zararli modul kiritish orqali modifikatsiyalangan bo'lishi mumkin.",
+    "answer_b": "Dastur faqat ingliz tilida ishlaydi.",
+    "answer_c": "Dastur juda kam joy egallaydi.",
+    "answer_d": "Dasturdan foydalanish dastlab tekin bo'lsada, keyinchalik pul talab qilishi mumkin.",
+    "correct": "A"
+  },
+  {
+    "id": 210,
+    "question": "Kompyuter virusiga 1984-yilda berilgan ilk akademik ta'rifning muallifi kim?",
+    "answer_a": "Fred Koen.",
+    "answer_b": "Robert Beno Cialdini.",
+    "answer_c": "James Scott.",
+    "answer_d": "Netscape jamoasi.",
+    "correct": "A"
+  },
+  {
+    "id": 211,
+    "question": "\"Rezident viruslar\" ning rezident bo'lmaganlardan farqi nimada?",
+    "answer_a": "Xotirada saqlanish va virus eltuvchi ishi tugashidan so'ng ham faol qolish qobiliyati.",
+    "answer_b": "Faqat disketalar orqali tarqalish xususiyati va kompyuterga qo'yilganidan so'ng o'zini yo'q qilishi.",
+    "answer_c": "Foydalanuvchi ma'lumotlarini o'chirmaslik xususiyati.",
+    "answer_d": "Faqat tarmoq protokollari bilan ishlashi.",
+    "correct": "A"
+  },
+  {
+    "id": 212,
+    "question": "\"Mantiqiy bomba\" (Logic bomb) nima?",
+    "answer_a": "Ma'lum sharoitlarda (sana, bazadagi o'zgarish va h.k.) zarar keltiruvchi harakatni bajaruvchi modul.",
+    "answer_b": "Birinchi marta 1999-yilda aniqlangan Word virusi.",
+    "answer_c": "Antivirus dasturining ichiga joylashtirilgan signatura bo'lib, uni ma'lum mantiqiy shartda ko'rish mumkin bo'ladi.",
+    "answer_d": "Kompyuter apparat qismini portlatuvchi dastur.",
+    "correct": "A"
+  },
+  {
+    "id": 213,
+    "question": "Zararli dasturlarni aniqlashning qaysi yondashuvi \"shablon\" topishga asoslangan?",
+    "answer_a": "Signaturaga asoslangan aniqlash.",
+    "answer_b": "O'zgarishlarni aniqlash.",
+    "answer_c": "Anomaliyaga asoslangan aniqlash.",
+    "answer_d": "Faqat xulq-atvorni tahlil qilish.",
+    "correct": "A"
+  },
+  {
+    "id": 214,
+    "question": "Signaturaga asoslangan aniqlash usulining asosiy kamchiligi nima?",
+    "answer_a": "Moslashuvchanlik darajasi past va kichik o'zgarish bilan aldash mumkin.",
+    "answer_b": "Tizim ma'muriga juda katta yuklama beradi va aniqlashdagi yuqori xatolik.",
+    "answer_c": "U mutlaqo bepul bo'lganligi sababli sifatsiz.",
+    "answer_d": "Faqat ma'lumotlar bazasidagi fayllarni skanerlaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 215,
+    "question": "O'zgarishlarni aniqlash usulida (Change detection) nimalardan foydalaniladi?",
+    "answer_a": "Xesh-funksiyalar va ularning dastlabki qiymatlari.",
+    "answer_b": "Faqat virus nomlari ro'yxati va ularning hajm ma'lumotlari.",
+    "answer_c": "Foydalanuvchining shaxsiy fotosuratlari.",
+    "answer_d": "Faqat tizim log-fayllari.",
+    "correct": "A"
+  },
+  {
+    "id": 216,
+    "question": "Antivirus dasturlari sifatini baholashda qaysi omillar muhim?",
+    "answer_a": "Ishonchlilik, skanerlash tezligi va barcha platformalar uchun mavjudligi.",
+    "answer_b": "Faqat uning narxi va litsenziyasi.",
+    "answer_c": "Faqat reklamalarni blokirovka qilish qobiliyati, imkon qadar milliy bo'lishi kerak.",
+    "answer_d": "Dastur kodining uzunligi.",
+    "correct": "A"
+  },
+  {
+    "id": 217,
+    "question": "1984-yilda Fred Koen tomonidan berilgan ta'rifga ko'ra, kompyuter virusining asosiy xususiyati nima?",
+    "answer_a": "Boshqa dasturlarni modifikatsiyalash orqali ularni zaharlash va ko'payish qobiliyatini saqlash.",
+    "answer_b": "Kompyuterning protsessorini jismoniy jihatdan qizitib yuborish.",
+    "answer_c": "Faqat Internet tarmog'i orqali ma'lumotlarni arxivlash, arxiv fayl ishida o'zini yashirish.",
+    "answer_d": "Foydalanuvchi interfeysining ranglarini o'zgartirish.",
+    "correct": "A"
+  },
+  {
+    "id": 218,
+    "question": "Kompyuter virusining tirik tabiat organizmlaridagi biologik viruslarga o'xshash jihati qaysi?",
+    "answer_a": "O'z-o'zidan ko'payishi va hisoblash jarayonida parazitlik qilishi.",
+    "answer_b": "Faqat havo muhitida harakatlangani kabi, kompyuterlar yaqin bo'lganida bir-biriga yuqishi.",
+    "answer_c": "Quyosh nuri ta'sirida faollashishi.",
+    "answer_d": "Oziqlanish zanjirida ishtirok etishi.",
+    "correct": "A"
+  },
+  {
+    "id": 219,
+    "question": "Viruslarni yashash makoni bo'yicha turkumlaganda, o'zini diskning yuklama (boot) sektoriga yozuvchi viruslar qanday ataladi?",
+    "answer_a": "Yuklama viruslar.",
+    "answer_b": "Fayl viruslari.",
+    "answer_c": "Makroviruslar.",
+    "answer_d": "Tarmoq viruslari.",
+    "correct": "A"
+  },
+  {
+    "id": 220,
+    "question": "Polimorf viruslarning (polymorphic) o'ziga xosligi nimada?",
+    "answer_a": "Tarkibida kodining doimiy qismi yo'qligi va foydalanilgan kodning muntazam \"mutatsiyalanishi\".",
+    "answer_b": "Faqat bitta turdagi operatsion tizimda ishlashi va ma'lumotlarni shifrlashni maqsad qilishi.",
+    "answer_c": "Faqat kompyuter o'chirilganida faollashishi va yo'qilishi bilan o'zini \"uxlash\" rejimiga o'tkazishi.",
+    "answer_d": "Foydalanuvchi ism-familiyasini o'zgartirib qo'yishi.",
+    "correct": "A"
+  },
+  {
+    "id": 221,
+    "question": "Xotirada saqlanish va virus eltuvchi (host) ishi tugaganidan so'ng ham faol qolish qobiliyatiga ega viruslar qanday nomlanadi?",
+    "answer_a": "Rezident viruslar.",
+    "answer_b": "Norezident viruslar.",
+    "answer_c": "Beziyon viruslar.",
+    "answer_d": "Mantiqiy bombalar.",
+    "correct": "A"
+  },
+  {
+    "id": 222,
+    "question": "Troyan dasturlarning viruslardan asosiy farqi nimada?",
+    "answer_a": "Ular o'zlari mustaqil ko'paymaydi va tarqatilmaydi, lekin foydali dastur niqobi ostida ishlaydi.",
+    "answer_b": "Ular faqat antivirus dasturlarini yangilash uchun xizmat qiladi.",
+    "answer_c": "Ular faqat o'yin dasturlari tarkibida bo'ladi va biror mantiqiy shart bajarilganda ishga tushadi.",
+    "answer_d": "Ular kompyuter xotirasini umuman egallamaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 223,
+    "question": "Ma'lum sana kelganida yoki ma'lumotlar bazasida o'zgarish bo'lganida ishga tushuvchi zararli dastur qanday ataladi?",
+    "answer_a": "Mantiqiy bomba.",
+    "answer_b": "Tarmoq qurti.",
+    "answer_c": "Boot-virus.",
+    "answer_d": "Makrokomanda.",
+    "correct": "A"
+  },
+  {
+    "id": 224,
+    "question": "Zararli dasturlarni aniqlashning qaysi yondashuvi \"faylda topilgan bitlar qatori\" yoki \"xesh qiymati\"ga asoslangan?",
+    "answer_a": "Signaturaga asoslangan aniqlash.",
+    "answer_b": "O'zgarishlarni aniqlash.",
+    "answer_c": "Anomaliyaga asoslangan aniqlash.",
+    "answer_d": "Ovozli tahlil qilish.",
+    "correct": "A"
+  },
+  {
+    "id": 225,
+    "question": "Kompyuter viruslaridan zararlanish ehtimolini kamaytirish uchun qanday profilaktik chora ko'rish lozim?",
+    "answer_a": "Faqat litsenziyali dasturlardan foydalanish va antivirusni muntazam yangilab borish.",
+    "answer_b": "Kompyuterni umuman Internetga ulamaslik va zarur bo'lmagan holda elektr tarmog'idan uzib qo'yish.",
+    "answer_c": "Faqat tunda kompyuterni yoqish.",
+    "answer_d": "Har bir faylni 10 marta nusxalash.",
+    "correct": "A"
+  },
+  {
+    "id": 226,
+    "question": "Oqimli shifrlashda shifrmatndagi bir bitning o'zgarishi (xatolik) rasshifrovka jarayonida qanday oqibatga olib keladi?",
+    "answer_a": "Ochiq matnning ham aynan bir bitining o'zgarishiga olib keladi",
+    "answer_b": "Kamida bitta to'liq 64 bitli blokning butunlay o'zgarishiga olib keladi",
+    "answer_c": "Barcha keyingi rasshifrovka qilinuvchi bitlarning noto'g'ri chiqishiga sabab bo'ladi",
+    "answer_d": "Shifrlash algoritmining avtomatik tarzda to'xtashiga olib keladi",
+    "correct": "A"
+  },
+  {
+    "id": 227,
+    "question": "Simmetrik blokli shifrlarni loyihalashda qo'llaniladigan asosiy tarmoqlar qaysilar?",
+    "answer_a": "Feystel tarmog'i, SP (Substitution - Permutation) tarmog'i va Lai-Messey tarmog'i",
+    "answer_b": "RSA tarmog'i, GNFS tarmog'i va Eyler tarmog'i",
+    "answer_c": "A5/1 tarmog'i, GSM tarmog'i va Diffi-Xellman tarmog'i",
+    "answer_d": "Faqatgina chiziqli siljitish registrlari (LFSR) tarmog'i",
+    "correct": "A"
+  },
+  {
+    "id": 228,
+    "question": "GSM tarmog'ida real vaqt so'zlashuvlarini shifrlashda nima uchun blokli shifrlardan foydalanib bo'lmaydi?",
+    "answer_a": "Shifrlash uchun zarur bo'lgan butun bir blokni to'plash talab etilishi so'zlashuvda to'xtalishlarga olib keladi.",
+    "answer_b": "Blokli shifrlar GSM tarmog'i standartlariga javob bermaydi va yuqori xavfsizlik darajasiga ega emasligi bois.",
+    "answer_c": "Mobil qurilmalar xotirasi blokli shifrlash kalitlarini saqlash imkoniga ega emas.",
+    "answer_d": "Shifrmatndagi bir bit o'zgarish ochiq matnning o'zgarmasligiga olib kelgani uchun.",
+    "correct": "A"
+  },
+  {
+    "id": 229,
+    "question": "Ochiq kalitli kriptotizimlarni yaratishda asos qilib olinadigan \"qopqonli bir tomonlama funksiyalar\"ning amaliy mohiyati nima",
+    "answer_a": "Funksiya bir yo'nalishda oson hisoblanadi, lekin shaxsiy kalitsiz uni teskarisini hisoblash imkonsiz",
+    "answer_b": "Axborotni ikki xil turli shifrlash algoritmlari orqali parallel qayta ishlash mumkinligi bois",
+    "answer_c": "Ma'lumotlarni faqatgina ochiq kanallar orqali himoyasiz uzatish imkonini beradi",
+    "answer_d": "Ma'lumotni shifrlash sekin, lekin rasshifrovkalash shaxsiy kalitsiz ham oson bajariladi",
+    "correct": "A"
+  },
+  {
+    "id": 230,
+    "question": "Faktorlash muammosi qanday hisoblash jarayonining qiyinligiga asoslangan?",
+    "answer_a": "Yetarlicha katta N sonini ikkita tub sonning ko'paytmasi shaklida ifodalashning murakkabligiga",
+    "answer_b": "Ikki tub sonni bir-biriga ko'paytirish jarayonining o'ta sekinligiga va ko'p vaqt olishiga",
+    "answer_c": "Modul bo'yicha teskari sonni topishning matematik imkonsizligiga",
+    "answer_d": "Ochiq kalit va shaxsiy kalit o'rtasida takroriy qo'shish amallarini bajarishga",
+    "correct": "A"
+  },
+  {
+    "id": 231,
+    "question": "Kriptografiyada modul arifmetikasidagi bo'luvchi (modul) sifatida qanday sonlarni olish qat'iy talab etiladi?",
+    "answer_a": "a mod n tenglikdagi n modul har doim tub son bo'lishi lozim",
+    "answer_b": "modul sifatida faqatgina 2 ning darajalaridan foydalanish kerak",
+    "answer_c": "modul uzunligi eng kamida 56 bitli juft son bo'lishi shart",
+    "answer_d": "ixtiyoriy manfiy yoki musbat butun son bo'lishi mumkin",
+    "correct": "A"
+  },
+  {
+    "id": 232,
+    "question": "Modul arifmetikasida a sonining n modul bo'yicha teskarisi borligini ta'minlovchi matematik munosabat qanday?",
+    "answer_a": "Agar a^{-1} mod n = b bo'lsa, u holda a * b mod n = 1 bo'ladi",
+    "answer_b": "Agar a^{-1} mod n = b bo'lsa, u holda a * b mod n = 0 bo'ladi",
+    "answer_c": "a mod n * b mod n = a * b",
+    "answer_d": "a^n mod b = 1",
+    "correct": "A"
+  },
+  {
+    "id": 233,
+    "question": "RSA algoritmida fi(N) (Eyler funksiyasi) hisoblash qoidasi qanday ifodalanadi?",
+    "answer_a": "Tanlangan ikkita tub son asosida fi(N) = (p-1)(q-1) formula orqali",
+    "answer_b": "fi(N) = p * q * e formula orqali",
+    "answer_c": "fi(N) = (p+1)(q+1) mod N formula orqali",
+    "answer_d": "Ochiq kalit modulining musbat qismini ajratib olish orqali",
+    "correct": "A"
+  },
+  {
+    "id": 234,
+    "question": "RSA algoritmida shaxsiy kalit d va ochiq kalitning darajasi e o'rtasidagi zaruriy matematik bog'liqlik qanday?",
+    "answer_a": "e * d = 1 mod fi(N)",
+    "answer_b": "e + d = 0 mod N",
+    "answer_c": "e^d = 1 mod p",
+    "answer_d": "e * d = N mod fi(N)",
+    "correct": "A"
+  },
+  {
+    "id": 235,
+    "question": "RSA algoritmida dastlab son ko'rinishida ifodalangan xabarni (M) shifrlash formulasi qanday yoziladi?",
+    "answer_a": "C = M^e mod N",
+    "answer_b": "C = M^d mod fi(N)",
+    "answer_c": "C = e^M mod N",
+    "answer_d": "C = (M + e) mod N",
+    "correct": "A"
+  },
+  {
+    "id": 236,
+    "question": "RSA algoritmida shifrmatnni (C) qabul qilib oluvchi uni rasshifrovkalash uchun qanday amal bajaradi?",
+    "answer_a": "M = C^d mod N",
+    "answer_b": "M = C^e mod N",
+    "answer_c": "M = d^C mod fi(N)",
+    "answer_d": "M = (C + d) mod N",
+    "correct": "A"
+  },
+  {
+    "id": 237,
+    "question": "RSA algoritmida ochiq (N, e) va shaxsiy (d) kalitlar aniqlangach, majburiy ravishda qaysi ma'lumotlar o'chirib tashlanishi (e chiqarilishi) zarur?",
+    "answer_a": "N modulini hosil qilishda qatnashgan p va q tub sonlari",
+    "answer_b": "Ochiq kalit tarkibidagi e darajasi",
+    "answer_c": "Ochiq matn bitlari ketma-ketligi",
+    "answer_d": "Shaxsiy kalitni hisoblash natijalari va modul N",
+    "correct": "A"
+  },
+  {
+    "id": 238,
+    "question": "Gibrid kriptotizimlar ikkita turli tizimning qaysi kamchiliklarini qoplaydi?",
+    "answer_a": "Simmetrik shifrning yuqori samaradorligini qo'llab, kalit taqsimlash muammosini ochiq kalitli tizim yordamida hal etadi",
+    "answer_b": "Oqimli shifrlarni murakkablashtirib, tizimning umumiy ishlash tezligini kamaytiradi",
+    "answer_c": "RSA algoritmi formulasini Feystel tarmog'i bilan bitta umumiy kalitda birlashtiradi",
+    "answer_d": "Barcha kalitlarni serverda ochiq qoldirib, faqat shifrmatnni himoyalaydi",
+    "correct": "A"
+  },
+  {
+    "id": 239,
+    "question": "RSA algoritmida p va q sifatida kichik tub sonlardan foydalanish qanday tahdidni keltirib chiqaradi?",
+    "answer_a": "Hujumchi ochiq bo'lgan N ni ikkita tub songa faktorlab, e orqali shaxsiy kalit d ni hisoblab topishi mumkin",
+    "answer_b": "Shifrlash jarayonida ochiq matn bitlari qisqarib ketadi va hujumchi to'liq muhim ma'lumotlarga ega bo'ladi.",
+    "answer_c": "Rasshifrovkalash algoritmi oxirigacha bajarilmay to'xtab qoladi",
+    "answer_d": "Eyler funksiyasi fi(N) noto'g'ri musbat natija qaytaradi",
+    "correct": "A"
+  },
+  {
+    "id": 240,
+    "question": "Simmetrik blokli shifrlarda tashqi ta'sir natijasida shifrmatndagi bir bitning o'zgarishi rasshifrovkada qanday oqibatga olib keladi?",
+    "answer_a": "Kamida bir to'liq blokning (masalan, 64 bit) xatoga uchrashiga (o'zgarishiga) olib keladi",
+    "answer_b": "Algoritm tezligi keskin tushib ketadi va barcha bitlar xato bo'lishiga sababchi bo'ladi",
+    "answer_c": "Ochiq matnning faqat o'sha o'zgargan bir bitiga ta'sir qiladi",
+    "answer_d": "Blokli shifrlash tarmog'ini avtomatik ravishda boshqa kalitga o'tkazib yuboradi",
+    "correct": "A"
+  },
+  {
+    "id": 241,
+    "question": "Ochiq kalitli va simmetrik kriptotizimlar o'xshash xavfsizlik va bardoshlik darajasida bo'lganda, ularning kalit uzunliklari o'rtasidagi farq qanday tavsiflanadi?",
+    "answer_a": "Ochiq kalitli tizimning kalit uzunligi simmetrik shifrnikiga nisbatan sezilarli darajada uzunroq bo'ladi",
+    "answer_b": "Ikkala algoritm uchun ham doim bir xil xavfsizlik darajasi uchun kalitlar uzunligi ham bir xil uzunlikda boladi",
+    "answer_c": "Simmetrik shifrning kalit uzunligi har doim ochiq kalitnikidan kamida ikki barobar katta bo'ladi",
+    "answer_d": "Ochiq kalitli tizimlar tez ishlashi uchun simmetrik kalitdan 10 marta kichik kalit talab qiladi",
+    "correct": "A"
+  },
+  {
+    "id": 242,
+    "question": "Xesh funksiyaning asosiy vazifasi qanday ta'riflanadi?",
+    "answer_a": "Ixtiyoriy uzunlikdagi matnni qat'iy uzunlikdagi qiymatga akslantirish.",
+    "answer_b": "Ochiq kalit yordamida ma'lumotlarni shifrlash va himoyalash.",
+    "answer_c": "Simmetrik kalitni tarmoq orqali xavfsiz almashishni ta'minlash.",
+    "answer_d": "Shifrlangan matnni kalitsiz asl holiga qaytarish.",
+    "correct": "A"
+  },
+  {
+    "id": 243,
+    "question": "Xesh funksiyaning \"bir tomonlamalik xossasi\" nimani anglatadi?",
+    "answer_a": "Berilgan ixtiyoriy H qiymati bo'yicha h(x)=H tenglikdan x ni hisoblab topib bo'lmasligini.",
+    "answer_b": "Olingan turli matnlar doim bitta umumiy xesh qiymatga kelishi sababli, uni aniqlab bo'lmaslik.",
+    "answer_c": "Xesh qiymatni hisoblash uchun albatta bitta maxfiy kalit kerakligini.",
+    "answer_d": "Xesh funksiya faqat ma'lum bir tayinlangan uzunlikdagi matnlarga qo'llanilishini.",
+    "correct": "A"
+  },
+  {
+    "id": 244,
+    "question": "Kolliziyaga bardoshlilik xossasi qanday xususiyatni ifodalaydi?",
+    "answer_a": "Olingan x va y I= x matnlar uchun doimo h(x) I= h(y) bo'lishini.",
+    "answer_b": "Matn va uning kaliti birgalikda uzatilganda ma'lumot hajmi qisqarishini.",
+    "answer_c": "Xesh qiymatni hisoblash juda tez va hisoblash resurslarini talab qilmasligini.",
+    "answer_d": "Istalgan xesh qiymat orqali asimmetrik shifrlangan matnni ochish imkoniyatini.",
+    "correct": "A"
+  },
+  {
+    "id": 245,
+    "question": "Ma'lumot yaxlitligini tekshirishda faqat xesh funksiyaning o'zidan (M va h(M) yuborish) foydalanish nega amaliyotda qo'llanilmaydi?",
+    "answer_a": "Hujumchi ma'lumotning o'zini ham, uning xesh qiymatini ham almashtirib qo'yishi mumkin bo'lgani uchun.",
+    "answer_b": "Xesh qiymatlarni tarmoq orqali yuborish,har doim ortiqcha trafikni yuzaga keltirgani sababli.",
+    "answer_c": "Bunday usul faqat qisqa hajmdagi matnli fayllar bilangina ishlash imkonini bergani uchun.",
+    "answer_d": "Qabul qiluvchida aynan o'sha xesh algoritmi mavjud bo'lmaslik ehtimoli yuqoriligi sababli.",
+    "correct": "A"
+  },
+  {
+    "id": 246,
+    "question": "Xabarlarni autentifikatsiyalash kodi (MAC) tizimi oddiy xesh funksiyadan nimasi bilan farq qiladi?",
+    "answer_a": "MAC tizimida ma'lumotning xesh qiymati biror maxfiy kalit asosida hisoblanadi.",
+    "answer_b": "MAC tizimi faqat ochiq kalitli kriptografiyada qo'llaniladi va bu yuqori xavfsizlikni ta'minlaydi.",
+    "answer_c": "MAC funksiyasi ma'lumotni hech qanday o'zgartirishsiz to'liq shifrlaydi.",
+    "answer_d": "MAC xabarning faqat konfidensialligini ta'minlab, yaxlitlikka javob bermaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 247,
+    "question": "Xeshlangan MAC (HMAC) usulining ishlash prinsipi nimaga asoslangan?",
+    "answer_a": "Xesh qiymatni hisoblash jarayonida kalitni bevosita ma'lumotga biriktirishga.",
+    "answer_b": "Dastlab ma'lumotni xeshlash va uni ochiq kalit bilan shifrlashga.",
+    "answer_c": "Ma'lumotni simmetrik kalitda shifrlab, undan so'ng xesh qiymatini topishga.",
+    "answer_d": "Kalit o'rniga faqat ochiq raqamli sertifikatdan foydalanishga.",
+    "correct": "A"
+  },
+  {
+    "id": 248,
+    "question": "HMAC tizimida olingan kalit (K) uzunligi xesh funksiyaning blok uzunligidan kichik bo'lsa, u qanday moslashtiriladi?",
+    "answer_a": "Yetmagan baytlar o'rni nollar bilan to'ldiriladi.",
+    "answer_b": "Kalit to'g'ri kelguncha o'z-o'ziga takroran ulanib boriladi.",
+    "answer_c": "Kalit dastlab xeshlanadi va qisqartiriladi.",
+    "answer_d": "Blok uzunligi kalitning haqiqiy uzunligiga qarab qisqartiriladi.",
+    "correct": "A"
+  },
+  {
+    "id": 249,
+    "question": "Agar HMAC tizimida kalit uzunligi xesh funksiyaning blok uzunligidan katta bo'lsa, qanday amal bajariladi?",
+    "answer_a": "Kalit dastlab xeshlanadi va hosil bo'lgan xesh qiymatning o'ng tomoni blok uzunligiga yetguncha nollar bilan to'ldiriladi.",
+    "answer_b": "Kalitning ortiqcha qismi oddiygina kesib tashlanadi va qolganidan foydalaniladi.",
+    "answer_c": "Kalit bloklarga bo'linib, har bir blokka alohida HMAC hisoblanadi.",
+    "answer_d": "Kalitni kichraytirish uchun u ikki marta CBC rejimida shifrlanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 250,
+    "question": "HMAC formulasiga ko'ra ma'lumotlarni hisoblash jarayonida necha marta xeshlash amali bajariladi?",
+    "answer_a": "Ikki marta.",
+    "answer_b": "Bir marta.",
+    "answer_c": "Uch marta.",
+    "answer_d": "Ma'lumotning o'lchamiga ko'ra o'zgarib boradi.",
+    "correct": "A"
+  },
+  {
+    "id": 251,
+    "question": "Nima sababdan Elektron raqamli imzo (ERI) tizimlari MAC tizimlaridan ajralib turadi?",
+    "answer_a": "ERI nafaqat yaxlitlikni ta'minlaydi, balki imzolovchining majburiyatlardan tonishiga yo'l qo'ymaydi.",
+    "answer_b": "ERI ma'lumotlarni faqat simmetrik kriptotizimlar yordamida uzatishni talab qiladi.",
+    "answer_c": "ERI yordamida kalitlarni qabul qiluvchi tomonga oldindan taqsimlash shart bo'lmaydi va tezkor bo'lgani bois.",
+    "answer_d": "ERI faqat apparat vositalarida (tokenlarda) ishlaydi, MAC esa dasturiy ta'minotda.",
+    "correct": "A"
+  },
+  {
+    "id": 252,
+    "question": "ERI tizimida foydalanuvchi xabarni qanday kalit yordamida imzolaydi?",
+    "answer_a": "Faqat o'zining shaxsiy kalitidan foydalanib.",
+    "answer_b": "Qabul qiluvchining ochiq kalitidan foydalanib.",
+    "answer_c": "Har ikkala tomon kelishgan umumiy maxfiy kalitdan foydalanib.",
+    "answer_d": "Sertifikat markazining maxsus shifrlash kalitini so'rab olgan holda.",
+    "correct": "A"
+  },
+  {
+    "id": 253,
+    "question": "ERI haqiqiyligini tekshirish uchun qabul qiluvchidan qanday ma'lumot talab etiladi?",
+    "answer_a": "Imzolovchi tomonning ochiq kalitini bilish.",
+    "answer_b": "O'zining shaxsiy kalitini xesh funksiyaga kiritish.",
+    "answer_c": "Tizim ma'muridan yashirin kalitni yuklab olish.",
+    "answer_d": "Imzolangan hujjatni dastlabki xesh qiymatga bo'lish.",
+    "correct": "A"
+  },
+  {
+    "id": 254,
+    "question": "ERIni shakllantirish jarayonida birinchi navbatda qaysi amal bajariladi?",
+    "answer_a": "Imzolanadigan xabar M ning xesh qiymati (H=h(M)) hisoblanadi.",
+    "answer_b": "Xabar M foydalanuvchining shaxsiy kaliti bilan to'liq shifrlanadi.",
+    "answer_c": "Foydalanuvchi PKI tizimidan yangi sertifikat so'rovini yuboradi.",
+    "answer_d": "Xabarga tasodifiy sonlar (nonce) qo'shib, keyin uzatish tayyorlanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 255,
+    "question": "Nima uchun simmetrik kalitga asoslangan MAC tizimi \"rad etish\" muammosini hal etishga yaroqsiz?",
+    "answer_a": "Yaxlitlikni ta'minlash uchun hisoblangan MAC qiymatini har ikkala tomon ham bir xilda hosil qila olgani sababli.",
+    "answer_b": "MAC tizimida faqat blokli shifrlar ishlagani uchun kalitlar tez muddati o'tadi va shu sababli ko'p kalit talab etgani sababli.",
+    "answer_c": "MAC qiymati qisqa bo'lgani uchun hujumchi uni osongina buzib kirishi mumkin.",
+    "answer_d": "MAC algoritmida ochiq kalitlardan foydalanish tezligi sekin bo'lganligi sababli.",
+    "correct": "A"
+  },
+  {
+    "id": 256,
+    "question": "Ochiq kalitlar infrastrukturasi (PKI) qanday jiddiy muammoning oldini olishga xizmat qiladi?",
+    "answer_a": "Ochiq kalitning rostdan ham o'sha insonga egishli ekanligini tasdiqlash muammosini.",
+    "answer_b": "Katta hajmdagi videofayllarni assimetrik usulda tezkor shifrlash muammosini.",
+    "answer_c": "Xesh funksiyalar ishlab chiqishdagi murakkab mantiqiy hisob-kitoblar muammosini.",
+    "answer_d": "Simmetrik shifrlar zanjiri uzunligi uzayib ketishining oldini olishni.",
+    "correct": "A"
+  },
+  {
+    "id": 257,
+    "question": "Raqamli sertifikat (ochiq kalit sertifikati) tarkibida odatda qanday axborotlar mujassam bo'ladi?",
+    "answer_a": "Foydalanuvchining ismi, uning ochiq kaliti va Sertifikat markazining (CA) imzosi.",
+    "answer_b": "Foydalanuvchining shaxsiy kaliti, biometrik ma'lumotlari va MAC paroli.",
+    "answer_c": "Shifrlangan hujjat matni va uning HMAC qiymati.",
+    "answer_d": "Faqatgina ishonchli uchinchi tomonning shaxsiy kaliti nusxasi.",
+    "correct": "A"
+  },
+  {
+    "id": 258,
+    "question": "PKI tarkibida Sertifikat markazi (CA) qanday pozitsiyani egallaydi?",
+    "answer_a": "Ishonchli uchinchi tomon (trusted third party - TTP) sifatida ishtirok etadi.",
+    "answer_b": "Faqat ma'lumotlarni vaqtinchalik xotirada saqlovchi bufer vazifasini o'taydi.",
+    "answer_c": "G'arazli niyatda bo'lgan tarmoq tugunlarini bloklovchi tarmoq ekrani (firewall) bo'lib xizmat qiladi.",
+    "answer_d": "Simmetrik shifrlash kalitlarini generatsiya qiluvchi apparat moduli hisoblanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 259,
+    "question": "Foydalanuvchi qabul qilgan sertifikatning to'g'riligini va butunligini tekshirish uchun nima qilishi zarur?",
+    "answer_a": "Sertifikat markazining (CA) ochiq kalitidan foydalanib, sertifikatdagi imzoni tekshirishi talab etiladi.",
+    "answer_b": "Foydalanuvchiga tegishli shaxsiy kalitni tarmoq orqali himoyalangan ko'rinishida yuborishini so'rashi kerak.",
+    "answer_c": "Sertifikat ichidagi ma'lumotni simmetrik tarzda shifrlab qayta yuborishi kerak.",
+    "answer_d": "Imzo yaratish muolajasini dastlabki xabarsiz takrorlashi lozim.",
+    "correct": "A"
+  },
+  {
+    "id": 260,
+    "question": "Foydalanishni boshqarish qanday harakatlarni cheklash qismi hisoblanadi?",
+    "answer_a": "Autentifikatsiyadan o'tgan foydalanuvchilar harakatlarini",
+    "answer_b": "Tarmoqdagi shifrlanmagan paketlarni uzatish harakatlarini",
+    "answer_c": "Operatsion tizimning yangilanish jarayonlarini",
+    "answer_d": "Antivirus dasturining skanerlash harakatlarini",
+    "correct": "A"
+  },
+  {
+    "id": 261,
+    "question": "Hozirgi kunda tizimlarda obyektlardan foydalanishni boshqarishning qaysi usullari keng tarqalgan?",
+    "answer_a": "DAC, MAC, RBAC, ABAC usullari",
+    "answer_b": "TCP/IP, UDP, ICMP usullari",
+    "answer_c": "DES, AES, RSA shifrlash usullari",
+    "answer_d": "LAN, WAN, MAN tarmoq usullari",
+    "correct": "A"
+  },
+  {
+    "id": 262,
+    "question": "Foydalanishni diskretsion boshqarish (DAC) usulida obyektdan foydalanish huquqini va turini kim belgilaydi?",
+    "answer_a": "Obyekt egasining o'zi",
+    "answer_b": "Faqatgina tarmoq administratori",
+    "answer_c": "Tizim avtomatik ravishda",
+    "answer_d": "Obyektdan foydalanuvchi har qanday shaxs",
+    "correct": "A"
+  },
+  {
+    "id": 263,
+    "question": "UNIX operatsion tizimida fayllarni himoyalashda (DAC usulida), fayl egasi qolganlarga qanday amallarni berishi mumkin?",
+    "answer_a": "O'qish (read), yozish (write) va bajarish (execute) amallarini",
+    "answer_b": "Shifrlash, deshifrlash va imzolash amallarini",
+    "answer_c": "Ko'chirish, arxivlash va formatlash amallarini",
+    "answer_d": "Yashirish, bloklash va tarmoqdan uzish amallarini",
+    "correct": "A"
+  },
+  {
+    "id": 264,
+    "question": "DAC tizimining jiddiy xavfsizlik muammosi nima?",
+    "answer_a": "Ma'lumotlardan foydalanish huquqiga ega foydalanuvchi ma'lumot egasining ruxsatisiz uni boshqalarga yuborish imkoniyati mavjudligi",
+    "answer_b": "Dasturiy ta'minotning tez-tez xatolik berib ishlashi va buning natijasida to'liq foydalanishni nazoratlashni amalga oshirilmasligi.",
+    "answer_c": "Tizimdagi parollarning uzunligi cheklanganligi",
+    "answer_d": "Ma'lumotlarning doimiy ravishda o'chib ketish xavfi",
+    "correct": "A"
+  },
+  {
+    "id": 265,
+    "question": "Foydalanishni boshqarishning MAC usuli kimga markazlashgan holda boshqarishni amalga oshirish imkoniyatini beradi?",
+    "answer_a": "Xavfsizlik siyosati ma'muriga",
+    "answer_b": "Har bir alohida foydalanuvchiga",
+    "answer_c": "Ma'lumotlar bazasi dasturchisiga",
+    "answer_d": "Tizimdagi barcha subyektlarga",
+    "correct": "A"
+  },
+  {
+    "id": 266,
+    "question": "MAC usulida oddiy foydalanuvchilar xavfsizlik siyosatini o'zgartira oladimi?",
+    "answer_a": "Yo'q, foydalanuvchi xavfsizlik siyosatini o'zgartira olmaydi",
+    "answer_b": "Ha, agar ularga ruxsat berilgan bo'lsa",
+    "answer_c": "Ha, faqat fayl yaratuvchisi bo'lsa",
+    "answer_d": "Yo'q, faqatgina operatsion tizim o'zgartira oladi",
+    "correct": "A"
+  },
+  {
+    "id": 267,
+    "question": "MAC usulida oddiy holda subyekt va obyektlar uchun qanday xavfsizlik darajalari belgilanadi?",
+    "answer_a": "\"Mutlaqo maxfiy\" (MM), \"maxfiy\" (M), \"konfidensial\" (K) va \"ochiq\" (O)",
+    "answer_b": "\"Yuqori xavf\" (YX), \"o'rta xavf\" (O'X) va \"past xavf\" (PX)",
+    "answer_c": "\"Administrator\" (A), \"mehmon\" (M) va \"foydalanuvchi\" (F)",
+    "answer_d": "\"A daraja\", \"B daraja\" va \"C daraja\"",
+    "correct": "A"
+  },
+  {
+    "id": 268,
+    "question": "MAC asosida axborot maxfiyligini ta'minlashda qachon o'qish uchun ruxsat beriladi?",
+    "answer_a": "Agar subyektning xavfsizlik darajasida obyektning xavfsizlik darajasi mavjud bo'lsa",
+    "answer_b": "Agar obyekt ochiq tarmoqda joylashgan bo'lsa va foydalanishi mumkin darajada bo'lsa",
+    "answer_c": "Agar subyekt eng past xavfsizlik darajasida bo'lsa",
+    "answer_d": "Agar foydalanuvchi o'z parolini yangilagan bo'lsa",
+    "correct": "A"
+  },
+  {
+    "id": 269,
+    "question": "MAC asosida axborot ishonchligini ta'minlash maqsadida yuqori ishonchli tizimlarda qachon yozish uchun ruxsat beriladi?",
+    "answer_a": "Agar subyektning xavfsizlik darajasida obyektning xavfsizlik darajasi mavjud bo'lsa",
+    "answer_b": "Agar obyekt va subyekt bir xil kompyuterda bo'lsa hamda foydalanishi mumkin darajada bo'lsa",
+    "answer_c": "Agar subyektning xavfsizlik darajasi eng past bo'lsa",
+    "answer_d": "Agar fayl egasi yozishni taqiqlamagan bo'lsa",
+    "correct": "A"
+  },
+  {
+    "id": 270,
+    "question": "RBAC usulida foydalanishni boshqarishning asosiy g'oyasi nima?",
+    "answer_a": "Tizimning ishlash prinsipini tashkilotdagi kadrlar vazifasini haqiqiy ajratilishiga maksimal darajada yaqinlashtirish",
+    "answer_b": "Kompyuterlarning MAC manzillari orqali tarmoqqa kirishini taqiqlash",
+    "answer_c": "Har bir xodimga alohida shifrlangan USB kalit tarqatish",
+    "answer_d": "Tarmoq trafigini to'liq shifrlangan kanallar orqali yo'naltirish orqali foydalanishlarni boshqarishni tashkil etish",
+    "correct": "A"
+  },
+  {
+    "id": 271,
+    "question": "RBAC usulida \"rol\" tushunchasi nimani anglatadi?",
+    "answer_a": "Muayyan faoliyat turi bilan bog'liq harakatlar va majburiyatlar to'plami",
+    "answer_b": "Tizim ma'murining kompyuterdagi IP manzili",
+    "answer_c": "Obyektlarni saqlash uchun ajratilgan xotira hajmi",
+    "answer_d": "Tarmoq qurilmalarining ishlash ketma-ketligi ko'rsatuvchi harakat tartibi",
+    "correct": "A"
+  },
+  {
+    "id": 272,
+    "question": "RBAC usulining asosiy afzalliklaridan biri bo'lgan \"Eng kam imtiyoz prinsipi\" nimani talab qiladi?",
+    "answer_a": "Foydalanuvchiga faqat muayyan vazifani bajarishi uchun kerak bo'lgan imtiyozni berilishini",
+    "answer_b": "Barcha foydalanuvchilarga teng va to'liq imtiyozlar berilishini, barchani birdek huquqqa ega bo'lishini",
+    "answer_c": "Tizimda eng kam ishlaydigan xodimlarni imtiyozdan mahrum qilishni",
+    "answer_d": "Tizim administratoriga hech qanday imtiyoz bermaslikni",
+    "correct": "A"
+  },
+  {
+    "id": 273,
+    "question": "RBAC usulida firibgarlikni oldini olish uchun qaysi prinsipdan foydalaniladi?",
+    "answer_a": "Majburiyatlarni ajratish",
+    "answer_b": "Ma'lumotlarni zaxiralash",
+    "answer_c": "Tarmoqni segmentlash",
+    "answer_d": "Parollarni tez-tez almashtirish",
+    "correct": "A"
+  },
+  {
+    "id": 274,
+    "question": "RBAC modelining tarkibiy qismlari nimalardan iborat?",
+    "answer_a": "Foydalanuvchilar, rollar va imtiyozlar",
+    "answer_b": "Dasturlar, drayverlar va plaginlar",
+    "answer_c": "Shifrlash algoritmlari, kalitlar va xeshlar",
+    "answer_d": "Fayllar, papkalar va disklar",
+    "correct": "A"
+  },
+  {
+    "id": 275,
+    "question": "Atributlarga asoslangan foydalanishni boshqarish (ABAC) usuli nimalarga asoslanib boshqaruvni amalga oshiradi?",
+    "answer_a": "Obyektlar, subyektlarning atributlari, amallar va muhit uchun qoidalarni tahlil qilish asosida",
+    "answer_b": "Faqatgina tizimga kirish parollarini solishtirish, faqat ular to'g'ri bo'lganda tizimga kirishga ruxsat berish asosida",
+    "answer_c": "Foydalanuvchining tashkilotdagi ish stajiga asoslanib",
+    "answer_d": "Kompyuterning ishlab chiqarilgan yili va modeliga qarab",
+    "correct": "A"
+  },
+  {
+    "id": 276,
+    "question": "ABAC modelida so'rov, resurs va harakatni kim bajarayotgani to'g'risidagi qoidalar qanday mantiqiy tuzilmaga asoslanadi?",
+    "answer_a": "\"AGAR, U HOLDA\" dan tashkil topgan qoidalarga",
+    "answer_b": "\"SIKL VA TAKRORLASH\" dan tashkil topgan shartlariga",
+    "answer_c": "\"KIRITISH VA CHIQARISH\" algoritmlariga",
+    "answer_d": "\"YOKI, VA, EMAS\" binar mantiqlariga",
+    "correct": "A"
+  },
+  {
+    "id": 277,
+    "question": "Atributlarga asoslangan foydalanishni boshqarishdagi asosiy standartlardan biri qaysi?",
+    "answer_a": "XACML (eXtensible Access Control Markup Language)",
+    "answer_b": "HTML (HyperText Markup Language)",
+    "answer_c": "SQL (Structured Query Language)",
+    "answer_d": "XML (eXtensible Markup Language)",
+    "correct": "A"
+  },
+  {
+    "id": 278,
+    "question": "XACML standartida \"Maqsad\" (Target) tushunchasi nimani ifodalaydi?",
+    "answer_a": "Subyektning obyekt ustida qanday harakatlarni amalga oshirishini (o'qish, yozish, o'chirish va h.k.)",
+    "answer_b": "Dasturning qancha muddat ishlashini, uning nima ish qilishini va litsenziyasini ifodalaydi",
+    "answer_c": "Tizimda nechta foydalanuvchi borligini",
+    "answer_d": "Ma'lumotlarning qayerda saqlanishini",
+    "correct": "A"
+  },
+  {
+    "id": 279,
+    "question": "Foydalanishni boshqarish matritsasida satrlar va ustunlar nimani ifodalaydi?",
+    "answer_a": "Satrlar subyektlarni, ustunlar esa obyektlarni ifodalaydi",
+    "answer_b": "Satrlar tarmoq IP manzillarini, ustunlar MAC manzillarni ifodalaydi",
+    "answer_c": "Satrlar ochiq kalitlarni, ustunlar yopiq kalitlarni ifodalaydi",
+    "answer_d": "Satrlar operatsion tizimlarni, ustunlar dasturlarni ifodalaydi",
+    "correct": "A"
+  },
+  {
+    "id": 280,
+    "question": "Foydalanishni boshqarish matritsasini ustunlar bo'yicha bo'lish natijasida har bir ustun mos obyekt bilan saqlanishi usuli nima deb ataladi?",
+    "answer_a": "ACL (Foydalanishni boshqarish ro'yxati)",
+    "answer_b": "C-list (Imtiyozlar ro'yxati)",
+    "answer_c": "MAC (Mandatli boshqarish)",
+    "answer_d": "XACML standarti",
+    "correct": "A"
+  },
+  {
+    "id": 281,
+    "question": "Foydalanishni boshqarish matritsasini satrlar bo'yicha bo'lish va har bir satr mos subyekt bilan saqlanishi yondashuvi qanday ataladi?",
+    "answer_a": "Imtiyozlar ro'yxati yoki C-list",
+    "answer_b": "Foydalanishni boshqarish ro'yxati yoki ACL",
+    "answer_c": "Rollarga asoslangan boshqarish (RBAC)",
+    "answer_d": "Atributlarga asoslangan boshqarish (ABAC)",
+    "correct": "A"
+  },
+  {
+    "id": 282,
+    "question": "Klassik xavfsizlik muammosi bo'lgan \"Tartibsiz yordamchi\" (Confused deputy) muammosini qaysi vosita yordamida osonlikcha bartaraf etish mumkin?",
+    "answer_a": "C-list yordamida",
+    "answer_b": "ACL yordamida",
+    "answer_c": "Faqatgina murakkab parol orqali",
+    "answer_d": "Tizimni qayta ishga tushirish orqali",
+    "correct": "A"
+  },
+  {
+    "id": 283,
+    "question": "Hozirgi kunda C-list va ACL ro'yxatlarining qaysi biridan ko'proq foydalaniladi?",
+    "answer_a": "ACL dan hozirgi kunda C-listdan ko'ra ko'proq foydalaniladi",
+    "answer_b": "C-listdan ACL ga qaraganda ko'proq foydalaniladi",
+    "answer_c": "Har ikkalasidan umuman foydalanilmaydi",
+    "answer_d": "Ikkalasi ham teng darajada ishlatiladi",
+    "correct": "A"
+  },
+  {
+    "id": 284,
+    "question": "Bell-LaPadul modeli xavfsizlikning qaysi mexanizmlarini formallashtirish uchun ishlatiladi?",
+    "answer_a": "Konfidensiallik darajasini hisobga olgan holda foydalanishning mandatli boshqarish mexanizmlarini",
+    "answer_b": "Foydalanishni va yaxlitlikni ta'minlash maqsadida diskretsion boshqarishni tashkil etishni",
+    "answer_c": "Biometrik autentifikatsiya jarayonlarini",
+    "answer_d": "Ma'lumotlarni zaxiralash va qayta tiklashni",
+    "correct": "A"
+  },
+  {
+    "id": 285,
+    "question": "Bell-LaPadul modelidagi \"Xavfsizlikning oddiy qoidasi\" (Simple Security) nima shartni belgilaydi?",
+    "answer_a": "Subyekt faqat xavfsizlik sathi o'zining xavfsizlik sathidan yuqori bo'lmagan hujjatlardan axborotni o'qishga haqli",
+    "answer_b": "Subyekt ixtiyoriy xavfsizlik sathidagi hujjatni o'qishi va o'zgartirishi mumkin, bunda sathning ahamiyati mavjud emas",
+    "answer_c": "Subyekt o'zidan yuqori darajadagi foydalanuvchiga parolini berishi shart",
+    "answer_d": "Subyekt hujjatlarni faqat administrator ruxsati bilan o'chirishi mumkin",
+    "correct": "A"
+  },
+  {
+    "id": 286,
+    "question": "Biba modeli nima maqsadga yo'naltirilgan va u qaysi modelning modifikatsiyasi hisoblanadi?",
+    "answer_a": "Ma'lumotlar yaxlitligini ta'minlashga yo'naltirilgan bo'lib, Bell-LaPadul modelining modifikatsiyasidir",
+    "answer_b": "Tizim parollarini buzishga yo'naltirilgan va DAC modelining modifikatsiyasidir",
+    "answer_c": "Foydalanuvchilarni ro'yxatga olishga yo'naltirilgan va RBAC modelining modifikatsiyasidir",
+    "answer_d": "Tarmoqni himoyalashga yo'naltirilgan va ABAC modelining modifikatsiyasidir",
+    "correct": "A"
+  },
+  {
+    "id": 287,
+    "question": "Biba modelining \"Yaxlitlikning oddiy qoidasi\" (Simple Integrity) nimani bildiradi?",
+    "answer_a": "Subyekt o'zining sathidan past yaxlitlik sathidan axborotni o'qiy olmaydi",
+    "answer_b": "Subyekt pastki sathdagi ma'lumotlarni doimiy tahrirlashi mumkin",
+    "answer_c": "Subyekt faqat o'zidan past bo'lgan obyektlarni o'qish huquqiga ega",
+    "answer_d": "Subyekt tizimdagi barcha papkalarni arxivlashi mumkin",
+    "correct": "A"
+  },
+  {
+    "id": 288,
+    "question": "Biba modelidagi \"-Yaxlitlik\" (-Property) qoidasi subyektga qanday cheklov qo'yadi?",
+    "answer_a": "Subyekt o'zining sathidan yuqori yaxlitlik sathiga axborotni yoza olmaydi",
+    "answer_b": "Subyekt o'zidan past sathdagi obyektlarni o'chira olmaydi",
+    "answer_c": "Subyekt hech qachon axborotni o'qish huquqiga ega bo'lmaydi",
+    "answer_d": "Subyekt faqat rasm shaklidagi ma'lumotlarni yozishi mumkin",
+    "correct": "A"
+  },
+  {
+    "id": 289,
+    "question": "Foydalanishni boshqarishning mantiqiy vositalari asosan qayerda foydalaniladi?",
+    "answer_a": "Infrastruktura va uning ichidagi tizimlarda mandat, tasdiqlash, avtorizatsiya va majburiyatlar uchun",
+    "answer_b": "Server va boshqa muhim aktivlar saqlanadigan xonalarning eshiklarini mexanik qulflash uchun",
+    "answer_c": "Tarmoq kabellarini fizik shikastlanishdan himoya qilish uchun",
+    "answer_d": "Binolarning kuzatuv kameralarini boshqarish uchun",
+    "correct": "A"
+  },
+  {
+    "id": 290,
+    "question": "Axborot xavfsizligida \"foydalanuvchanlik\" (availability) tushunchasining asosiy mazmuni nima?",
+    "answer_a": "Vakolatli foydalanuvchilarning ma'lumotlardan va axborot tizimlaridan o'z vaqtida va ishonchli foydalanish imkoniyati.",
+    "answer_b": "Ma'lumotlarning faqat shifrlangan holda saqlanishini ta'minlash.",
+    "answer_c": "Tizimdan faqat administratorlar foydalanishini ta'minlash va qolgan foydalanuvchilarni esa foydalanishini cheklash.",
+    "answer_d": "Ma'lumotlarni faqat optik disklarda saqlash.",
+    "correct": "A"
+  },
+  {
+    "id": 291,
+    "question": "Yuqori foydalanuvchanlik (high availability) o'zida qaysi uchta omilni birlashtiradi?",
+    "answer_a": "Xatolarga bardoshlilik, xizmatlar kafolati va ma'lumotlar xavfsizligi.",
+    "answer_b": "Narx, tezlik va qulaylik.",
+    "answer_c": "Axborot konfidensialligini, yaxlitligini va xesh algoritmlaridan foydalanish mumkinligini.",
+    "answer_d": "Arxivlash, skanerlash va tiklash.",
+    "correct": "A"
+  },
+  {
+    "id": 292,
+    "question": "Tizim yoki xizmat foydalanuvchanligini buzishga qaratilgan hujum turi qaysi?",
+    "answer_a": "Xizmat ko'rsatishdan voz kechishga undash hujumi.",
+    "answer_b": "Ma'lumotlarni zaxira nusxalashda konfidensiallikni ta'minlash jarayonini buzulishi.",
+    "answer_c": "RAID 1 texnologiyasini qo'llash.",
+    "answer_d": "Hodisalarni qaydlash (Logging).",
+    "correct": "A"
+  },
+  {
+    "id": 293,
+    "question": "Ma'lumotlarni zaxira nusxalashdan (backup) ko'zlangan asosiy strategik maqsad nima?",
+    "answer_a": "Zarar yetkazilganidan so'ng tizimni normal ish holatiga qaytarish va muhim ma'lumotlarni tiklash.",
+    "answer_b": "Ma'lumotlarni faqat DVD disklarga yozib qo'yish.",
+    "answer_c": "Tizimning ishlash tezligini ikki barobar oshirish va ma'lumotni saqlashdagi xarajatlarni kamaytish.",
+    "answer_d": "Foydalanuvchilarning tizimga kirish huquqini cheklash.",
+    "correct": "A"
+  },
+  {
+    "id": 294,
+    "question": "Inson xatosi natijasida ma'lumotlar yo'qolishiga qaysi holat misol bo'ladi?",
+    "answer_a": "Ma'lumotlar bazasini xatolik bilan boshqarish yoki tasodifan o'chirib yuborish.",
+    "answer_b": "Energiyaning kutilmaganda o'chishi yoki qo'shimcha elektr manbasini bo'lmasligi.",
+    "answer_c": "Zilzila yoki yong'in sodir bo'lishi.",
+    "answer_d": "Qurilmaning tabiiy zararlanishi.",
+    "correct": "A"
+  },
+  {
+    "id": 295,
+    "question": "Zaxira nusxalash vositasini tanlashda \"ishonchlilik\" (reliability) omili nimani talab etadi?",
+    "answer_a": "Ma'lumotlarning buzilishsiz ishlaydigan saqlash vositalarida saqlanishini.",
+    "answer_b": "Vositaning bozor narxi eng arzoni bo'lishini va tezkor ishlashi kerakligini.",
+    "answer_c": "Ma'lumotlarni saqlash hajmining maksimal bo'lishini.",
+    "answer_d": "Vositaning faqat optik disklardan iborat bo'lishini.",
+    "correct": "A"
+  },
+  {
+    "id": 296,
+    "question": "Optik disklarning (DVD, Blu-ray) zaxira saqlashdagi asosiy kamchiligi nima?",
+    "answer_a": "Katta hajmdagi ma'lumotlarni saqlash imkoniyati yo'qligi.",
+    "answer_b": "Narxining juda qimmatligi va olib yurishdagi noqulayliklar.",
+    "answer_c": "Foydalanish uchun juda murakkabligi.",
+    "answer_d": "Ma'lumotlarni qayta-qayta yozib bo'lmasligi.",
+    "correct": "A"
+  },
+  {
+    "id": 297,
+    "question": "RAID texnologiyasining ishlash prinsipi nimaga asoslangan?",
+    "answer_a": "Ko'plab qattiq disklarni bitta mantiqiy disk sifatida o'rnatish va ma'lumotlarni muvozanatlashgan holda saqlashga.",
+    "answer_b": "Ma'lumotlarni faqat bitta diskka ketma-ket yozishga, zarur bo'lganda o'chirib qayta yozishni avtomatlashtirishga.",
+    "answer_c": "Ma'lumotlarni faqat bulutli tizimlarda saqlashga.",
+    "answer_d": "Fayllarni o'chirish algoritmlarini boshqarishga.",
+    "correct": "A"
+  },
+  {
+    "id": 298,
+    "question": "RAID texnologiyasidagi \"akslantirish\" (mirroring) usulining mohiyati nimada?",
+    "answer_a": "Ma'lumotlarning nusxalanishi va RAID bo'ylab uzluksiz saqlanishi orqali xatoga bardoshlilikni ta'minlash.",
+    "answer_b": "Ma'lumotlarni ko'plab kichik bloklarga ajratib sochib yuborish, zarur bo'lganda avtomatik yig'ib olish.",
+    "answer_c": "Disk buzilganda xatolikni faqat nazorat qiymati orqali tuzatish.",
+    "answer_d": "Ma'lumotlarni o'qish tezligini pasaytirish.",
+    "correct": "A"
+  },
+  {
+    "id": 299,
+    "question": "RAID tizimlarining asosiy kamchiliklaridan biri sifatida nima keltirilgan?",
+    "answer_a": "Katta hajmli disklarda ma'lumotlarni tiklash va buzilgan disklarni qayta sozlash uzoq vaqt talab etishi.",
+    "answer_b": "Ma'lumotlarni o'qish va yozish unumdorligining pastligi.",
+    "answer_c": "Disklar massivining faqat shaxsiy kompyuterlarda ishlashi, tezkorligi va narxining juda yuqoriligi.",
+    "answer_d": "Ma'lumotlarni tiklash jarayonining mutlaqo imkonsizligi.",
+    "correct": "A"
+  },
+  {
+    "id": 300,
+    "question": "RAID 1 sathi haqidagi qaysi ma'lumot to'g'ri?",
+    "answer_a": "U buzilishga bardoshli, ammo disk hajmidan 2 marta kam foydalaniladi (50%).",
+    "answer_b": "U eng arzon RAID sathi va ma'lumot yo'qolganda tiklash imkonini bermaydi.",
+    "answer_c": "U bitta disk buzilganda barcha ma'lumotlarni yo'qotadi.",
+    "answer_d": "U faqat katta ma'lumotlar transferi uchun a'lo darajada.",
+    "correct": "A"
+  },
+  {
+    "id": 301,
+    "question": "\"Issiq zaxiralash\" (Hot backup) usulining afzalligi nimada?",
+    "answer_a": "Foydalanuvchi tizimni boshqarayotgan vaqtda zaxira nusxalashni amalga oshirish va tizim to'xtab qolish vaqtini kamaytirish.",
+    "answer_b": "Tizim butunlay o'chirilgan holatda ma'lumotlarni nusxalaydi va bu xavfsizlik tomonlama to'g'ri yondashuv hisoblanadi.",
+    "answer_c": "Ma'lumotlarni faqat haftada bir marta yangilash.",
+    "answer_d": "Zaxiralash jarayonida tizim tezligini maksimal darajada oshirish.",
+    "correct": "A"
+  },
+  {
+    "id": 302,
+    "question": "\"Sovuq zaxiralash\" (Cold backup) usuli nima uchun xavfsiz hisoblanadi?",
+    "answer_a": "Tizim ishlamay turgan (offline) vaqtda amalga oshirilib, ma'lumotlarni turli tahdidlardan himoyalagan holda nusxalaydi.",
+    "answer_b": "Ma'lumotlar faqat muzlatilgan serverlarda saqlanadi va shuning uchun kompyuterlarning ishlash tezligi yuqori, barqaror hisoblanadi.",
+    "answer_c": "U zaxiralashni eng qisqa vaqt ichida yakunlaydi.",
+    "answer_d": "U faqat internet tarmog'iga ulanib ishlaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 303,
+    "question": "\"To'liq zaxiralash\" (Full backup) turining xarakterli belgisi qaysi?",
+    "answer_a": "Jadvalga ko'ra barcha fayllar nusxalanadi va zichlangan tarzda saqlanadi.",
+    "answer_b": "Faqat oxirgi marta o'zgargan kichik fayllar nusxalanadi va bu jarayon uzluksiz davom etadi.",
+    "answer_c": "Zaxiralashdan oldin tizimni o'chirish talab etiladi.",
+    "answer_d": "Ma'lumotlarni tiklash uchun 100 foiz samara bermaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 304,
+    "question": "\"O'sib boruvchi zaxiralash\" (Incremental) turni qo'llashdan oldin qanday shart bajarilishi kerak?",
+    "answer_a": "Tizim avval to'liq zaxiralashni (full backup) amalga oshirishi shart.",
+    "answer_b": "Barcha mavjud ma'lumotlar o'chirib tashlanishi kerak va disk bo'lishi kerak.",
+    "answer_c": "Tizim faqat \"sovuq\" holatda bo'lishi kerak.",
+    "answer_d": "Faqat DVD disklardan foydalanish shart.",
+    "correct": "A"
+  },
+  {
+    "id": 305,
+    "question": "Differensial zaxiralash turi o'sib boruvchi turdan qanday farq qiladi?",
+    "answer_a": "U oxirgi to'liq zaxiradan boshlab bo'lgan barcha o'zgarishlarni nusxalaydi.",
+    "answer_b": "U faqat oxirgi kunlik o'zgarishlarni nusxalaydi va ancha sekin hisoblanadi.",
+    "answer_c": "U faqat haftaning yakshanba kunlari ishlaydi.",
+    "answer_d": "U ma'lumotlarni tiklashni talab qilmaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 306,
+    "question": "O'chirilgan faylni qayta tiklashning mantiqiy imkoniyati nimaga bog'liq?",
+    "answer_a": "Fayl o'chirilgan soha ustidan yangi ma'lumotlar yozilgunga qadar saqlagichda mavjud bo'lishiga.",
+    "answer_b": "Kompyuterning protsessor quvvati va ma'lumotlar hajmiga, turiga hamda shifrlanganligi yoki shifrlanmaganligiga.",
+    "answer_c": "Faylning nomidagi harflar soniga.",
+    "answer_d": "Antivirus dasturining litsenziyasiga.",
+    "correct": "A"
+  },
+  {
+    "id": 307,
+    "question": "Fizik zararlangan qattiq diskdan ma'lumotlarni tiklash qayerda amalga oshirilishi shart?",
+    "answer_a": "Changlardan xoli bo'lgan maxsus \"toza xona\" muhitida.",
+    "answer_b": "Faqat ochiq havoda va ustaxonalarda malakali xodimlar yordamida.",
+    "answer_c": "Oddiy ofis sharoitida.",
+    "answer_d": "Suv ostida.",
+    "correct": "A"
+  },
+  {
+    "id": 308,
+    "question": "Ma'lumotlarni qayta tiklashda qaysi muhim qoidaga amal qilish zarur?",
+    "answer_a": "Yo'qolgan ma'lumotlarni aynan o'sha qattiq diskning o'ziga qayta yozmaslik.",
+    "answer_b": "Tiklangan fayllarni faqat ZIP arxiv qilib saqlash va parol yordamida himoyalash.",
+    "answer_c": "Faqat 100% natija kutish, chunki tiklash har doim kafolatlangan.",
+    "answer_d": "Tiklash jarayonida antivirusni o'chirib qo'yish.",
+    "correct": "A"
+  },
+  {
+    "id": 309,
+    "question": "Faqat ma'lumotlarni tiklashda keng qo'llaniladigan dasturiy vositalar ro'yxatini ko'rsating?",
+    "answer_a": "Recovery My Files, Recuva, R-Studio, EASEUS Data Recovery Wizard.",
+    "answer_b": "Windows Logs, Event Viewer, Login.com.",
+    "answer_c": "RAID 0, RAID 5, RAID 50, EASEUS Data Recovery Wizard, Event Viewer.",
+    "answer_d": "Kaspersky, McAfee, Bitdefender.",
+    "correct": "A"
+  },
+  {
+    "id": 310,
+    "question": "Hodisalarni qaydlash (logging) jurnallarining (log fayl) asosiy vazifasi nima?",
+    "answer_a": "Xato sababini va u sodir bo'lgan kontekstni aniqlash.",
+    "answer_b": "Ma'lumotlarni arxivlab borish va zarur holatda kompyuterni tez ishlashi uchun foydalanish.",
+    "answer_c": "Viruslarni skanerlash va o'chirish.",
+    "answer_d": "Tizimning ishlash tezligini cheklash.",
+    "correct": "A"
+  },
+  {
+    "id": 311,
+    "question": "Windows OTda \"Xatolik\" (Error) hodisasi nimani bildiradi?",
+    "answer_a": "Ma'lumotlarni yoki funksionallikni yo'qotish kabi muhim muammoni (masalan, xizmat yuklanmasligi).",
+    "answer_b": "Diskda bo'sh joy kam qolganligini, uni zudlik bilan bartaraf etmasa, ma'lumotlar yo'qolishi mumkinligini.",
+    "answer_c": "Drayver muvaffaqiyatli yuklanganligini.",
+    "answer_d": "Foydalanuvchi tizimga muvaffaqiyatli kirganini.",
+    "correct": "A"
+  },
+  {
+    "id": 312,
+    "question": "Nima uchun audit jurnallaridan foydalanishni nazoratlash o'ta muhim vazifa?",
+    "answer_a": "Niyatibuzuqlar o'z faoliyatini yashirish uchun jurnallarni tahrirlashi mumkinligi sababli.",
+    "answer_b": "Jurnal fayllari diskda juda ko'p joy egallagani sababli.",
+    "answer_c": "Jurnalni faqat interaktiv foydalanuvchilar o'qiy olishi uchun va shaxsiy ma'lumot bo'lgani bois.",
+    "answer_d": "Jurnalni faqat Win+R tugmalari orqali ochish mumkinligi uchun.",
+    "correct": "A"
+  },
+  {
+    "id": 313,
+    "question": "Windows operatsion tizimida hodisalar jurnalini ko'rish uchun qaysi buyruq kiritiladi?",
+    "answer_a": "eventvwr.",
+    "answer_b": "chmod 700.",
+    "answer_c": "gets().",
+    "answer_d": "RAID 10.",
+    "correct": "A"
+  },
+  {
+    "id": 314,
+    "question": "Zaxira nusxalarni saqlash manziliga ko'ra \"ichki\" (onsite) zaxiralash qayerda amalga oshiriladi?",
+    "answer_a": "Tashkilotning o'z ichida (DVD, qattiq disk, lenta).",
+    "answer_b": "Masofadagi manzilda onlayn xizmat orqali.",
+    "answer_c": "Faqat uchinchi tomonning bulutli serverlarida.",
+    "answer_d": "Faqat internet provayder markazida.",
+    "correct": "A"
+  },
+  {
+    "id": 315,
+    "question": "C va C++ tillarida xotira bilan bog'liq zaifliklar (masalan, Buffer Overflow) nima sababdan ko'p uchraydi?",
+    "answer_a": "Xotirani boshqarish dasturchi tomonidan qo'lda (manual) amalga oshirilganligi sababli.",
+    "answer_b": "Bu tillarda shifrlash kutubxonalari mavjud emasligi sababli.",
+    "answer_c": "Ularda interpretatsiya jarayoni juda sekin va nisbatan eski dasturlash tillari bo'lganligi sababli.",
+    "answer_d": "Faqat Windows tizimida ishlaganligi sababli.",
+    "correct": "A"
+  },
+  {
+    "id": 316,
+    "question": "Windows operatsion tizimida ma'lumotlar jismoniy o'g'irlanganda ularni himoya qilish uchun disklarni to'liq shifrlaydigan vosita qaysi?",
+    "answer_a": "BitLocker.",
+    "answer_b": "Windows Defender.",
+    "answer_c": "UAC (User Account Control).",
+    "answer_d": "Active Directory.",
+    "correct": "A"
+  },
+  {
+    "id": 317,
+    "question": "Qaysi turdagi hujumda hujumchi foydalanuvchi va server o'rtasidagi aloqani o'ziga yo'naltirib oladi?",
+    "answer_a": "O'rtada turgan odam (Man-in-the-Middle, MitM).",
+    "answer_b": "Qo'pol kuch (Brute-force).",
+    "answer_c": "SQL inyeksiya (SQL Injection).",
+    "answer_d": "Xizmat ko'rsatishdan voz kechish (Denial of Service, DoS).",
+    "correct": "A"
+  },
+  {
+    "id": 318,
+    "question": "Mobil qurilmalarda operatsion tizim cheklovlarini chetlab o'tish (masalan, Android OTda Rooting, iOS OTda Jailbreak) xavfsizlikka qanday ta'sir qiladi?",
+    "answer_a": "Tizimning himoya qatlamini buzadi va zararli dasturlar xavfini oshiradi.",
+    "answer_b": "Telefonning ishlash tezligini doimiy ravishda oshiradi va ko'proq yangilanishlarni oladi.",
+    "answer_c": "Faqat batareya quvvatiga ta'sir qiladi, xavfsizlikka emas.",
+    "answer_d": "Antiviruslarning ishlashini yaxshilaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 319,
+    "question": "Buzulgan autentifikatsiya (Broken Authentication) zaifligi mavjud tizimda hujumchi nima qilishi mumkin?",
+    "answer_a": "Foydalanuvchi sessiyasini o'g'irlashi yoki parollarni taxmin qilishi (brute-force).",
+    "answer_b": "Serverga jismoniy shikast yetkazishi.",
+    "answer_c": "Internet provayder ishini to'xtatishi.",
+    "answer_d": "Faqat ochiq ma'lumotlarni ko'rishi va ba'zida shifrmatnlarni ham ko'rishi mumkin.",
+    "correct": "A"
+  },
+  {
+    "id": 320,
+    "question": "Xavfsiz bo'lmagan loyihalash (Insecure Design) zaifligi OWASP ro'yxatiga ko'ra nimaga e'tibor berishni talab qiladi?",
+    "answer_a": "Xavfsizlikni dastur ishlab chiqilgandan keyin emas, loyihalash bosqichida o'ylashni.",
+    "answer_b": "Faqat ranglar va dizaynning chiroyli bo'lishini hamda buni dastlabki bosqichda amalga oshirishni talab qiladi.",
+    "answer_c": "Saytning tez yuklanishini.",
+    "answer_d": "Foydalanuvchi interfeysining soddaligini.",
+    "correct": "A"
+  },
+  {
+    "id": 321,
+    "question": "Kriptografik algoritmlarni buzulishi (Cryptographic Failures) zaifligi asosan nima bilan bog'liq?",
+    "answer_a": "Maxfiy ma'lumotlarni shifrlamaslik yoki kuchsiz algoritmlardan foydalanish.",
+    "answer_b": "Kompyuter protsessorining sekin ishlashi bilan.",
+    "answer_c": "Foydalanuvchi parolini unutib qo'yishi va sodda parollardan foydalanishi bilan.",
+    "answer_d": "Internet ulanishining uzilishi bilan.",
+    "correct": "A"
+  },
+  {
+    "id": 322,
+    "question": "\"Buffer overflow\" (buferning to'lib-toshishi) hodisasi asosan qanday holatda yuzaga keladi?",
+    "answer_a": "Ajratilgan xotira sohasiga undan katta hajmdagi ma'lumotning yozilishi natijasida.",
+    "answer_b": "Dasturiy kodning juda uzun va tushunib bo'lmas darajada murakkab yozilishi natijasida.",
+    "answer_c": "Kompyuter protsessorining haddan tashqari qizib ketishi natijasida.",
+    "answer_d": "Internet tezligining kutilmaganda pasayib ketishi natijasida.",
+    "correct": "A"
+  },
+  {
+    "id": 323,
+    "question": "NASA Mars Lander halokatiga sabab bo'lgan dasturiy xatolik nima edi?",
+    "answer_a": "Ingliz va xalqaro metr o'lchov birliklari orasidagi nomutanosiblik.",
+    "answer_b": "Buferning to'lib-toshishi (Buffer overflow) natijasida tizim qotishi.",
+    "answer_c": "Tashqi buzg'unchilar tomonidan amalga oshirilgan kiberhujum.",
+    "answer_d": "Dasturiy kodning litsenziya muddati tugab qolganligi.",
+    "correct": "A"
+  },
+  {
+    "id": 324,
+    "question": "Nima uchun C va C++ dasturlash tillari Java yoki C# ga nisbatan xavfsizlik jihatidan zaifroq hisoblanadi?",
+    "answer_a": "Ko'plab xavfsizlik muammolari kompilyatsiya jarayonida avtomatik aniqlanmasligi sababli.",
+    "answer_b": "Ushbu tillar veb-saytlar yaratish uchun mo'ljallanmaganligi sababli.",
+    "answer_c": "C va C++ tillarida grafik interfeys yaratish imkonsiz bo'lganligi sababli.",
+    "answer_d": "Faqat Linux operatsion tizimi uchun ishlab chiqilganligi va nisbatan eski ekanligi sababli.",
+    "correct": "A"
+  },
+  {
+    "id": 325,
+    "question": "O'rtacha statistik ma'lumotlarga ko'ra, har 10 000 qator kodda nechta \"bag\" (xato) mavjud bo'lishi aniqlangan?",
+    "answer_a": "5 ta.",
+    "answer_b": "50 ta.",
+    "answer_c": "100 ta.",
+    "answer_d": "1 ta.",
+    "correct": "A"
+  },
+  {
+    "id": 326,
+    "question": "Quyidagi C tilida yozilgan kodda qanday zaiflik mavjud: int buffer[10]; buffer[20]=37;?",
+    "answer_a": "10 o'lchamli xotiraga 20-indeks orqali ma'lumot yozilib, ruxsat etilmagan manzilga murojaat qilingan.",
+    "answer_b": "\"main\" funksiyasi noto'g'ri e'lon qilingan va dastur ishga tushmaydi.",
+    "answer_c": "Muammo bo'lmasligi uchun o'zgaruvchilar turi har doim \"int\" emas, \"string\" bo'lishi talab etiladi.",
+    "answer_d": "Dasturda nuqtali vergul (;) belgisi tushirib qoldirilgan.",
+    "correct": "A"
+  },
+  {
+    "id": 327,
+    "question": "Dasturiy vositalarda xavfsizlik muammolarining paydo bo'lishiga sabab bo'luvchi murakkablik (komplekslilik) omili nimani anglatadi?",
+    "answer_a": "Dasturiy mahsulotning juda ko'plab dasturchilar tomonidan yozilishi va birlashtirilishi.",
+    "answer_b": "Dasturning faqat bitta kompyuterda ishlash qobiliyati va bir dasturchi tomonidan yozilishi.",
+    "answer_c": "Dasturiy kodning faqat ingliz tilida yozilganligi.",
+    "answer_d": "Protsessor quvvatining yetishmasligi.",
+    "correct": "A"
+  },
+  {
+    "id": 328,
+    "question": "Xavfsiz dasturiy vositalar injineriyasining asosiy talabi nimadan iborat?",
+    "answer_a": "Dasturning o'z vazifasini xavfsiz bajarishi.",
+    "answer_b": "Dasturning juda kichik hajmga ega bo'lishi.",
+    "answer_c": "Dasturning mutlaqo bepul tarqatilishi.",
+    "answer_d": "Dasturning barcha tillarda so'zlasha olishi.",
+    "correct": "A"
+  },
+  {
+    "id": 329,
+    "question": "Buferning to'lib-toshishi (Buffer overflow) hujumi natijasida tajovuzkor qanday maqsadga erishishi mumkin?",
+    "answer_a": "Kompyuter xotirasiga o'ziga \"kerakli\" ma'lumotlarni kiritish va tizimni buzish.",
+    "answer_b": "Kompyuterning monitorini masofadan turib o'chirib qo'yish hamda qurilmalarni boshqarish.",
+    "answer_c": "Foydalanuvchining klaviatura tugmalarini almashtirib qo'yish.",
+    "answer_d": "Internet provayderi bilan shartnomani bekor qilish.",
+    "correct": "A"
+  },
+  {
+    "id": 330,
+    "question": "Xavfsiz dasturlashda foydalanuvchi kiritgan ma'lumotni qabul qilishdan oldin qilinadigan eng muhim amal nima?",
+    "answer_a": "Ma'lumot hajmini va formatini ajratilgan bufer hajmiga mosligini tekshirish (Input Validation).",
+    "answer_b": "Ma'lumotni darhol arxivlab qo'yish, arxivlashda imkon bo'lsa murakkab parollardan foydalanish.",
+    "answer_c": "Ma'lumotni faqat ingliz tiliga tarjima qilib qabul qilish.",
+    "answer_d": "Ma'lumotni ekran o'rtasida katta harflarda chiqarish",
+    "correct": "A"
+  },
+  {
+    "id": 331,
+    "question": "int arr[5]; arr[10] = 100; kodi bajarilganda nima sodir bo'ladi?",
+    "answer_a": "Massiv chegarasidan tashqaridagi xotira manziliga ma'lumot yozilib, buferni to'lib toshishi hujumi yuzaga keladi.",
+    "answer_b": "Dastur avtomatik ravishda massiv hajmini 10 tagacha kengaytiradi hamda muammoni oldini olishga erishadi.",
+    "answer_c": "Kompilyator \"100\" sonini \"5\" soniga almashtiradi hamda muammoni oldini oladi.",
+    "answer_d": "Hech qanday xato bo'lmaydi, chunki \"int\" turi cheksiz xotiraga ega.",
+    "correct": "A"
+  },
+  {
+    "id": 332,
+    "question": "Buferni to'lib toshish (Buffer overflow) zaifligi kod darajasida qanday yuzaga keladi?",
+    "answer_a": "Dastur kiritilayotgan ma'lumot hajmini tekshirmasdan, uni cheklangan xotira buferiga yozishi natijasida.",
+    "answer_b": "Dasturda \"if\" operatori noto'g'ri ishlatilishi natijasida zaiflik yuzaga keladi va faqat shu holda yuzaga keladi.",
+    "answer_c": "O'zgaruvchi nomi juda uzun bo'lganligi sababli.",
+    "answer_d": "Dastur faqat administrator huquqi bilan ishga tushirilganligi sababli.",
+    "correct": "A"
+  },
+  {
+    "id": 333,
+    "question": "A5/1 siljitish registrlari holati quyidagicha: X ning 8-biti 1, Y ning 10-biti 0, Z ning 10-biti 1 ga teng. Majority funksiyasi qoidasiga ko'ra qaysi registrlar siljiydi?",
+    "answer_a": "Faqat X va Z",
+    "answer_b": "Faqat X va Y",
+    "answer_c": "Barcha registrlar (X, Y, Z)",
+    "answer_d": "Faqat Y va Z",
+    "correct": "A"
+  },
+  {
+    "id": 334,
+    "question": "A5/1 algoritmidagi X (19 bit), Y (22 bit) va Z (23 bit) registrlarining umumiy ichki holati (internal state) necha bitdan iborat?",
+    "answer_a": "64",
+    "answer_b": "128",
+    "answer_c": "54",
+    "answer_d": "40",
+    "correct": "A"
+  },
+  {
+    "id": 335,
+    "question": "Agar majority funksiyasi natijasi 0 bo'lsa va X_8=0, Y_10=1, Z_10=0 bo'lsa, qaysi registrlar keyingi qadamda siljiydi?",
+    "answer_a": "Faqat X va Z registrlar.",
+    "answer_b": "Faqat Y registri.",
+    "answer_c": "Barcha registrlar (X, Y, Z).",
+    "answer_d": "Faqat X va Y registrlar.",
+    "correct": "A"
+  },
+  {
+    "id": 336,
+    "question": "A5/1 oqimli shifrlash algoritmi uchun chiqish biti (output bit) qanday hosil qilinadi?",
+    "answer_a": "Uchala registrning (X, Y, Z) oxirgi bitlarini XOR amalida qo'shish orqali.",
+    "answer_b": "Uchala registrning (X, Y, Z) oxirgi bitlarini AND amalida qo'shish orqali.",
+    "answer_c": "Faqat Z registrining oxirgi bitini olish orqali.",
+    "answer_d": "X va Y ni XOR amalida qo'shib, keyin Z ga qo'shish orqali.",
+    "correct": "A"
+  },
+  {
+    "id": 337,
+    "question": "X registri uchun qayta aloqa (feedback) bitlari 13, 16, 17, 18-pozitsiyalarda joylashgan. Agar bu bitlar mos holda 1, 0, 1, 1 bo'lsa, yangi kiruvchi bit qiymatini toping?",
+    "answer_a": "1",
+    "answer_b": "0",
+    "answer_c": "2",
+    "answer_d": "Natijani aniqlab bo'lmaydi",
+    "correct": "A"
+  },
+  {
+    "id": 338,
+    "question": "A5/1 algoritmi GSM tarmog'ida ma'lumotlarni qanday ko'rinishda shifrlaydi?",
+    "answer_a": "Har bir bitni oqim ko'rinishida.",
+    "answer_b": "64 bitli bloklar ko'rinishida.",
+    "answer_c": "128 bitli bloklar ko'rinishida.",
+    "answer_d": "Faqat paket sarlavhalarini shifrlash orqali.",
+    "correct": "A"
+  },
+  {
+    "id": 339,
+    "question": "A5/1 shifrlash jarayonida seans kaliti (K_c) uzunligi necha bitni tashkil etadi?",
+    "answer_a": "64",
+    "answer_b": "32",
+    "answer_c": "128",
+    "answer_d": "256",
+    "correct": "A"
+  },
+  {
+    "id": 340,
+    "question": "A5/1 algoritmidagi Y registri uchun soat biti (majority funksiyasini hisoblash uchun ishlatiladigan) nechanchi pozitsiyada joylashgan?",
+    "answer_a": "10-bit pozitsiyasida.",
+    "answer_b": "8-bit pozitsiyasida.",
+    "answer_c": "9-bit pozitsiyasida.",
+    "answer_d": "11-bit pozitsiyasida.",
+    "correct": "A"
+  },
+  {
+    "id": 341,
+    "question": "Agar barcha uchta registrning soat bitlari (majority funksiyasini hisoblashda ishlatiladigan) bir xil qiymatga (1, 1, 1) ega bo'lsa, nima sodir bo'ladi?",
+    "answer_a": "Uchala registr ham bir vaqtda siljiydi.",
+    "answer_b": "Uchala registr ham bir vaqtda siljimaydi.",
+    "answer_c": "Faqat X registri siljiydi.",
+    "answer_d": "Faqat Z registri siljiydi.",
+    "correct": "A"
+  },
+  {
+    "id": 342,
+    "question": "A5/1 algoritmining Z registri (23 bit) uchun soat biti (majority funksiyasini hisoblashda ishlatiladigan) nechanchi pozitsiyada joylashgan?",
+    "answer_a": "10-bit pozitsiyasida.",
+    "answer_b": "8-bit pozitsiyasida.",
+    "answer_c": "9-bit pozitsiyasida.",
+    "answer_d": "11-bit pozitsiyasida.",
+    "correct": "A"
+  },
+  {
+    "id": 343,
+    "question": "A5/1 algoritmining X registri (19 bit) uchun soat biti (majority funksiyasini hisoblashda ishlatiladigan) nechanchi pozitsiyada joylashgan?",
+    "answer_a": "8-bit pozitsiyasida.",
+    "answer_b": "9-bit pozitsiyasida.",
+    "answer_c": "11-bit pozitsiyasida.",
+    "answer_d": "10-bit pozitsiyasida.",
+    "correct": "A"
+  },
+  {
+    "id": 344,
+    "question": "A5/1 algoritmidagi registrlarning soat bitlari (X=8, Y=10, Z=10) majority funksiyasidan o'tganda, kamida nechta registr har doim siljiydi?",
+    "answer_a": "2 ta registr.",
+    "answer_b": "1 ta registr.",
+    "answer_c": "3 ta registr.",
+    "answer_d": "Hech biri siljimaydi.",
+    "correct": "A"
+  },
+  {
+    "id": 345,
+    "question": "A5/1 algoritmidagi Z registrining uzunligi necha bitga teng?",
+    "answer_a": "23 bit.",
+    "answer_b": "19 bit.",
+    "answer_c": "22 bit.",
+    "answer_d": "64 bit.",
+    "correct": "A"
+  },
+  {
+    "id": 346,
+    "question": "A5/1 algoritmidagi X registrining uzunligi necha bitga teng?",
+    "answer_a": "19 bit.",
+    "answer_b": "22 bit.",
+    "answer_c": "64 bit.",
+    "answer_d": "23 bit.",
+    "correct": "A"
+  },
+  {
+    "id": 347,
+    "question": "A5/1 algoritmidagi Y registrining uzunligi necha bitga teng?",
+    "answer_a": "22 bit.",
+    "answer_b": "64 bit.",
+    "answer_c": "23 bit.",
+    "answer_d": "19 bit.",
+    "correct": "A"
+  },
+  {
+    "id": 348,
+    "question": "Apparat shifrlash (Hardware encryption) dasturiy shifrlashdan (Software encryption) nimasi bilan ustun?",
+    "answer_a": "Shifrlash protsessorga yuklama tushirmasdan alohida mikrosxema orqali bajariladi, bu esa tezlik va xavfsizlikni oshiradi.",
+    "answer_b": "U faqat ochiq kodli bepul dasturlar orqali ishlagani uchun hamma bemalol o'rnatishi mumkinligi va foydalanishga qulayligi.",
+    "answer_c": "Apparat shifrlash hech qachon parol so'ramaydi, u faqat foydalanuvchi yuzini taniydi.",
+    "answer_d": "U kompyuterning qattiq diskini jismoniy shikastlanishlardan (masalan, zarbadan) himoya qiladi.",
+    "correct": "A"
+  },
+  {
+    "id": 349,
+    "question": "FDE (Full Disk Encryption - To'liq diskni shifrlash) qanday vaziyatlarda eng muhim himoya qatlami hisoblanadi?",
+    "answer_a": "Noutbuk yoki xotira qurilmasi o'g'irlanganda yoki yo'qotilganda, undagi ma'lumotlarni begona shaxslar o'qiy olmasligini ta'minlashda.",
+    "answer_b": "Kompyuter internetga ulanganda unga virus tushishining 100% oldini olishda.",
+    "answer_c": "O'chirib yuborilgan fayllarni Korzinkadan (Recycle Bin) osongina tiklashda urinish amalga oshirilganda, himoyani ta'minlash uchun.",
+    "answer_d": "Qattiq diskning ishlash tezligini va xotira hajmini sun'iy ravishda ikki barobar oshirishda.",
+    "correct": "A"
+  },
+  {
+    "id": 350,
+    "question": "Fayl darajasidagi shifrlash (FLE) tizimi To'liq diskni shifrlashdan (FDE) qanday farq qiladi?",
+    "answer_a": "FLE da foydalanuvchi o'ziga kerakli bo'lgan alohida fayl va papkalarnigina shifrlashi mumkin, FDE da butun disk to'liq shifrlanadi.",
+    "answer_b": "FLE faqat fleshkalarni shifrlaydi, FDE esa faqat DVD disklarni himoyalaydi.",
+    "answer_c": "FLE da parollar shart emas, chunki u operatsion tizimning ichki funksiyasi hisoblanadi.",
+    "answer_d": "Ikkalasi o'rtasida farq yo'q, bular bitta texnologiyaning ikki xil nomlanishi.",
+    "correct": "A"
+  },
+  {
+    "id": 351,
+    "question": "HTTPS protokolidagi xavfsizlik va shifrlash qaysi protokol yordamida amalga oshiriladi?",
+    "answer_a": "SSL yoki uning yangilangan versiyasi TLS orqali.",
+    "answer_b": "Faqatgina HTTP ning o'ziga o'rnatilgan parollash tizimi orqali.",
+    "answer_c": "PGP shifrlash protokoli orqali.",
+    "answer_d": "FTP ma'lumotlar almashish protokoli orqali",
+    "correct": "A"
+  },
+  {
+    "id": 352,
+    "question": "SSH (Secure Shell) protokoli asosan qanday maqsadlarda ishlatiladi?",
+    "answer_a": "Masofadagi serverlarga xavfsiz, shifrlangan kanal orqali ulanish va ularni buyruqlar satri orqali boshqarish uchun.",
+    "answer_b": "Brauzerda veb-saytlarni reklamasiz va tezkor yuklash uchun.",
+    "answer_c": "Tarmoqdagi kompyuterlarga IP manzil tarqatish (DHCP o'rniga) uchun.",
+    "answer_d": "Videolarni internet orqali sifatini yo'qotmasdan translatsiya qilish uchun.",
+    "correct": "A"
+  },
+  {
+    "id": 353,
+    "question": "IPSec protokoli OSI modelining qaysi sathida ishlaydi va uning vazifasi nima?",
+    "answer_a": "Tarmoq sathida (Network layer) ishlaydi va IP paketlarni shifrlab, xavfsiz VPN ulanishlarini ta'minlaydi.",
+    "answer_b": "Dasturiy sathda (Application layer) ishlaydi va faqat brauzerlarni shifrlash orqali VPN ulanishlarni ta'minlaydi.",
+    "answer_c": "Kanal sathida (Data Link layer) ishlaydi va Wi-Fi parollarini tekshiradi.",
+    "answer_d": "Seans sathida ishlaydi va yo'qolgan fayllarni serverdan qayta yuklab beradi.",
+    "correct": "A"
+  },
+  {
+    "id": 354,
+    "question": "Elektron hukumat (e-Gov) tizimlarida fuqarolarga xizmat ko'rsatishda elektron raqamli imzo nima uchun talab qilinadi?",
+    "answer_a": "Fuqaroning shaxsini masofadan turib yuridik jihatdan ishonchli va xavfsiz tarzda autentifikatsiya qilish uchun.",
+    "answer_b": "Xizmat ko'rsatuvchi serverlarning yuklamasini kamaytirish va foydalanuvchi tomonida hisoblashni amalga oshirish uchun.",
+    "answer_c": "Internet provayderlarga fuqaroning qaysi saytlarga kirganini ko'rsatish uchun.",
+    "answer_d": "Saytdagi grafik elementlarning sifatli ochilishini ta'minlash uchun.",
+    "correct": "A"
+  },
+  {
+    "id": 355,
+    "question": "Raqamli imzo qanday kriptografik tamoyilga asoslanib ishlaydi?",
+    "answer_a": "Asimmetrik shifrlash va xesh funksiyalarga.",
+    "answer_b": "Faqatgina simmetrik shifrlashga.",
+    "answer_c": "Faqat binar (ikkilik) qoldiq arifmetikasiga.",
+    "answer_d": "Operatsion tizimning qattiq diskdagi maxfiy parollariga.",
+    "correct": "A"
+  },
+  {
+    "id": 356,
+    "question": "Foydalanuvchi MD5 (128 bitli chiqish qiymatiga ega) xesh funksiyasi orqali avval 5 Megabaytli rasmni, so'ngra 50 Gigabaytli yuqori sifatli videoni xesh qiymatlarini hisoblaydi. Natijada hosil bo'lgan xesh qiymatlarning o'lchami o'zaro qanday nisbatda bo'ladi?",
+    "answer_a": "Ikkala xeshning ham o'lchami aynan bir xil — 128 bit bo'ladi.",
+    "answer_b": "Videoning xesh o'lchami rasm xeshi o'lchamidan 10 000 marta kattaroq bo'ladi.",
+    "answer_c": "Video fayl juda katta bo'lgani uchun xeshlash jarayoni xatoga uchraydi va xesh qiymat qaytarmaydi.",
+    "answer_d": "Rasmning xeshi o'zgaruvchan uzunlikda bo'ladi, videoniki esa qat'iy 128 bitda qoladi.",
+    "correct": "A"
+  },
+  {
+    "id": 357,
+    "question": "Xaker yirik ijtimoiy tarmoqning ma'lumotlar bazasini o'g'irladi. U yerda foydalanuvchilarning parollari ochiq shaklda emas, balki xeshlangan (masalan, MD5 algoritmi bilan) holda saqlangan edi. Xaker nima uchun bu xeshlarni to'g'ridan-to'g'ri o'z kompyuterida \"deshifrlash\" funksiyasi orqali asl parolga aylantira olmaydi?",
+    "answer_a": "Xesh funksiya matematik jihatdan qaytarib bo'lmas jarayondir; uni teskari funksiya bilan tiklab bo'lmaydi.",
+    "answer_b": "Chunki MD5 simmetrik algoritm bo'lib, xakerda parollarni ochuvchi maxfiy kalit yo'q bo'lganligi sababli.",
+    "answer_c": "Tarmoq qoidalari faqatgina serverning ichki IP manzilidangina xeshlarni o'qishga ruxsat beradi.",
+    "answer_d": "Xesh qiymatlar o'g'irlangandan so'ng 24 soat ichida o'z-o'zini yo'q qilish xususiyatiga ega.",
+    "correct": "A"
+  },
+  {
+    "id": 358,
+    "question": "Matematik jihatdan, xesh funksiyaga kiritilishi mumkin bo'lgan ma'lumotlar hajmi va turlari cheksiz. Ammo xesh funksiyaning chiqish uzunligi (masalan, 256 bit) cheklangan. Ushbu mantiqdan kelib chiqsak, turli xil fayllar bir xil xesh qiymatiga ega bo'lib qolishi (kolliziya) matematik jihatdan albatta mavjud bo'lishi shart. Unda nega biz ko'plab algoritmlarni (masalan, SHA-256) xavfsiz deb hisoblaymiz?",
+    "answer_a": "Kolliziya matematik jihatdan mavjud bo'lsada, amaliyotda mavjud kompyuterlar yordamida uni topish uchun juda ko'p vaqt ketadi.",
+    "answer_b": "Algoritm kolliziyani aniqlasa, darhol xesh uzunligini 512 bitga oshirib yuboriladi va xavfsizlik avtomatik ta'minlangani sababli.",
+    "answer_c": "Cheksiz imkoniyatlarga qaramay, xesh funksiyalar sun'iy intellekt yordamida kolliziyalarni o'chirib tashlaydi.",
+    "answer_d": "Xavfsiz xesh funksiyalarda xesh qiymatlar qayta-qayta ishlatilishiga ruxsat berilmagan.",
+    "correct": "A"
+  },
+  {
+    "id": 359,
+    "question": "Dasturchi bitta operatsion tizimning ISO faylini dushanba kuni xeshlaydi va natijani yozib oldi. Juma kuni xuddi shu kompyuterda, o'sha fayl ustida yana bir marta xuddi shu jarayonni amalga oshirsa (shu faylni xeshlasa) nima bo'ladi? (Bu vaqt oralig'ida fayl umuman o'zgartirilmagan va ochilmagan).",
+    "answer_a": "Natija butunlay bir xil chiqadi, chunki xesh funksiya faqat ma'lumotning ichki bitlariga bog'liq va deterministik hisoblanadi.",
+    "answer_b": "Natija dushanba kungi xeshdan farq qiladi, chunki tizim vaqti (timestamp) va operatsion tizimdagi fayllar o'zgargan bo'ladi.",
+    "answer_c": "Xesh funksiya operativ xotiradagi (RAM) qoldiqlarga qarab har safar yangi xesh yaratadi.",
+    "answer_d": "Natija bir xil chiqadi, lekin xesh qilingan sana xesh qiymatining oxiriga avtomatik qo'shib qo'yiladi.",
+    "correct": "A"
+  },
+  {
+    "id": 360,
+    "question": "Alisa va Bob internet orqali simmetrik shifrlash yordamida maxfiy gaplashmoqchi. Lekin ular hayotda hech qachon ko'rishmagan. Simmetrik shifrlashning mantiqiy arxitekturasiga ko'ra, ularning muloqotni boshlashidagi eng katta to'siq nima bo'ladi?",
+    "answer_a": "Ular shifrlashda ishlatiladigan dastlabki yagona maxfiy kalitni xakerga oldirmasdan xavfsiz almashishlari uchun avvaldan mavjud bo'lgan mutlaq xavfsiz kanalga muxtoj bo'lishadi.",
+    "answer_b": "Simmetrik shifrlash algoritmlari juda sekin ishlagani uchun, birinchi xabarni jo'natish bir necha soat vaqt oladi va aloqa uzilib qoladi.",
+    "answer_c": "Simmetrik kalitlar har 5 daqiqada o'z-o'zidan o'zgarib turishi shart, shuning uchun ular kalitni saqlab qolishga ulgurishmaydi.",
+    "answer_d": "Tarmoq provayderlari simmetrik shifrlangan paketlarni avtomatik ravishda bloklab qo'yadi, chunki bu turdagi shifrlash eskirgan hisoblanadi.",
+    "correct": "A"
+  },
+  {
+    "id": 361,
+    "question": "Tasavvur qiling, siz bank serveridan 5 Gigabaytli maxfiy ma'lumotlar bazasini ko'chirib olyapsiz. Ma'lumotlarni himoyalash uchun to'liq RSA (asimmetrik) algoritmiga emas, balki gibrid usulga (simmetrik shifrlash algoritmi kaliti assimetrik shifrlash algoritmi bilan yetkaziladi) tayaniladi. Nima uchun 5 GB faylni boshidan oxirigacha RSA (asimmetrik) yordamida shifrlash mantiqqa zid?",
+    "answer_a": "Asimmetrik shifrlash murakkab matematik funksiyalarga tayangani uchun hisoblash jihatdan juda sekin va ko'p resurs talab qiladi.",
+    "answer_b": "Asimmetrik kalitlar faqat matnli ma'lumotlarni shifrlay oladi, ma'lumotlar bazasi yoki video fayllar formati uchun bu algoritm yaroqsiz hisoblanadi.",
+    "answer_c": "Agar fayl to'liq RSA orqali shifrlansa, uning yakuniy hajmi 5 Gigabaytdan 500 Gigabaytga aylanib ketadi va xotiraga sig'maydi.",
+    "answer_d": "Asimmetrik algoritmda shifrlash amalga oshirilganda, kompyuter internetdan uzilib, xavfsizlik protokollari qayta yuklanishini talab qiladi.",
+    "correct": "A"
+  },
+  {
+    "id": 362,
+    "question": "Siz o'zingizning \"Ochiq kalitingizni\" (Public Key) shaxsiy veb-saytingizda hamma yuklab olishi uchun e'lon qilib qo'ydingiz. Tarmoqdagi xaker uni yuklab oldi. Xaker ushbu ochiq kalitdan foydalanib sizning elektron pochtangizga kelgan maxfiy xatlarni o'qiy oladimi?",
+    "answer_a": "Yo'q, mutlaqo o'qiy olmaydi. Ochiq kalit faqatgina ma'lumotni shifrlash uchun ishlaydi.",
+    "answer_b": "Ha, o'qiy oladi. Ochiq kalit hakerga ulanish seanslarini qayta tiklash imkonini beradi va u tizimdagi barcha eski xabarlarni deshifrlaydi.",
+    "answer_c": "Yo'q, lekin xaker ochiq kalitni o'ziga moslab tahrirlasa, shifrlash funksiyasini yopiq kalitga aylantirib olishi matematik jihatdan oson kechadi.",
+    "answer_d": "Ha, chunki asimmetrik shifrlashda ochiq va yopiq kalitlar doim bir xil belgilar ketma-ketligidan iborat bo'ladi.",
+    "correct": "A"
+  },
+  {
+    "id": 363,
+    "question": "Biz asimmetrik shifrlash haqida gapirganda, odatda birovga xat yozish uchun uning ochiq kaliti bilan xatni shifrlashni tushunamiz. Lekin Elektron raqamli imzoni qo'yish jarayoni buning teskarisidir. Hujjatga raqamli imzo qo'yganingizda kalitlar qanday ishlatiladi?",
+    "answer_a": "Men hujjat xeshini o'zimning Shaxsiy kalitim (Private Key) bilan shifrlayman (imzolayman). Qolganlar esa mening kimligimni tasdiqlash uchun mening Ochiq kalitimdan foydalanib imzomni tekshirishadi.",
+    "answer_b": "Men hujjatni davlatning Ochiq kaliti bilan shifrlayman va faqat hukumat uni o'zining yopiq kaliti bilan ochib tekshiradi.",
+    "answer_c": "Ikkala tomon ham bitta umumiy maxfiy kalit (simmetrik) ishlatib hujjatni shifrlaydi, shu bilan imzo haqiqiyligi tasdiqlanadi.",
+    "answer_d": "Men hujjatni o'zimning Ochiq kalitim bilan shifrlayman va parolni oluvchiga SMS orqali yuboraman.",
+    "correct": "A"
+  },
+  {
+    "id": 364,
+    "question": "Nima uchun asimmetrik shifrlash (Raqamli imzo holatida) orqali yuborilgan xabarni \"Bu xatni men yozmaganman\" deb inkor etish yuridik jihatdan imkonsiz bo'lsa, simmetrik shifrlashda inkor etish juda oson hisoblanadi?",
+    "answer_a": "Chunki simmetrik shifrlashda maxfiy kalit ikkala tomonda ham (Alisa va Bobda) bo'ladi, ya'ni xatni kim yozganini qat'iy isbotlab bo'lmaydi. Asimmetrikda esa Shaxsiy kalit faqat bir kishida bo'ladi va uni aynan shu shaxs yaratganligi kafolatlanadi.",
+    "answer_b": "Simmetrik shifrlashda xabarlar matni xakerlar tomonidan tez o'zgartirilishi mumkin, asimmetrik algoritmlar esa matnni blokcheynga yozib qo'yadi.",
+    "answer_c": "Asimmetrik kalitlar davlat organlari tomonidan ro'yxatga olingan barmoq izlari bilan birgalikda ishlaydi, simmetrik kalitlar esa ro'yxatdan o'tmagan bo'ladi.",
+    "answer_d": "Ikkala shifrlashda ham rad etib bo'lmaslik bir xil ishlaydi, shunchaki qonunchilikda asimmetrik usul ustuvor etib belgilangan.",
+    "correct": "A"
+  },
+  {
+    "id": 365,
+    "question": "Simmetrik shifrlash bilan xavfsiz ulanish arxitekturasini quryapsiz. Siz bir tomonda \"Real vaqt rejimida (jonli) video va audio qo'ng'iroq\"ni, ikkinchi tomonda \"Qattiq diskdagi katta hujjatlar arxivini\" shifrlashingiz kerak. Qaysi simmetrik shifrlash algoritmi turlarini tanlash mantiqan to'g'ri?",
+    "answer_a": "Jonli video aloqa uchun kechikishlarsiz (bitma-bit) ishlovchi oqimli shifrlashni, Diskdagi hujjatlar arxivi uchun ma'lumotni guruhlarga bo'lib xavfsizroq ishlovchi blokli shifrlashni tanlayman.",
+    "answer_b": "Ikkalasi uchun ham faqat oqimli shifrlashni tanlash kerak, chunki blokli shifrlash hozirgi kunda kvant kompyuterlari tomonidan to'liq buzilgan va muhim ma'lumotlarni himoyalash uchun tavsiya etilmagani bois.",
+    "answer_c": "Diskni oqimli shifrda shifrlayman (joyni kamaytirish uchun), videoni esa blokli shifrda (sifatni tushirmaslik uchun).",
+    "answer_d": "Bularning o'rniga faqat asimmetrik RSAdan foydalanaman, chunki tezlik qanday bo'lishidan qat'i nazar xavfsizlik birinchi o'rinda turishi kerak.",
+    "correct": "A"
+  },
+  {
+    "id": 366,
+    "question": "RSA algoritmi uchun p=5, q=11, e=3 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=55, e=3); Shaxsiy kalit d=27.",
+    "answer_b": "Ochiq kalit (n=55, e=3); Shaxsiy kalit d=7.",
+    "answer_c": "Ochiq kalit (n=40, e=3); Shaxsiy kalit d=27.",
+    "answer_d": "Ochiq kalit (n=55, e=3); Shaxsiy kalit d=13.",
+    "correct": "A"
+  },
+  {
+    "id": 367,
+    "question": "RSA algoritmi uchun p=3, q=13, e=5 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=39, e=5); Shaxsiy kalit d=5.",
+    "answer_b": "Ochiq kalit (n=39, e=5); Shaxsiy kalit d=11.",
+    "answer_c": "Ochiq kalit (n=24, e=5); Shaxsiy kalit d=5.",
+    "answer_d": "Ochiq kalit (n=39, e=5); Shaxsiy kalit d=17.",
+    "correct": "A"
+  },
+  {
+    "id": 368,
+    "question": "RSA algoritmi uchun p=7, q=11, e=7 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=77, e=7); Shaxsiy kalit d=43.",
+    "answer_b": "Ochiq kalit (n=77, e=7); Shaxsiy kalit d=37.",
+    "answer_c": "Ochiq kalit (n=77, e=7); Shaxsiy kalit d=23.",
+    "answer_d": "Ochiq kalit (n=60, e=7); Shaxsiy kalit d=43.",
+    "correct": "A"
+  },
+  {
+    "id": 369,
+    "question": "RSA algoritmi uchun p=3, q=17, e=3 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=51, e=3); Shaxsiy kalit d=11.",
+    "answer_b": "Ochiq kalit (n=51, e=3); Shaxsiy kalit d=21.",
+    "answer_c": "Ochiq kalit (n=32, e=3); Shaxsiy kalit d=11.",
+    "answer_d": "Ochiq kalit (n=51, e=3); Shaxsiy kalit d=27.",
+    "correct": "A"
+  },
+  {
+    "id": 370,
+    "question": "RSA algoritmi uchun p=5, q=7, e=11 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=35, e=11); Shaxsiy kalit d=11.",
+    "answer_b": "Ochiq kalit (n=35, e=11); Shaxsiy kalit d=5.",
+    "answer_c": "Ochiq kalit (n=35, e=11); Shaxsiy kalit d=19.",
+    "answer_d": "Ochiq kalit (n=24, e=11); Shaxsiy kalit d=11.",
+    "correct": "A"
+  },
+  {
+    "id": 371,
+    "question": "RSA algoritmi uchun p=11, q=13, e=7 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=143, e=7); Shaxsiy kalit d=103.",
+    "answer_b": "Ochiq kalit (n=143, e=7); Shaxsiy kalit d=31.",
+    "answer_c": "Ochiq kalit (n=120, e=7); Shaxsiy kalit d=103.",
+    "answer_d": "Ochiq kalit (n=143, e=7); Shaxsiy kalit d=67.",
+    "correct": "A"
+  },
+  {
+    "id": 372,
+    "question": "RSA algoritmi uchun p=7, q=13, e=5 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=91, e=5); Shaxsiy kalit d=29.",
+    "answer_b": "Ochiq kalit (n=91, e=5); Shaxsiy kalit d=19.",
+    "answer_c": "Ochiq kalit (n=72, e=5); Shaxsiy kalit d=29.",
+    "answer_d": "",
+    "correct": "A"
+  },
+  {
+    "id": 373,
+    "question": "RSA algoritmi uchun p=5, q=13, e=7 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=65, e=7); Shaxsiy kalit d=7.",
+    "answer_b": "Ochiq kalit (n=65, e=7); Shaxsiy kalit d=31.",
+    "answer_c": "Ochiq kalit (n=65, e=7); Shaxsiy kalit d=13.",
+    "answer_d": "Ochiq kalit (n=48, e=7); Shaxsiy kalit d=31.",
+    "correct": "A"
+  },
+  {
+    "id": 374,
+    "question": "RSA algoritmi uchun p=13, q=17, e=5 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=221, e=5); Shaxsiy kalit d=77.",
+    "answer_b": "Ochiq kalit (n=221, e=5); Shaxsiy kalit d=93.",
+    "answer_c": "Ochiq kalit (n=221, e=5); Shaxsiy kalit d=121.",
+    "answer_d": "Ochiq kalit (n=192, e=5); Shaxsiy kalit d=77.",
+    "correct": "A"
+  },
+  {
+    "id": 375,
+    "question": "RSA algoritmi uchun p=3, q=19, e=5 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=57, e=5); Shaxsiy kalit d=29.",
+    "answer_b": "Ochiq kalit (n=36, e=5); Shaxsiy kalit d=29.",
+    "answer_c": "Ochiq kalit (n=57, e=5); Shaxsiy kalit d=13.",
+    "answer_d": "Ochiq kalit (n=57, e=5); Shaxsiy kalit d=19.",
+    "correct": "A"
+  },
+  {
+    "id": 376,
+    "question": "RSA algoritmi uchun p=11, q=17, e=3 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=187, e=3); Shaxsiy kalit d=107.",
+    "answer_b": "Ochiq kalit (n=187, e=3); Shaxsiy kalit d=93.",
+    "answer_c": "Ochiq kalit (n=160, e=3); Shaxsiy kalit d=107.",
+    "answer_d": "Ochiq kalit (n=187, e=3); Shaxsiy kalit d=113.",
+    "correct": "A"
+  },
+  {
+    "id": 377,
+    "question": "RSA algoritmi uchun p=7, q=17, e=11 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=119, e=11); Shaxsiy kalit d=35",
+    "answer_b": "Ochiq kalit (n=119, e=11); Shaxsiy kalit d=51.",
+    "answer_c": "Ochiq kalit (n=96, e=11); Shaxsiy kalit d=35.",
+    "answer_d": "Ochiq kalit (n=119, e=11); Shaxsiy kalit d=83.",
+    "correct": "A"
+  },
+  {
+    "id": 378,
+    "question": "RSA algoritmi uchun p=5, q=19, e=7 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=95, e=7); Shaxsiy kalit d=31.",
+    "answer_b": "Ochiq kalit (n=95, e=7); Shaxsiy kalit d=23.",
+    "answer_c": "Ochiq kalit (n=72, e=7); Shaxsiy kalit d=31.",
+    "answer_d": "Ochiq kalit (n=95, e=7); Shaxsiy kalit d=47.",
+    "correct": "A"
+  },
+  {
+    "id": 379,
+    "question": "RSA algoritmi uchun p=13, q=19, e=11 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=247, e=11); Shaxsiy kalit d=59.",
+    "answer_b": "Ochiq kalit (n=216, e=11); Shaxsiy kalit d=131.",
+    "answer_c": "Ochiq kalit (n=247, e=11); Shaxsiy kalit d=51.",
+    "answer_d": "Ochiq kalit (n=247, e=11); Shaxsiy kalit d=151.",
+    "correct": "A"
+  },
+  {
+    "id": 380,
+    "question": "RSA algoritmi uchun p=11, q=19, e=13 ga teng bo'lganda, to'g'ri kalitlar juftligini toping?",
+    "answer_a": "Ochiq kalit (n=209, e=13); Shaxsiy kalit d=97.",
+    "answer_b": "Ochiq kalit (n=209, e=13); Shaxsiy kalit d=113.",
+    "answer_c": "Ochiq kalit (n=180, e=13); Shaxsiy kalit d=97.",
+    "answer_d": "Ochiq kalit (n=209, e=13); Shaxsiy kalit d=137.",
+    "correct": "A"
+  }
+]

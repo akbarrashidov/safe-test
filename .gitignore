@@ -1,0 +1,22 @@
+# ===== Katta lokal narsalar — repoga kirmaydi =====
+.venv/
+tools/
+android/
+.idea/
+.claude/
+
+# ===== Maxfiy =====
+backend/.env
+*.keystore
+keystore.properties
+
+# ===== Hosil bo'ladigan =====
+__pycache__/
+*.pyc
+backend/staticfiles/
+backend/media/
+
+# ===== Manba hujjatlar (savollar) =====
+*.docx
+# test.json faqat backend/ ichida versiyalanadi (docker image'ga kiradi)
+/test.json
