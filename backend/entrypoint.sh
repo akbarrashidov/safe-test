@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
 set -e
 
-echo "==> PostgreSQL kutilmoqda ($POSTGRES_HOST:$POSTGRES_PORT)..."
-until nc -z "$POSTGRES_HOST" "$POSTGRES_PORT"; do
-  sleep 1
-done
-echo "==> PostgreSQL tayyor."
+# Docker compose rejimida db tayyor bo'lishini kutamiz.
+# Render/Heroku (DATABASE_URL) rejimida bu shart emas — o'tkazib yuboriladi.
+if [ -z "${DATABASE_URL:-}" ] && [ -n "${POSTGRES_HOST:-}" ]; then
+  echo "==> PostgreSQL kutilmoqda ($POSTGRES_HOST:$POSTGRES_PORT)..."
+  until nc -z "$POSTGRES_HOST" "$POSTGRES_PORT"; do
+    sleep 1
+  done
+  echo "==> PostgreSQL tayyor."
+fi
 
 echo "==> Migratsiyalar..."
 python manage.py migrate --noinput
@@ -38,10 +42,12 @@ else:
 PYEOF
 fi
 
-echo "==> Gunicorn ishga tushmoqda..."
+# PORT — Render kabi platformalar beradi; docker compose'da 8000.
+# WEB_CONCURRENCY — Render CPU bo'yicha beradi; default 3.
+echo "==> Gunicorn ishga tushmoqda (port ${PORT:-8000})..."
 exec gunicorn config.wsgi:application \
-    --bind 0.0.0.0:8000 \
-    --workers 3 \
+    --bind 0.0.0.0:"${PORT:-8000}" \
+    --workers "${WEB_CONCURRENCY:-3}" \
     --timeout 120 \
     --access-logfile - \
     --error-logfile -

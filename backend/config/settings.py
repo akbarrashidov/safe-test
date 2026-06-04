@@ -58,6 +58,8 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
     "django.middleware.security.SecurityMiddleware",
+    # Statik fayllar nginx'siz muhitlarda (Render) ham ishlashi uchun
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -90,16 +92,23 @@ WSGI_APPLICATION = "config.wsgi.application"
 ASGI_APPLICATION = "config.asgi.application"
 
 # ===== Ma'lumotlar bazasi =====
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.postgresql",
-        "NAME": os.environ.get("POSTGRES_DB", "securetest"),
-        "USER": os.environ.get("POSTGRES_USER", "securetest"),
-        "PASSWORD": os.environ.get("POSTGRES_PASSWORD", "securetest"),
-        "HOST": os.environ.get("POSTGRES_HOST", "localhost"),
-        "PORT": os.environ.get("POSTGRES_PORT", "5432"),
+# Render/Heroku kabi platformalar DATABASE_URL beradi; bo'lmasa POSTGRES_* (docker compose).
+_DATABASE_URL = os.environ.get("DATABASE_URL")
+if _DATABASE_URL:
+    import dj_database_url
+
+    DATABASES = {"default": dj_database_url.parse(_DATABASE_URL, conn_max_age=600)}
+else:
+    DATABASES = {
+        "default": {
+            "ENGINE": "django.db.backends.postgresql",
+            "NAME": os.environ.get("POSTGRES_DB", "securetest"),
+            "USER": os.environ.get("POSTGRES_USER", "securetest"),
+            "PASSWORD": os.environ.get("POSTGRES_PASSWORD", "securetest"),
+            "HOST": os.environ.get("POSTGRES_HOST", "localhost"),
+            "PORT": os.environ.get("POSTGRES_PORT", "5432"),
+        }
     }
-}
 
 # ===== Redis (sessiya + nonce) =====
 REDIS_URL = os.environ.get("REDIS_URL", "redis://localhost:6379/0")
@@ -129,6 +138,10 @@ USE_TZ = True
 
 STATIC_URL = "/static/"
 STATIC_ROOT = BASE_DIR / "staticfiles"
+STORAGES = {
+    "default": {"BACKEND": "django.core.files.storage.FileSystemStorage"},
+    "staticfiles": {"BACKEND": "whitenoise.storage.CompressedStaticFilesStorage"},
+}
 MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "media"
 
